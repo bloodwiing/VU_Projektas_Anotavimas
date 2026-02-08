@@ -1,0 +1,21 @@
+<BEGINproto_config_file>
+
+<COMMENT>
+   This PCF produces a single mixture, single stream prototype system
+
+<BEGINsys_setup>
+
+hsKind: P
+covKind: D
+nStates: 3
+nStreams: 1
+sWidths: 39
+mixes: 1
+parmKind: MFCC_D_A_0
+vecSize: 39
+outDir: ./hmms/proto
+hmmList: ./context/mono/list
+
+<ENDsys_setup>
+
+<ENDproto_config_file>

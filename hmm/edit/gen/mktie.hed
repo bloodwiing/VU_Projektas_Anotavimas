@@ -1,0 +1,457 @@
+RO 100.0 "hmms/tri/3/stats"
+TR 0
+
+QS "L_Vowel" {a-*,Aa-*,aA-*,aa-*,A-*,e-*,eA-*,eE-*,ea-*,ee-*,Ea-*,Ee-*,E-*,i-*,iE-*,iI-*,ie-*,ii-*,Ie-*,Ii-*,I-*,o-*,oO-*,oo-*,Oo-*,O-*,u-*,uO-*,uU-*,uo-*,uu-*,Uo-*,Uu-*,U-*}
+QS "R_Vowel" {*+a,*+Aa,*+aA,*+aa,*+A,*+e,*+eA,*+eE,*+ea,*+ee,*+Ea,*+Ee,*+E,*+i,*+iE,*+iI,*+ie,*+ii,*+Ie,*+Ii,*+I,*+o,*+oO,*+oo,*+Oo,*+O,*+u,*+uO,*+uU,*+uo,*+uu,*+Uo,*+Uu,*+U}
+
+QS "L_Consonant" {L-*,L_pal-*,M-*,M_pal-*,N-*,N_pal-*,R-*,R_pal-*,S-*,S_pal-*,Z-*,Z_pal-*,b-*,b_pal-*,d-*,dZ-*,dZ_pal-*,d_pal-*,dz-*,dz_pal-*,f-*,f_pal-*,g-*,g_pal-*,h-*,h_pal-*,j_pal-*,k-*,k_pal-*,l-*,l_pal-*,m-*,m_pal-*,n-*,n_pal-*,p-*,p_pal-*,r-*,r_pal-*,s-*,s_pal-*,t-*,tS-*,tS_pal-*,t_pal-*,ts-*,ts_pal-*,v-*,v_pal-*,x-*,x_pal-*,z-*,z_pal-*}
+QS "R_Consonant" {*+L,*+L_pal,*+M,*+M_pal,*+N,*+N_pal,*+R,*+R_pal,*+S,*+S_pal,*+Z,*+Z_pal,*+b,*+b_pal,*+d,*+dZ,*+dZ_pal,*+d_pal,*+dz,*+dz_pal,*+f,*+f_pal,*+g,*+g_pal,*+h,*+h_pal,*+j_pal,*+k,*+k_pal,*+l,*+l_pal,*+m,*+m_pal,*+n,*+n_pal,*+p,*+p_pal,*+r,*+r_pal,*+s,*+s_pal,*+t,*+tS,*+tS_pal,*+t_pal,*+ts,*+ts_pal,*+v,*+v_pal,*+x,*+x_pal,*+z,*+z_pal}
+
+QS "L_V_a" {a-*,Aa-*,aA-*,aa-*,A-*}
+QS "R_V_a" {*+a,*+Aa,*+aA,*+aa,*+A}
+
+QS "L_V_e" {e-*,eA-*,eE-*,ea-*,ee-*,Ea-*,Ee-*,E-*}
+QS "R_V_e" {*+e,*+eA,*+eE,*+ea,*+ee,*+Ea,*+Ee,*+E}
+
+QS "L_V_i" {i-*,iE-*,iI-*,ie-*,ii-*,Ie-*,Ii-*,I-*}
+QS "R_V_i" {*+i,*+iE,*+iI,*+ie,*+ii,*+Ie,*+Ii,*+I}
+
+QS "L_V_o" {o-*,oO-*,oo-*,Oo-*,O-*}
+QS "R_V_o" {*+o,*+oO,*+oo,*+Oo,*+O}
+
+QS "L_V_u" {u-*,uO-*,uU-*,uo-*,uu-*,Uo-*,Uu-*,U-*}
+QS "R_V_u" {*+u,*+uO,*+uU,*+uo,*+uu,*+Uo,*+Uu,*+U}
+
+QS "L_L_Family" {L-*,L_pal-*}
+QS "R_L_Family" {*+L,*+L_pal}
+
+QS "L_M_Family" {M-*,M_pal-*}
+QS "R_M_Family" {*+M,*+M_pal}
+
+QS "L_N_Family" {N-*,N_pal-*}
+QS "R_N_Family" {*+N,*+N_pal}
+
+QS "L_R_Family" {R-*,R_pal-*}
+QS "R_R_Family" {*+R,*+R_pal}
+
+QS "L_S_Family" {S-*,S_pal-*}
+QS "R_S_Family" {*+S,*+S_pal}
+
+QS "L_Z_Family" {Z-*,Z_pal-*}
+QS "R_Z_Family" {*+Z,*+Z_pal}
+
+QS "L_b_Family" {b-*,b_pal-*}
+QS "R_b_Family" {*+b,*+b_pal}
+
+QS "L_d_Family" {d-*,d_pal-*}
+QS "R_d_Family" {*+d,*+d_pal}
+
+QS "L_dZ_Family" {dZ-*,dZ_pal-*}
+QS "R_dZ_Family" {*+dZ,*+dZ_pal}
+
+QS "L_dz_Family" {dz-*,dz_pal-*}
+QS "R_dz_Family" {*+dz,*+dz_pal}
+
+QS "L_f_Family" {f-*,f_pal-*}
+QS "R_f_Family" {*+f,*+f_pal}
+
+QS "L_g_Family" {g-*,g_pal-*}
+QS "R_g_Family" {*+g,*+g_pal}
+
+QS "L_h_Family" {h-*,h_pal-*}
+QS "R_h_Family" {*+h,*+h_pal}
+
+QS "L_k_Family" {k-*,k_pal-*}
+QS "R_k_Family" {*+k,*+k_pal}
+
+QS "L_l_Family" {l-*,l_pal-*}
+QS "R_l_Family" {*+l,*+l_pal}
+
+QS "L_m_Family" {m-*,m_pal-*}
+QS "R_m_Family" {*+m,*+m_pal}
+
+QS "L_n_Family" {n-*,n_pal-*}
+QS "R_n_Family" {*+n,*+n_pal}
+
+QS "L_p_Family" {p-*,p_pal-*}
+QS "R_p_Family" {*+p,*+p_pal}
+
+QS "L_r_Family" {r-*,r_pal-*}
+QS "R_r_Family" {*+r,*+r_pal}
+
+QS "L_s_Family" {s-*,s_pal-*}
+QS "R_s_Family" {*+s,*+s_pal}
+
+QS "L_t_Family" {t-*,t_pal-*}
+QS "R_t_Family" {*+t,*+t_pal}
+
+QS "L_tS_Family" {tS-*,tS_pal-*}
+QS "R_tS_Family" {*+tS,*+tS_pal}
+
+QS "L_ts_Family" {ts-*,ts_pal-*}
+QS "R_ts_Family" {*+ts,*+ts_pal}
+
+QS "L_v_Family" {v-*,v_pal-*}
+QS "R_v_Family" {*+v,*+v_pal}
+
+QS "L_x_Family" {x-*,x_pal-*}
+QS "R_x_Family" {*+x,*+x_pal}
+
+QS "L_z_Family" {z-*,z_pal-*}
+QS "R_z_Family" {*+z,*+z_pal}
+
+QS "L_ShortUnstressed" {a-*,e-*,i-*,o-*,u-*}
+QS "R_ShortUnstressed" {*+a,*+e,*+i,*+o,*+u}
+
+QS "L_ShortStressed" {A-*,E-*,I-*,O-*,U-*}
+QS "R_ShortStressed" {*+A,*+E,*+I,*+O,*+U}
+
+QS "L_LongUnstressed" {aa-*,ea-*,ee-*,ie-*,ii-*,oo-*,uo-*,uu-*}
+QS "R_LongUnstressed" {*+aa,*+ea,*+ee,*+ie,*+ii,*+oo,*+uo,*+uu}
+
+QS "L_StressedFalling" {Aa-*,Ea-*,Ee-*,Ie-*,Ii-*,Oo-*,Uo-*,Uu-*}
+QS "R_StressedFalling" {*+Aa,*+Ea,*+Ee,*+Ie,*+Ii,*+Oo,*+Uo,*+Uu}
+
+QS "L_StressedRising" {aA-*,eA-*,eE-*,iE-*,iI-*,oO-*,uO-*,uU-*}
+QS "R_StressedRising" {*+aA,*+eA,*+eE,*+iE,*+iI,*+oO,*+uO,*+uU}
+
+QS "L_Palatalised" {L_pal-*,M_pal-*,N_pal-*,R_pal-*,S_pal-*,Z_pal-*,b_pal-*,dZ_pal-*,d_pal-*,dz_pal-*,f_pal-*,g_pal-*,h_pal-*,j_pal-*,k_pal-*,l_pal-*,m_pal-*,n_pal-*,p_pal-*,r_pal-*,s_pal-*,tS_pal-*,t_pal-*,ts_pal-*,v_pal-*,x_pal-*,z_pal-*}
+QS "R_Palatalised" {*+L_pal,*+M_pal,*+N_pal,*+R_pal,*+S_pal,*+Z_pal,*+b_pal,*+dZ_pal,*+d_pal,*+dz_pal,*+f_pal,*+g_pal,*+h_pal,*+j_pal,*+k_pal,*+l_pal,*+m_pal,*+n_pal,*+p_pal,*+r_pal,*+s_pal,*+tS_pal,*+t_pal,*+ts_pal,*+v_pal,*+x_pal,*+z_pal}
+
+
+QS "L_Sonorant" {j-*,j_pal-*,l-*,l_pal-*,m-*,m_pal-*,n-*,n_pal-*,r-*,r_pal-*,v-*,v_pal-*}
+QS "R_Sonorant" {*+j,*+j_pal,*+l,*+l_pal,*+m,*+m_pal,*+n,*+n_pal,*+r,*+r_pal,*+v,*+v_pal}
+
+
+QS "L_Fricative" {s-*,s_pal-*,S-*,S_pal-*,z-*,z_pal-*,Z-*,Z_pal-*,f-*,f_pal-*,h-*,h_pal-*,x-*,x_pal-*}
+QS "R_Fricative" {*+s,*+s_pal,*+S,*+S_pal,*+z,*+z_pal,*+Z,*+Z_pal,*+f,*+f_pal,*+h,*+h_pal,*+x,*+x_pal}
+
+
+QS "L_Affricates" {ts-*,ts_pal-*,tS-*,tS_pal-*,dz-*,dz_pal-*,dZ-*,dZ_pal-*}
+QS "R_Affricates" {*+ts,*+ts_pal,*+tS,*+tS_pal,*+dz,*+dz_pal,*+dZ,*+dZ_pal}
+
+
+QS "L_Labial" {p-*,p_pal-*,b-*,b_pal-*,m-*,m_pal-*,v-*,v_pal-*,f-*,f_pal-*}
+QS "R_Labial" {*+p,*+p_pal,*+b,*+b_pal,*+m,*+m_pal,*+v,*+v_pal,*+f,*+f_pal}
+
+
+QS "L_Apical" {t-*,t_pal-*,d-*,d_pal-*,n-*,n_pal-*,l-*,l_pal-*,r-*,r_pal-*}
+QS "R_Apical" {*+t,*+t_pal,*+d,*+d_pal,*+n,*+n_pal,*+l,*+l_pal,*+r,*+r_pal}
+
+
+QS "L_Silibant" {s-*,s_pal-*,z-*,z_pal-*}
+QS "R_Silibant" {*+s,*+s_pal,*+z,*+z_pal}
+
+
+QS "L_Voiced" {g-*,g_pal-*,d-*,d_pal-*,b-*,b_pal-*,dz-*,dz_pal-*,dZ-*,dZ_pal-*,z-*,z_pal-*,Z-*,Z_pal-*,m-*,m_pal-*,n-*,n_pal-*,l-*,l_pal-*,r-*,r_pal-*,j-*,j_pal-*}
+QS "R_Voiced" {*+g,*+g_pal,*+d,*+d_pal,*+b,*+b_pal,*+dz,*+dz_pal,*+dZ,*+dZ_pal,*+z,*+z_pal,*+Z,*+Z_pal,*+m,*+m_pal,*+n,*+n_pal,*+l,*+l_pal,*+r,*+r_pal,*+j,*+j_pal}
+
+QS "L_NonVoiced" {k-*,k_pal-*,t-*,t_pal-*,p-*,p_pal-*,ts-*,ts_pal-*,tS-*,tS_pal-*,s-*,s_pal-*,S-*,S_pal-*,f-*,f_pal-*,h-*,h_pal-*,x-*,x_pal-*}
+QS "R_NonVoiced" {*+k,*+k_pal,*+t,*+t_pal,*+p,*+p_pal,*+ts,*+ts_pal,*+tS,*+tS_pal,*+s,*+s_pal,*+S,*+S_pal,*+f,*+f_pal,*+h,*+h_pal,*+x,*+x_pal}
+
+QS "L_Diphthong" {j-*,J-*,w-*,W-*}
+QS "R_Diphthong" {*+j,*+J,*+w,*+W}
+
+QS "L_StressedMixedDiphthong" {L-*,L_pal-*,M-*,M_pal-*,N-*,N_pal-*,R-*,R_pal-*}
+QS "R_StressedMixedDiphthong" {*+L,*+L_pal,*+M,*+M_pal,*+N,*+N_pal,*+R,*+R_pal}
+
+QS "L_StressedDiphthong" {J-*,W-*}
+QS "R_StressedDiphthong" {*+J,*+W}
+
+QS "L_Silence" {sil-*}
+QS "R_Silence" {*+sil}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TR 2
+TB 350.0 "A_s2" {("A","*-A+*","A+*","*-A").state[2]}
+TB 350.0 "A_s3" {("A","*-A+*","A+*","*-A").state[3]}
+TB 350.0 "A_s4" {("A","*-A+*","A+*","*-A").state[4]}
+TB 350.0 "Aa_s2" {("Aa","*-Aa+*","Aa+*","*-Aa").state[2]}
+TB 350.0 "Aa_s3" {("Aa","*-Aa+*","Aa+*","*-Aa").state[3]}
+TB 350.0 "Aa_s4" {("Aa","*-Aa+*","Aa+*","*-Aa").state[4]}
+TB 350.0 "E_s2" {("E","*-E+*","E+*","*-E").state[2]}
+TB 350.0 "E_s3" {("E","*-E+*","E+*","*-E").state[3]}
+TB 350.0 "E_s4" {("E","*-E+*","E+*","*-E").state[4]}
+TB 350.0 "Ea_s2" {("Ea","*-Ea+*","Ea+*","*-Ea").state[2]}
+TB 350.0 "Ea_s3" {("Ea","*-Ea+*","Ea+*","*-Ea").state[3]}
+TB 350.0 "Ea_s4" {("Ea","*-Ea+*","Ea+*","*-Ea").state[4]}
+TB 350.0 "Ee_s2" {("Ee","*-Ee+*","Ee+*","*-Ee").state[2]}
+TB 350.0 "Ee_s3" {("Ee","*-Ee+*","Ee+*","*-Ee").state[3]}
+TB 350.0 "Ee_s4" {("Ee","*-Ee+*","Ee+*","*-Ee").state[4]}
+TB 350.0 "I_s2" {("I","*-I+*","I+*","*-I").state[2]}
+TB 350.0 "I_s3" {("I","*-I+*","I+*","*-I").state[3]}
+TB 350.0 "I_s4" {("I","*-I+*","I+*","*-I").state[4]}
+TB 350.0 "Ie_s2" {("Ie","*-Ie+*","Ie+*","*-Ie").state[2]}
+TB 350.0 "Ie_s3" {("Ie","*-Ie+*","Ie+*","*-Ie").state[3]}
+TB 350.0 "Ie_s4" {("Ie","*-Ie+*","Ie+*","*-Ie").state[4]}
+TB 350.0 "Ii_s2" {("Ii","*-Ii+*","Ii+*","*-Ii").state[2]}
+TB 350.0 "Ii_s3" {("Ii","*-Ii+*","Ii+*","*-Ii").state[3]}
+TB 350.0 "Ii_s4" {("Ii","*-Ii+*","Ii+*","*-Ii").state[4]}
+TB 350.0 "J_s2" {("J","*-J+*","J+*","*-J").state[2]}
+TB 350.0 "J_s3" {("J","*-J+*","J+*","*-J").state[3]}
+TB 350.0 "J_s4" {("J","*-J+*","J+*","*-J").state[4]}
+TB 350.0 "L_s2" {("L","*-L+*","L+*","*-L").state[2]}
+TB 350.0 "L_s3" {("L","*-L+*","L+*","*-L").state[3]}
+TB 350.0 "L_s4" {("L","*-L+*","L+*","*-L").state[4]}
+TB 350.0 "L_pal_s2" {("L_pal","*-L_pal+*","L_pal+*","*-L_pal").state[2]}
+TB 350.0 "L_pal_s3" {("L_pal","*-L_pal+*","L_pal+*","*-L_pal").state[3]}
+TB 350.0 "L_pal_s4" {("L_pal","*-L_pal+*","L_pal+*","*-L_pal").state[4]}
+TB 350.0 "M_s2" {("M","*-M+*","M+*","*-M").state[2]}
+TB 350.0 "M_s3" {("M","*-M+*","M+*","*-M").state[3]}
+TB 350.0 "M_s4" {("M","*-M+*","M+*","*-M").state[4]}
+TB 350.0 "M_pal_s2" {("M_pal","*-M_pal+*","M_pal+*","*-M_pal").state[2]}
+TB 350.0 "M_pal_s3" {("M_pal","*-M_pal+*","M_pal+*","*-M_pal").state[3]}
+TB 350.0 "M_pal_s4" {("M_pal","*-M_pal+*","M_pal+*","*-M_pal").state[4]}
+TB 350.0 "N_s2" {("N","*-N+*","N+*","*-N").state[2]}
+TB 350.0 "N_s3" {("N","*-N+*","N+*","*-N").state[3]}
+TB 350.0 "N_s4" {("N","*-N+*","N+*","*-N").state[4]}
+TB 350.0 "N_pal_s2" {("N_pal","*-N_pal+*","N_pal+*","*-N_pal").state[2]}
+TB 350.0 "N_pal_s3" {("N_pal","*-N_pal+*","N_pal+*","*-N_pal").state[3]}
+TB 350.0 "N_pal_s4" {("N_pal","*-N_pal+*","N_pal+*","*-N_pal").state[4]}
+TB 350.0 "O_s2" {("O","*-O+*","O+*","*-O").state[2]}
+TB 350.0 "O_s3" {("O","*-O+*","O+*","*-O").state[3]}
+TB 350.0 "O_s4" {("O","*-O+*","O+*","*-O").state[4]}
+TB 350.0 "Oo_s2" {("Oo","*-Oo+*","Oo+*","*-Oo").state[2]}
+TB 350.0 "Oo_s3" {("Oo","*-Oo+*","Oo+*","*-Oo").state[3]}
+TB 350.0 "Oo_s4" {("Oo","*-Oo+*","Oo+*","*-Oo").state[4]}
+TB 350.0 "R_s2" {("R","*-R+*","R+*","*-R").state[2]}
+TB 350.0 "R_s3" {("R","*-R+*","R+*","*-R").state[3]}
+TB 350.0 "R_s4" {("R","*-R+*","R+*","*-R").state[4]}
+TB 350.0 "R_pal_s2" {("R_pal","*-R_pal+*","R_pal+*","*-R_pal").state[2]}
+TB 350.0 "R_pal_s3" {("R_pal","*-R_pal+*","R_pal+*","*-R_pal").state[3]}
+TB 350.0 "R_pal_s4" {("R_pal","*-R_pal+*","R_pal+*","*-R_pal").state[4]}
+TB 350.0 "S_s2" {("S","*-S+*","S+*","*-S").state[2]}
+TB 350.0 "S_s3" {("S","*-S+*","S+*","*-S").state[3]}
+TB 350.0 "S_s4" {("S","*-S+*","S+*","*-S").state[4]}
+TB 350.0 "S_pal_s2" {("S_pal","*-S_pal+*","S_pal+*","*-S_pal").state[2]}
+TB 350.0 "S_pal_s3" {("S_pal","*-S_pal+*","S_pal+*","*-S_pal").state[3]}
+TB 350.0 "S_pal_s4" {("S_pal","*-S_pal+*","S_pal+*","*-S_pal").state[4]}
+TB 350.0 "U_s2" {("U","*-U+*","U+*","*-U").state[2]}
+TB 350.0 "U_s3" {("U","*-U+*","U+*","*-U").state[3]}
+TB 350.0 "U_s4" {("U","*-U+*","U+*","*-U").state[4]}
+TB 350.0 "Uo_s2" {("Uo","*-Uo+*","Uo+*","*-Uo").state[2]}
+TB 350.0 "Uo_s3" {("Uo","*-Uo+*","Uo+*","*-Uo").state[3]}
+TB 350.0 "Uo_s4" {("Uo","*-Uo+*","Uo+*","*-Uo").state[4]}
+TB 350.0 "Uu_s2" {("Uu","*-Uu+*","Uu+*","*-Uu").state[2]}
+TB 350.0 "Uu_s3" {("Uu","*-Uu+*","Uu+*","*-Uu").state[3]}
+TB 350.0 "Uu_s4" {("Uu","*-Uu+*","Uu+*","*-Uu").state[4]}
+TB 350.0 "W_s2" {("W","*-W+*","W+*","*-W").state[2]}
+TB 350.0 "W_s3" {("W","*-W+*","W+*","*-W").state[3]}
+TB 350.0 "W_s4" {("W","*-W+*","W+*","*-W").state[4]}
+TB 350.0 "Z_s2" {("Z","*-Z+*","Z+*","*-Z").state[2]}
+TB 350.0 "Z_s3" {("Z","*-Z+*","Z+*","*-Z").state[3]}
+TB 350.0 "Z_s4" {("Z","*-Z+*","Z+*","*-Z").state[4]}
+TB 350.0 "Z_pal_s2" {("Z_pal","*-Z_pal+*","Z_pal+*","*-Z_pal").state[2]}
+TB 350.0 "Z_pal_s3" {("Z_pal","*-Z_pal+*","Z_pal+*","*-Z_pal").state[3]}
+TB 350.0 "Z_pal_s4" {("Z_pal","*-Z_pal+*","Z_pal+*","*-Z_pal").state[4]}
+TB 350.0 "a_s2" {("a","*-a+*","a+*","*-a").state[2]}
+TB 350.0 "a_s3" {("a","*-a+*","a+*","*-a").state[3]}
+TB 350.0 "a_s4" {("a","*-a+*","a+*","*-a").state[4]}
+TB 350.0 "aA_s2" {("aA","*-aA+*","aA+*","*-aA").state[2]}
+TB 350.0 "aA_s3" {("aA","*-aA+*","aA+*","*-aA").state[3]}
+TB 350.0 "aA_s4" {("aA","*-aA+*","aA+*","*-aA").state[4]}
+TB 350.0 "aa_s2" {("aa","*-aa+*","aa+*","*-aa").state[2]}
+TB 350.0 "aa_s3" {("aa","*-aa+*","aa+*","*-aa").state[3]}
+TB 350.0 "aa_s4" {("aa","*-aa+*","aa+*","*-aa").state[4]}
+TB 350.0 "b_s2" {("b","*-b+*","b+*","*-b").state[2]}
+TB 350.0 "b_s3" {("b","*-b+*","b+*","*-b").state[3]}
+TB 350.0 "b_s4" {("b","*-b+*","b+*","*-b").state[4]}
+TB 350.0 "b_pal_s2" {("b_pal","*-b_pal+*","b_pal+*","*-b_pal").state[2]}
+TB 350.0 "b_pal_s3" {("b_pal","*-b_pal+*","b_pal+*","*-b_pal").state[3]}
+TB 350.0 "b_pal_s4" {("b_pal","*-b_pal+*","b_pal+*","*-b_pal").state[4]}
+TB 350.0 "d_s2" {("d","*-d+*","d+*","*-d").state[2]}
+TB 350.0 "d_s3" {("d","*-d+*","d+*","*-d").state[3]}
+TB 350.0 "d_s4" {("d","*-d+*","d+*","*-d").state[4]}
+TB 350.0 "dZ_s2" {("dZ","*-dZ+*","dZ+*","*-dZ").state[2]}
+TB 350.0 "dZ_s3" {("dZ","*-dZ+*","dZ+*","*-dZ").state[3]}
+TB 350.0 "dZ_s4" {("dZ","*-dZ+*","dZ+*","*-dZ").state[4]}
+TB 350.0 "dZ_pal_s2" {("dZ_pal","*-dZ_pal+*","dZ_pal+*","*-dZ_pal").state[2]}
+TB 350.0 "dZ_pal_s3" {("dZ_pal","*-dZ_pal+*","dZ_pal+*","*-dZ_pal").state[3]}
+TB 350.0 "dZ_pal_s4" {("dZ_pal","*-dZ_pal+*","dZ_pal+*","*-dZ_pal").state[4]}
+TB 350.0 "d_pal_s2" {("d_pal","*-d_pal+*","d_pal+*","*-d_pal").state[2]}
+TB 350.0 "d_pal_s3" {("d_pal","*-d_pal+*","d_pal+*","*-d_pal").state[3]}
+TB 350.0 "d_pal_s4" {("d_pal","*-d_pal+*","d_pal+*","*-d_pal").state[4]}
+TB 350.0 "dz_s2" {("dz","*-dz+*","dz+*","*-dz").state[2]}
+TB 350.0 "dz_s3" {("dz","*-dz+*","dz+*","*-dz").state[3]}
+TB 350.0 "dz_s4" {("dz","*-dz+*","dz+*","*-dz").state[4]}
+TB 350.0 "dz_pal_s2" {("dz_pal","*-dz_pal+*","dz_pal+*","*-dz_pal").state[2]}
+TB 350.0 "dz_pal_s3" {("dz_pal","*-dz_pal+*","dz_pal+*","*-dz_pal").state[3]}
+TB 350.0 "dz_pal_s4" {("dz_pal","*-dz_pal+*","dz_pal+*","*-dz_pal").state[4]}
+TB 350.0 "e_s2" {("e","*-e+*","e+*","*-e").state[2]}
+TB 350.0 "e_s3" {("e","*-e+*","e+*","*-e").state[3]}
+TB 350.0 "e_s4" {("e","*-e+*","e+*","*-e").state[4]}
+TB 350.0 "eA_s2" {("eA","*-eA+*","eA+*","*-eA").state[2]}
+TB 350.0 "eA_s3" {("eA","*-eA+*","eA+*","*-eA").state[3]}
+TB 350.0 "eA_s4" {("eA","*-eA+*","eA+*","*-eA").state[4]}
+TB 350.0 "eE_s2" {("eE","*-eE+*","eE+*","*-eE").state[2]}
+TB 350.0 "eE_s3" {("eE","*-eE+*","eE+*","*-eE").state[3]}
+TB 350.0 "eE_s4" {("eE","*-eE+*","eE+*","*-eE").state[4]}
+TB 350.0 "ea_s2" {("ea","*-ea+*","ea+*","*-ea").state[2]}
+TB 350.0 "ea_s3" {("ea","*-ea+*","ea+*","*-ea").state[3]}
+TB 350.0 "ea_s4" {("ea","*-ea+*","ea+*","*-ea").state[4]}
+TB 350.0 "ee_s2" {("ee","*-ee+*","ee+*","*-ee").state[2]}
+TB 350.0 "ee_s3" {("ee","*-ee+*","ee+*","*-ee").state[3]}
+TB 350.0 "ee_s4" {("ee","*-ee+*","ee+*","*-ee").state[4]}
+TB 350.0 "f_s2" {("f","*-f+*","f+*","*-f").state[2]}
+TB 350.0 "f_s3" {("f","*-f+*","f+*","*-f").state[3]}
+TB 350.0 "f_s4" {("f","*-f+*","f+*","*-f").state[4]}
+TB 350.0 "f_pal_s2" {("f_pal","*-f_pal+*","f_pal+*","*-f_pal").state[2]}
+TB 350.0 "f_pal_s3" {("f_pal","*-f_pal+*","f_pal+*","*-f_pal").state[3]}
+TB 350.0 "f_pal_s4" {("f_pal","*-f_pal+*","f_pal+*","*-f_pal").state[4]}
+TB 350.0 "g_s2" {("g","*-g+*","g+*","*-g").state[2]}
+TB 350.0 "g_s3" {("g","*-g+*","g+*","*-g").state[3]}
+TB 350.0 "g_s4" {("g","*-g+*","g+*","*-g").state[4]}
+TB 350.0 "g_pal_s2" {("g_pal","*-g_pal+*","g_pal+*","*-g_pal").state[2]}
+TB 350.0 "g_pal_s3" {("g_pal","*-g_pal+*","g_pal+*","*-g_pal").state[3]}
+TB 350.0 "g_pal_s4" {("g_pal","*-g_pal+*","g_pal+*","*-g_pal").state[4]}
+TB 350.0 "h_s2" {("h","*-h+*","h+*","*-h").state[2]}
+TB 350.0 "h_s3" {("h","*-h+*","h+*","*-h").state[3]}
+TB 350.0 "h_s4" {("h","*-h+*","h+*","*-h").state[4]}
+TB 350.0 "h_pal_s2" {("h_pal","*-h_pal+*","h_pal+*","*-h_pal").state[2]}
+TB 350.0 "h_pal_s3" {("h_pal","*-h_pal+*","h_pal+*","*-h_pal").state[3]}
+TB 350.0 "h_pal_s4" {("h_pal","*-h_pal+*","h_pal+*","*-h_pal").state[4]}
+TB 350.0 "i_s2" {("i","*-i+*","i+*","*-i").state[2]}
+TB 350.0 "i_s3" {("i","*-i+*","i+*","*-i").state[3]}
+TB 350.0 "i_s4" {("i","*-i+*","i+*","*-i").state[4]}
+TB 350.0 "iE_s2" {("iE","*-iE+*","iE+*","*-iE").state[2]}
+TB 350.0 "iE_s3" {("iE","*-iE+*","iE+*","*-iE").state[3]}
+TB 350.0 "iE_s4" {("iE","*-iE+*","iE+*","*-iE").state[4]}
+TB 350.0 "iI_s2" {("iI","*-iI+*","iI+*","*-iI").state[2]}
+TB 350.0 "iI_s3" {("iI","*-iI+*","iI+*","*-iI").state[3]}
+TB 350.0 "iI_s4" {("iI","*-iI+*","iI+*","*-iI").state[4]}
+TB 350.0 "ie_s2" {("ie","*-ie+*","ie+*","*-ie").state[2]}
+TB 350.0 "ie_s3" {("ie","*-ie+*","ie+*","*-ie").state[3]}
+TB 350.0 "ie_s4" {("ie","*-ie+*","ie+*","*-ie").state[4]}
+TB 350.0 "ii_s2" {("ii","*-ii+*","ii+*","*-ii").state[2]}
+TB 350.0 "ii_s3" {("ii","*-ii+*","ii+*","*-ii").state[3]}
+TB 350.0 "ii_s4" {("ii","*-ii+*","ii+*","*-ii").state[4]}
+TB 350.0 "j_s2" {("j","*-j+*","j+*","*-j").state[2]}
+TB 350.0 "j_s3" {("j","*-j+*","j+*","*-j").state[3]}
+TB 350.0 "j_s4" {("j","*-j+*","j+*","*-j").state[4]}
+TB 350.0 "j_pal_s2" {("j_pal","*-j_pal+*","j_pal+*","*-j_pal").state[2]}
+TB 350.0 "j_pal_s3" {("j_pal","*-j_pal+*","j_pal+*","*-j_pal").state[3]}
+TB 350.0 "j_pal_s4" {("j_pal","*-j_pal+*","j_pal+*","*-j_pal").state[4]}
+TB 350.0 "k_s2" {("k","*-k+*","k+*","*-k").state[2]}
+TB 350.0 "k_s3" {("k","*-k+*","k+*","*-k").state[3]}
+TB 350.0 "k_s4" {("k","*-k+*","k+*","*-k").state[4]}
+TB 350.0 "k_pal_s2" {("k_pal","*-k_pal+*","k_pal+*","*-k_pal").state[2]}
+TB 350.0 "k_pal_s3" {("k_pal","*-k_pal+*","k_pal+*","*-k_pal").state[3]}
+TB 350.0 "k_pal_s4" {("k_pal","*-k_pal+*","k_pal+*","*-k_pal").state[4]}
+TB 350.0 "l_s2" {("l","*-l+*","l+*","*-l").state[2]}
+TB 350.0 "l_s3" {("l","*-l+*","l+*","*-l").state[3]}
+TB 350.0 "l_s4" {("l","*-l+*","l+*","*-l").state[4]}
+TB 350.0 "l_pal_s2" {("l_pal","*-l_pal+*","l_pal+*","*-l_pal").state[2]}
+TB 350.0 "l_pal_s3" {("l_pal","*-l_pal+*","l_pal+*","*-l_pal").state[3]}
+TB 350.0 "l_pal_s4" {("l_pal","*-l_pal+*","l_pal+*","*-l_pal").state[4]}
+TB 350.0 "m_s2" {("m","*-m+*","m+*","*-m").state[2]}
+TB 350.0 "m_s3" {("m","*-m+*","m+*","*-m").state[3]}
+TB 350.0 "m_s4" {("m","*-m+*","m+*","*-m").state[4]}
+TB 350.0 "m_pal_s2" {("m_pal","*-m_pal+*","m_pal+*","*-m_pal").state[2]}
+TB 350.0 "m_pal_s3" {("m_pal","*-m_pal+*","m_pal+*","*-m_pal").state[3]}
+TB 350.0 "m_pal_s4" {("m_pal","*-m_pal+*","m_pal+*","*-m_pal").state[4]}
+TB 350.0 "n_s2" {("n","*-n+*","n+*","*-n").state[2]}
+TB 350.0 "n_s3" {("n","*-n+*","n+*","*-n").state[3]}
+TB 350.0 "n_s4" {("n","*-n+*","n+*","*-n").state[4]}
+TB 350.0 "n_pal_s2" {("n_pal","*-n_pal+*","n_pal+*","*-n_pal").state[2]}
+TB 350.0 "n_pal_s3" {("n_pal","*-n_pal+*","n_pal+*","*-n_pal").state[3]}
+TB 350.0 "n_pal_s4" {("n_pal","*-n_pal+*","n_pal+*","*-n_pal").state[4]}
+TB 350.0 "o_s2" {("o","*-o+*","o+*","*-o").state[2]}
+TB 350.0 "o_s3" {("o","*-o+*","o+*","*-o").state[3]}
+TB 350.0 "o_s4" {("o","*-o+*","o+*","*-o").state[4]}
+TB 350.0 "oO_s2" {("oO","*-oO+*","oO+*","*-oO").state[2]}
+TB 350.0 "oO_s3" {("oO","*-oO+*","oO+*","*-oO").state[3]}
+TB 350.0 "oO_s4" {("oO","*-oO+*","oO+*","*-oO").state[4]}
+TB 350.0 "oo_s2" {("oo","*-oo+*","oo+*","*-oo").state[2]}
+TB 350.0 "oo_s3" {("oo","*-oo+*","oo+*","*-oo").state[3]}
+TB 350.0 "oo_s4" {("oo","*-oo+*","oo+*","*-oo").state[4]}
+TB 350.0 "p_s2" {("p","*-p+*","p+*","*-p").state[2]}
+TB 350.0 "p_s3" {("p","*-p+*","p+*","*-p").state[3]}
+TB 350.0 "p_s4" {("p","*-p+*","p+*","*-p").state[4]}
+TB 350.0 "p_pal_s2" {("p_pal","*-p_pal+*","p_pal+*","*-p_pal").state[2]}
+TB 350.0 "p_pal_s3" {("p_pal","*-p_pal+*","p_pal+*","*-p_pal").state[3]}
+TB 350.0 "p_pal_s4" {("p_pal","*-p_pal+*","p_pal+*","*-p_pal").state[4]}
+TB 350.0 "r_s2" {("r","*-r+*","r+*","*-r").state[2]}
+TB 350.0 "r_s3" {("r","*-r+*","r+*","*-r").state[3]}
+TB 350.0 "r_s4" {("r","*-r+*","r+*","*-r").state[4]}
+TB 350.0 "r_pal_s2" {("r_pal","*-r_pal+*","r_pal+*","*-r_pal").state[2]}
+TB 350.0 "r_pal_s3" {("r_pal","*-r_pal+*","r_pal+*","*-r_pal").state[3]}
+TB 350.0 "r_pal_s4" {("r_pal","*-r_pal+*","r_pal+*","*-r_pal").state[4]}
+TB 350.0 "s_s2" {("s","*-s+*","s+*","*-s").state[2]}
+TB 350.0 "s_s3" {("s","*-s+*","s+*","*-s").state[3]}
+TB 350.0 "s_s4" {("s","*-s+*","s+*","*-s").state[4]}
+TB 350.0 "s_pal_s2" {("s_pal","*-s_pal+*","s_pal+*","*-s_pal").state[2]}
+TB 350.0 "s_pal_s3" {("s_pal","*-s_pal+*","s_pal+*","*-s_pal").state[3]}
+TB 350.0 "s_pal_s4" {("s_pal","*-s_pal+*","s_pal+*","*-s_pal").state[4]}
+TB 350.0 "t_s2" {("t","*-t+*","t+*","*-t").state[2]}
+TB 350.0 "t_s3" {("t","*-t+*","t+*","*-t").state[3]}
+TB 350.0 "t_s4" {("t","*-t+*","t+*","*-t").state[4]}
+TB 350.0 "tS_s2" {("tS","*-tS+*","tS+*","*-tS").state[2]}
+TB 350.0 "tS_s3" {("tS","*-tS+*","tS+*","*-tS").state[3]}
+TB 350.0 "tS_s4" {("tS","*-tS+*","tS+*","*-tS").state[4]}
+TB 350.0 "tS_pal_s2" {("tS_pal","*-tS_pal+*","tS_pal+*","*-tS_pal").state[2]}
+TB 350.0 "tS_pal_s3" {("tS_pal","*-tS_pal+*","tS_pal+*","*-tS_pal").state[3]}
+TB 350.0 "tS_pal_s4" {("tS_pal","*-tS_pal+*","tS_pal+*","*-tS_pal").state[4]}
+TB 350.0 "t_pal_s2" {("t_pal","*-t_pal+*","t_pal+*","*-t_pal").state[2]}
+TB 350.0 "t_pal_s3" {("t_pal","*-t_pal+*","t_pal+*","*-t_pal").state[3]}
+TB 350.0 "t_pal_s4" {("t_pal","*-t_pal+*","t_pal+*","*-t_pal").state[4]}
+TB 350.0 "ts_s2" {("ts","*-ts+*","ts+*","*-ts").state[2]}
+TB 350.0 "ts_s3" {("ts","*-ts+*","ts+*","*-ts").state[3]}
+TB 350.0 "ts_s4" {("ts","*-ts+*","ts+*","*-ts").state[4]}
+TB 350.0 "ts_pal_s2" {("ts_pal","*-ts_pal+*","ts_pal+*","*-ts_pal").state[2]}
+TB 350.0 "ts_pal_s3" {("ts_pal","*-ts_pal+*","ts_pal+*","*-ts_pal").state[3]}
+TB 350.0 "ts_pal_s4" {("ts_pal","*-ts_pal+*","ts_pal+*","*-ts_pal").state[4]}
+TB 350.0 "u_s2" {("u","*-u+*","u+*","*-u").state[2]}
+TB 350.0 "u_s3" {("u","*-u+*","u+*","*-u").state[3]}
+TB 350.0 "u_s4" {("u","*-u+*","u+*","*-u").state[4]}
+TB 350.0 "uO_s2" {("uO","*-uO+*","uO+*","*-uO").state[2]}
+TB 350.0 "uO_s3" {("uO","*-uO+*","uO+*","*-uO").state[3]}
+TB 350.0 "uO_s4" {("uO","*-uO+*","uO+*","*-uO").state[4]}
+TB 350.0 "uU_s2" {("uU","*-uU+*","uU+*","*-uU").state[2]}
+TB 350.0 "uU_s3" {("uU","*-uU+*","uU+*","*-uU").state[3]}
+TB 350.0 "uU_s4" {("uU","*-uU+*","uU+*","*-uU").state[4]}
+TB 350.0 "uo_s2" {("uo","*-uo+*","uo+*","*-uo").state[2]}
+TB 350.0 "uo_s3" {("uo","*-uo+*","uo+*","*-uo").state[3]}
+TB 350.0 "uo_s4" {("uo","*-uo+*","uo+*","*-uo").state[4]}
+TB 350.0 "uu_s2" {("uu","*-uu+*","uu+*","*-uu").state[2]}
+TB 350.0 "uu_s3" {("uu","*-uu+*","uu+*","*-uu").state[3]}
+TB 350.0 "uu_s4" {("uu","*-uu+*","uu+*","*-uu").state[4]}
+TB 350.0 "v_s2" {("v","*-v+*","v+*","*-v").state[2]}
+TB 350.0 "v_s3" {("v","*-v+*","v+*","*-v").state[3]}
+TB 350.0 "v_s4" {("v","*-v+*","v+*","*-v").state[4]}
+TB 350.0 "v_pal_s2" {("v_pal","*-v_pal+*","v_pal+*","*-v_pal").state[2]}
+TB 350.0 "v_pal_s3" {("v_pal","*-v_pal+*","v_pal+*","*-v_pal").state[3]}
+TB 350.0 "v_pal_s4" {("v_pal","*-v_pal+*","v_pal+*","*-v_pal").state[4]}
+TB 350.0 "w_s2" {("w","*-w+*","w+*","*-w").state[2]}
+TB 350.0 "w_s3" {("w","*-w+*","w+*","*-w").state[3]}
+TB 350.0 "w_s4" {("w","*-w+*","w+*","*-w").state[4]}
+TB 350.0 "x_s2" {("x","*-x+*","x+*","*-x").state[2]}
+TB 350.0 "x_s3" {("x","*-x+*","x+*","*-x").state[3]}
+TB 350.0 "x_s4" {("x","*-x+*","x+*","*-x").state[4]}
+TB 350.0 "x_pal_s2" {("x_pal","*-x_pal+*","x_pal+*","*-x_pal").state[2]}
+TB 350.0 "x_pal_s3" {("x_pal","*-x_pal+*","x_pal+*","*-x_pal").state[3]}
+TB 350.0 "x_pal_s4" {("x_pal","*-x_pal+*","x_pal+*","*-x_pal").state[4]}
+TB 350.0 "z_s2" {("z","*-z+*","z+*","*-z").state[2]}
+TB 350.0 "z_s3" {("z","*-z+*","z+*","*-z").state[3]}
+TB 350.0 "z_s4" {("z","*-z+*","z+*","*-z").state[4]}
+TB 350.0 "z_pal_s2" {("z_pal","*-z_pal+*","z_pal+*","*-z_pal").state[2]}
+TB 350.0 "z_pal_s3" {("z_pal","*-z_pal+*","z_pal+*","*-z_pal").state[3]}
+TB 350.0 "z_pal_s4" {("z_pal","*-z_pal+*","z_pal+*","*-z_pal").state[4]}
+
+TR 1
+AU "context/tri_full/list"
+CO "context/tri_full/tiedlist"
+ST "context/tri_full/trees"

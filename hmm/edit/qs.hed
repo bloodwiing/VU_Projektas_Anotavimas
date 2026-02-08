@@ -1,0 +1,157 @@
+# --- Vowel vs Consonant ---
+QS "Vowel" {a,Aa,aA,aa,A,e,eA,eE,ea,ee,Ea,Ee,E,i,iE,iI,ie,ii,Ie,Ii,I,o,oO,oo,Oo,O,u,uO,uU,uo,uu,Uo,Uu,U}
+
+QS "Consonant" {L,L_pal,M,M_pal,N,N_pal,R,R_pal,S,S_pal,Z,Z_pal,b,b_pal,d,dZ,dZ_pal,d_pal,dz,dz_pal,f,f_pal,g,g_pal,h,h_pal,j_pal,k,k_pal,l,l_pal,m,m_pal,n,n_pal,p,p_pal,r,r_pal,s,s_pal,t,tS,tS_pal,t_pal,ts,ts_pal,v,v_pal,x,x_pal,z,z_pal}
+
+# --- Vowel Classes ---
+QS "V_a" {a,Aa,aA,aa,A}
+
+QS "V_e" {e,eA,eE,ea,ee,Ea,Ee,E}
+
+QS "V_i" {i,iE,iI,ie,ii,Ie,Ii,I}
+
+QS "V_o" {o,oO,oo,Oo,O}
+
+QS "V_u" {u,uO,uU,uo,uu,Uo,Uu,U}
+
+# --- Consonant Families ---
+QS "L_Family" {L,L_pal}
+
+QS "M_Family" {M,M_pal}
+
+QS "N_Family" {N,N_pal}
+
+QS "R_Family" {R,R_pal}
+
+QS "S_Family" {S,S_pal}
+
+QS "Z_Family" {Z,Z_pal}
+
+QS "b_Family" {b,b_pal}
+
+QS "d_Family" {d,d_pal}
+
+QS "dZ_Family" {dZ,dZ_pal}
+
+QS "dz_Family" {dz,dz_pal}
+
+QS "f_Family" {f,f_pal}
+
+QS "g_Family" {g,g_pal}
+
+QS "h_Family" {h,h_pal}
+
+QS "k_Family" {k,k_pal}
+
+QS "l_Family" {l,l_pal}
+
+QS "m_Family" {m,m_pal}
+
+QS "n_Family" {n,n_pal}
+
+QS "p_Family" {p,p_pal}
+
+QS "r_Family" {r,r_pal}
+
+QS "s_Family" {s,s_pal}
+
+QS "t_Family" {t,t_pal}
+
+QS "tS_Family" {tS,tS_pal}
+
+QS "ts_Family" {ts,ts_pal}
+
+QS "v_Family" {v,v_pal}
+
+QS "x_Family" {x,x_pal}
+
+QS "z_Family" {z,z_pal}
+
+# --- Stressed Vowels ---
+QS "ShortUnstressed" {a,e,i,o,u}
+
+QS "ShortStressed" {A,E,I,O,U}
+
+QS "LongUnstressed" {aa,ea,ee,ie,ii,oo,uo,uu}
+
+QS "StressedFalling" {Aa,Ea,Ee,Ie,Ii,Oo,Uo,Uu}
+
+QS "StressedRising" {aA,eA,eE,iE,iI,oO,uO,uU}
+
+# --- Palatalised (soft) Consonants ---
+QS "Palatalised" {L_pal,M_pal,N_pal,R_pal,S_pal,Z_pal,b_pal,dZ_pal,d_pal,dz_pal,f_pal,g_pal,h_pal,j_pal,k_pal,l_pal,m_pal,n_pal,p_pal,r_pal,s_pal,tS_pal,t_pal,ts_pal,v_pal,x_pal,z_pal}
+
+# QS "NonPalatalised" {L,M,N,R,S,Z,b,d,dZ,dz,f,g,h,k,l,m,n,p,r,s,t,tS,ts,v,x,z}
+
+# --- Consonant Classes ---
+QS "Sonorant" {j,j_pal,l,l_pal,m,m_pal,n,n_pal,r,r_pal,v,v_pal}
+
+# QS "NonSonorant" {b,b_pal,d,d_pal,g,g_pal,k,k_pal,p,p_pal,s,s_pal,S,S_pal,t,t_pal,z,z_pal,Z,Z_pal}
+
+QS "Fricative" {s,s_pal,S,S_pal,z,z_pal,Z,Z_pal,f,f_pal,h,h_pal,x,x_pal}
+
+# QS "NonFricative" {p,p_pal,t,t_pal,k,k_pal,b,b_pal,d,d_pal,g,g_pal}
+
+QS "Affricates" {ts,ts_pal,tS,tS_pal,dz,dz_pal,dZ,dZ_pal}
+
+# QS "ForeignFricatives" {f,f_pal,x,x_pal,h,h_pal}
+
+# --- Place of Articulation ---
+QS "Labial" {p,p_pal,b,b_pal,m,m_pal,v,v_pal,f,f_pal}
+
+# QS "NonLabial" {t,t_pal,d,d_pal,k,k_pal,g,g_pal}
+
+QS "Coronal" {t,t_pal,d,d_pal,n,n_pal,l,l_pal,r,r_pal}
+
+# QS "NonCoronal" {k,k_pal,g,g_pal}
+
+QS "Silibant" {s,s_pal,z,z_pal,S,S_pal,Z,Z_pal,ts,ts_pal,tS,tS_pal,dz,dz_pal,dZ,dZ_pal}
+
+# QS "NonSilibant" {S,S_pal,Z,Z_pal}
+
+# --- Voiced ---
+QS "Voiced" {g,g_pal,d,d_pal,b,b_pal,dz,dz_pal,dZ,dZ_pal,z,z_pal,Z,Z_pal,m,m_pal,n,n_pal,l,l_pal,r,r_pal,j,j_pal}
+
+QS "NonVoiced" {k,k_pal,t,t_pal,p,p_pal,ts,ts_pal,tS,tS_pal,s,s_pal,S,S_pal,f,f_pal,h,h_pal,x,x_pal}
+
+# --- Diphthong endings ---
+QS "Diphthong" {j,J,w,W}
+
+QS "StressedMixedDiphthong" {L,L_pal,M,M_pal,N,N_pal,R,R_pal}
+
+QS "StressedDiphthong" {J,W}
+
+# --- Silence and Noise ---
+QS "Silence" {sil}
+
+
+# --- Vowel vs Consonant ---
+#QS "Vowel" {aa,ae,ah,ao,aw,ax,axh,axr,ay,eh,el,em,en,er,ey,ih,ix,iy,ow,oy,uh,uw,ux}
+
+#QS "Consonant" {b,bcl,ch,d,dcl,dh,dx,f,g,gcl,hh,hv,jh,k,kcl,l,m,n,ng,nx,p,pcl,q,r,s,sh,t,tcl,th,v,w,y,z,zh}
+
+# --- Manner of Articulation ---
+#QS "Stop" {b,bcl,d,dcl,g,gcl,k,kcl,p,pcl,q,t,tcl}
+
+#QS "Nasal" {m,n,ng,nx,em,en,eng}
+
+#QS "Fricative" {dh,f,hh,hv,s,sh,th,v,z,zh}
+
+#QS "Affricate" {ch,jh}
+
+#QS "Liquid_Glide" {l,r,w,y,el}
+
+# --- Place of Articulation ---
+#QS "Labial" {b,bcl,f,m,p,pcl,v,w}
+
+#QS "Alveolar" {d,dcl,n,s,t,tcl,z,dx}
+
+#QS "Velar" {g,gcl,k,kcl,ng}
+
+# --- Vowel Height/Frontness ---
+#QS "FrontVowel" {ae,eh,ey,ih,ix,iy}
+
+#QS "BackVowel" {aa,ao,ow,uh,uw}
+
+# --- Silence and Noise ---
+#QS "Silence" {sil}

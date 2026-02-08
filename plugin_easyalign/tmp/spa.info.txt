@@ -1,0 +1,278 @@
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 spa
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 4 intervals
+Language : spa
+lang\spa\saga.exe -MX  tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/spa/spa.hmm
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+4 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 spa
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 4 intervals
+Language : spa
+lang\spa\saga.exe -MX  tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/spa/spa.hmm
+|el B|
+|l Bo|
+| Bot|
+|oteL|
+|teLo|
+|eLon|
+|Lon |
+|on d|
+|n de|
+| de |
+|e aG|
+| aGw|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+|e4a |
+|4a D|
+|a Di|
+| Dif|
+|ifiT|
+|fiTi|
+|iTil|
+|Til |
+|il t|
+|l t4|
+| t4o|
+|4oka|
+|oka4|
+|ka4 |
+|a4 m|
+|4 mi|
+| mi |
+|i p4|
+| p4o|
+|4ofu|
+|ofun|
+|fund|
+|unda|
+|nda |
+|da m|
+|a mi|
+| mi4|
+|i4aD|
+|4aDa|
+|aDa |
+|Da e|
+|a em|
+| em |
+|m pa|
+| pal|
+|alaB|
+|laB4|
+|aB4a|
+|B4as|
+|4as |
+|as j|
+|s j |
+| j a|
+| ape|
+|pena|
+|enaz|
+|naz |
+|az m|
+|z me|
+| me |
+|e su|
+| su4|
+|u4xj|
+|4xje|
+|xje4|
+|je4o|
+|e4on|
+|4on |
+|on s|
+|n so|
+| son|
+|oniD|
+|niDo|
+|iDos|
+|Dos |
+|os i|
+|s iN|
+| iNk|
+|Nkon|
+|kone|
+|onek|
+|neks|
+|ekso|
+|ksoz|
+|soz |
+|oz D|
+|z De|
+| Des|
+|esa4|
+|sa4t|
+|a4ti|
+|4tik|
+|tiku|
+|ikul|
+|kula|
+|ulaD|
+|laDo|
+|aDoz|
+|Doz |
+|oz B|
+|z Ba|
+| BaT|
+|aTio|
+|Tios|
+|e4a |
+|4a D|
+|a Di|
+| Dif|
+|ifiT|
+|fiTi|
+|iTil|
+|Til |
+|il i|
+|l im|
+| imp|
+|mpos|
+|posi|
+|osiB|
+|siBl|
+|iBle|
+|Ble |
+|le D|
+|e Di|
+| Di4|
+|i4ia|
+|4ia |
+|ia e|
+|a em|
+| emp|
+|mpeT|
+|peTa|
+|eTa4|
+|Ta4 |
+|a4 u|
+|4 un|
+| una|
+|na k|
+|a ko|
+| kom|
+|ombe|
+|mbe4|
+|be4s|
+|e4sa|
+|4saT|
+|saTj|
+|aTjo|
+|TjoN|
+|joN |
+|oN k|
+|N ke|
+| ke |
+|e jj|
+| jjo|
+|o p4|
+| p4e|
+|4ete|
+|eten|
+|tend|
+|endi|
+|ndia|
+|dia |
+|ia o|
+|a o4|
+| o4i|
+|4ixi|
+|ixin|
+|xina|
+|inal|
+|unik|
+|nika|
+|ika |
+|ka j|
+|a jj|
+| jj |
+| eks|
+|kski|
+|skis|
+|kisi|
+|isit|
+|sita|
+|ita |
+|ta k|
+|a ko|
+| kon|
+|on t|
+|n ta|
+| tan|
+|anto|
+|ntos|
+|tos |
+|os s|
+|s se|
+| sen|
+|enti|
+|ntim|
+|timj|
+|imje|
+|mjen|
+|jent|
+|ento|
+|ntos|
+|tos |
+|os k|
+|s ko|
+| kom|
+|omfu|
+|mfus|
+|fuso|
+|usoz|
+|soz |
+|oz G|
+|z Ga|
+| Gal|
+|alop|
+|lopa|
+|opan|
+|pand|
+|ando|
+|ndo |
+|do e|
+|o en|
+| en |
+|n el|
+| el |
+|l me|
+| meD|
+|eDjo|
+|Djo |
+|jo D|
+|o De|
+| Del|
+|el p|
+|l pe|
+| pet|
+|etSo|
+
+4 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 253 252

@@ -1,0 +1,44 @@
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 Mary_John_bell
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #4 (ortho)with 1 intervals
+Language : fra
+lang\fra\phon250.exe lang\fra\phon250.fra.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+wordsTID 2 phonesTID 1
+orthoTID 7 phonoTID 6
+
+1 utt. ignored (empty or %-junk utt)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+ProsoBox3
+Contact:	jeanphilippegoldman@gmail.com
+2007-2011
+Please make comments and suggestions
+
+HOW TO:
++ Prosogram (make stylisation, create syll_table)
++ Prosoprom (detect prominences, enrich syll_table and TG)
++ Macro-units (creates mu_table from syll_table)
++ Mu plot (open MU interactive graph)
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/spa/spa.hmm
+wordsTID 2 phonesTID 1
+orthoTID 3 phonoTID 4
+
+1 utt. ignored (empty or %-junk utt)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier

@@ -1,0 +1,5264 @@
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #2 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |4| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |4| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |4| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |4| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |4| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n g4easi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n g4easi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n g4easi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n g4easi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n g4easi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n g4easi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 71th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeah|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n g4easi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 71th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeah|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n g4easi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 71th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeah|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 68th char is not SAMPA (c): |/| in |shiy1 hhae1d jowh/ dah/k suw1t ih1n g4easi wao1sh wateh/ ao1l jeah/|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n g4easi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 72th char is not SAMPA (c): |r| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 71th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeah|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |h| in |shiy1 hhae1d jowhrh dahrhk suw1t ih1n grheasi wao1sh watehrh ao1l jeahrh|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |4| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |4| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 73th char is not SAMPA (c): |4| in |shiy1 hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy hhae1d yuh14 daa14k suw1t ih1n g4iy1siy wao1sh wao1tax4 ao1l yih14|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy wao1sh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy wao1sh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 3th char is not SAMPA (b): |h| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy wao1sh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 63th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy wao1sh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 spa
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 4 intervals
+Language : spa
+lang\spa\saga.exe -MX  tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 spa
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 4 intervals
+Language : spa
+lang\spa\saga.exe -MX  tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |r| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yihr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 spa
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 4 intervals
+Language : spa
+lang\spa\saga.exe -MX  tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |r| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yihr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |r| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yihr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 spa
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 4 intervals
+Language : spa
+lang\spa\saga.exe -MX  tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |r| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yihr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |r| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yihr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 spa
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 4 intervals
+Language : spa
+lang\spa\saga.exe -MX  tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |r| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yihr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |r| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yihr|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+ system lang\en2\lapsG2UFPB.exe tmp\t.txt false lang\en2\tabela
+ system move lang\en2\dicionariofonetico.txt tmp\tout.txt
+1 phrases
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 62th char is not SAMPA (c): |4| in |shiy hhaed yuh4 daa4k suwt ihn g4iysiy waosh waotax4 aol yih4|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #2 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #2 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+UNKNOWN3:
+UNKNOWNQ
+UNKNOWNI
+UNKNOWNI
+UNKNOWN{
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+lang\en2\phon250.exe lang\en2\phon250.en2.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+lang\en2\phon250.exe lang\en2\phon250.en2.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+lang\en2\phon250.exe lang\en2\phon250.en2.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+lang\en2\phon250.exe lang\en2\phon250.en2.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+lang\en2\phon250.exe lang\en2\phon250.en2.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en2
+lang\en2\phon250.exe lang\en2\phon250.en2.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 94th char is not SAMPA (c): |_| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 7th char is not SAMPA (b): ||| in |S i: | h { d | j O: | d A: k | s u: | t I n | g r i: s I | w Q S | w O: t @ | O: | l j 3: | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #5 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #5 (ortho)with 1 intervals
+Language : en2
+lang\en2\phon250.exe lang\en2\phon250.en2.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 5th char is not SAMPA (b): |:| in |S i: h { d j O: d A: k s u: t I n g r i: s I w Q S w O: t @ O: l j 3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #5 (ortho)with 1 intervals
+Language : en2
+lang\en2\phon250.exe lang\en2\phon250.en2.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 5th char is not SAMPA (b): |:| in |S i: h { d j O: d A: k s u: t I n g r i: s I w Q S w O: t @ O: l j 3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 5th char is not SAMPA (b): |:| in |S i: h { d j O: d A: k s u: t I n g r i: s I w Q S w O: t @ O: l j 3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #5 (ortho)with 1 intervals
+Language : en2
+lang\en2\phon250.exe lang\en2\phon250.en2.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 5th char is not SAMPA (b): |:| in |S i: h { d j O: d A: k s u: t I n g r i: s I w Q S w O: t @ O: l j 3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 5th char is not SAMPA (b): |:| in |S i: h { d j O: d A: k s u: t I n g r i: s I w Q S w O: t @ O: l j 3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 6th char is not SAMPA (b): |h| in |S j h { d j O: d A: k s u: t I n g r i: s I w Q S w O: t @ O: l j 3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #5 (ortho)with 1 intervals
+Language : en2
+lang\en2\phon250.exe lang\en2\phon250.en2.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 5th char is not SAMPA (b): |:| in |S i: h { d j O: d A: k s u: t I n g r i: s I w Q S w O: t @ O: l j 3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 5th char is not SAMPA (b): |:| in |S i: h { d j O: d A: k s u: t I n g r i: s I w Q S w O: t @ O: l j 3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 6th char is not SAMPA (b): |h| in |S j h { d j O: d A: k s u: t I n g r i: s I w Q S w O: t @ O: l j 3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 11 words as 'phono' tier has 31 words : she had your dark suit in greasy wash water all year
+vs. S j h { d j O: d A: k s u: t I n g r i: s I w Q S w O: t @ O: l j 3:
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #5 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #5 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 4th char is not SAMPA (b): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #5 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 4th char is not SAMPA (b): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 4th char is not SAMPA (b): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #5 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 4th char is not SAMPA (b): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 4th char is not SAMPA (b): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+UNKNOWN3:
+UNKNOWNQ
+UNKNOWNI
+UNKNOWNI
+UNKNOWN{
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 'current' 'cp'
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 'current' 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 'current' 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 50th char is not SAMPA (c): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+UNKNOWN3:
+2 43 42
+UNKNOWNQ
+UNKNOWNI
+UNKNOWNI
+UNKNOWN{
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 4th char is not SAMPA (b): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 4th char is not SAMPA (b): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+UNKNOWN3:
+2 33 32
+UNKNOWNQ
+UNKNOWNQ
+UNKNOWNQ
+UNKNOWNI@
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNQ
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+Utt.# 1 misformatted: 4th char is not SAMPA (b): |:| in |Si: h{d jO: dA:k su: tIn gri:sI wQS wO:t@ O: lj3:|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+UNKNOWN3:
+2 33 32
+UNKNOWNQ
+UNKNOWNQ
+UNKNOWNQ
+UNKNOWNI@
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+1 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+UNKNOWN3:
+2 34 33
+UNKNOWNQ
+UNKNOWNI
+UNKNOWNI
+UNKNOWN{
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 29 28
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 29 28
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+1 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 37 36
+UNKNOWNI
+UNKNOWNI
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 29 28
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+1 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 37 36
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 37 36
+UNKNOWNI
+UNKNOWNI
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 29 28
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+1 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 37 36
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 37 36
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 29 28
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+1 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 37 36
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 37 36
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 29 28
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+1 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 37 36
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 37 36
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI
+UNKNOWNI
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 29 28
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+1 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 37 36
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 37 36
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 36 35
+UNKNOWNI
+UNKNOWNI
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 36 35
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+1 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 36 35
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+1 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI
+UNKNOWNI
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 en2
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #1 (ortho)with 1 intervals
+Language : en
+lang\en\phon250.exe lang\en\phon250.en.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 'ortho' has 8 words as 'phono' tier has 7 words : the reasons for this dive seemed foolish now
+vs. D@ ri:z@n zfO: DIsdaIv si:md fu: lISnaU
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 36 35
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+1 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en/en.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI
+UNKNOWNI
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. aligned
+2 utt. were annotated as silence (_)
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 30 29
+UNKNOWNI@
+UNKNOWNU@
+UNKNOWNI@
+UNKNOWNQ
+To include a copy of a Sound in your TextGrid window:
+   select a TextGrid and a Sound, and click "View & Edit".
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 6th char is not SAMPA (b): ||| in |D @ | r i: z @ n | z f O: | D I s d aI v | s i: m d | f u: | l I S n aU | _|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+To include a copy of a Sound in your TextGrid window:
+   select a TextGrid and a Sound, and click "View & Edit".
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 6th char is not SAMPA (b): ||| in |D @ | r i: z @ n | z f O: | D I s d aI v | s i: m d | f u: | l I S n aU | _|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/en2.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+Utt.# 1 misformatted: 6th char is not SAMPA (b): ||| in |D @ | r i: z @ n | z f O: | D I s d aI v | s i: m d | f u: | l I S n aU | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 test
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then ISO Latin-1
+Writing: try ISO Latin-1, then UTF-16
+Using tier #2 (ortho)with 1 intervals
+Language : lt
+lang\lt\transcrLUSS.exe lang\lt\ tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/lt/lt.hmm
+Utt.# 1 misformatted: 56th char is not SAMPA (c): |_| in |_+l iet uv oO s+r es p Ub l ik oo s+iis t aAt iim a j+_|
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+2 1 'cp'
+Info saved in: tmp/test.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/lt/lt.hmm
+|_+l iet uv oO s+r es p Ub l ik oo s+iis t aAt iim a j+_|
+Utt.# 1 misformatted: 56th char is not SAMPA (c): |_| in |_+l iet uv oO s+r es p Ub l ik oo s+iis t aAt iim a j+_|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/test.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/lt/lt.hmm
+|_+l |
+|_+l|
+|_+|
+|_|
+.i=|2|
+|+l i|
+|+l |
+|+l|
+|+|
+.i=|3|
+Utt.# 1 misformatted: 'checksampa.i'th char is not SAMPA (c): |'checksampa.c$'| in |'checksampa.s$'|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+Info saved in: tmp/test.info.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+|D @ |
+|D @|
+|D |
+|D|
+.i=|2|
+| @ ||
+| @ |
+| @|
+.i=|4|
+| | r|
+| | |
+| ||
+| |
+.i=|5|
+|| r |
+|| r|
+|| |
+|||
+.i=|6|
+Utt.# 1 misformatted: 6th char is not SAMPA (b): ||| in |D @ | r i: z @ n | z f O: | D I s d aI v | s i: m d | f u: | l I S n aU | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+|D @ |
+|D @|
+|D |
+|D|
+.convrow=|16|
+.i=|2|
+| @ ||
+| @ |
+| @|
+.i=|4|
+| | r|
+| | |
+| ||
+| |
+.convrow=|0|
+.i=|5|
+|| r |
+|| r|
+|| |
+|||
+.convrow=|0|
+.i=|6|
+Utt.# 1 misformatted: 6th char is not SAMPA (b): ||| in |D @ | r i: z @ n | z f O: | D I s d aI v | s i: m d | f u: | l I S n aU | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/en2/en2.hmm
+|D @ |
+|D @|
+|D |
+|D|
+.convrow=|16|
+.allow=|* |
+.i=|2|
+| @ ||
+| @ |
+| @|
+.i=|4|
+| | r|
+| | |
+| ||
+| |
+.convrow=|0|
+.allow=|* |
+.i=|5|
+|| r |
+|| r|
+|| |
+|||
+.convrow=|0|
+.allow=|* |
+.i=|6|
+Utt.# 1 misformatted: 6th char is not SAMPA (b): ||| in |D @ | r i: z @ n | z f O: | D I s d aI v | s i: m d | f u: | l I S n aU | _|
+Overwriting previous words tier
+Overwriting previous phones tier
+wordsTID 2 phonesTID 1
+orthoTID 5 phonoTID 4
+
+1 utt. were misformated. Check spaces or SAMPA symbols...
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Overwriting previous syll tier
+2 1 'cp'

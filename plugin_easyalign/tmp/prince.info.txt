@@ -1,0 +1,44 @@
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 prince
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 8 intervals
+Language : fra
+lang\fra\phon250.exe lang\fra\phon250.fra.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+Utt.# 8, alignment could not be aligned. : l'essentiel est invisible pour les yeux
+
+7 utt. aligned
+1 utt. could NOT be aligned by the speech engine. Make shorter utt.
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier
+
+###EASYALIGN: Phonetize ortho tier
+###TG 1/1 prince
+Saving text encodings prefs... (Will be restored if script does not stop in the meantime)
+Reading: try UTF-8, then Windows Latin-1
+Writing: try ASCII, then UTF-16
+Using tier #1 (ortho)with 8 intervals
+Language : fra
+lang\fra\phon250.exe lang\fra\phon250.fra.ini tmp\t.txt tmp\tout.txt
+
+###EASYALIGN: Segment in phones, sylls, words
+
+Using HMM file: lang/fra/fra.hmm
+wordsTID 2 phonesTID 1
+orthoTID 4 phonoTID 3
+Utt.# 8, alignment could not be aligned. : l'essentiel est invisible pour les yeux
+
+7 utt. aligned
+1 utt. could NOT be aligned by the speech engine. Make shorter utt.
+Pre-PTK filter : 0 silences removed (threshold was --undefined-- ms)
+Syllabify...
+Creating syll tier

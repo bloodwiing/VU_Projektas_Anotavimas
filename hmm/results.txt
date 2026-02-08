@@ -1,0 +1,106 @@
+HResults -I context/mono/labels.mlf context/mono/list hmms/flat/recout.mlf
+====================== HTK Results Analysis =======================
+  Date: Tue Jan 13 00:29:08 2026
+  Ref : context/mono/labels.mlf
+  Rec : hmms/flat/recout.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=0.00 [H=0, S=20240, N=20240]
+WORD: %Corr=0.18, Acc=0.18 [H=1162, D=622513, S=19078, I=0, N=642753]
+===================================================================
+
+HResults -I context/mono/labels.mlf context/mono/list hmms/mono/1/recout.mlf
+====================== HTK Results Analysis =======================
+  Date: Tue Jan 13 00:35:23 2026
+  Ref : context/mono/labels.mlf
+  Rec : hmms/mono/1/recout.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=0.00 [H=0, S=20240, N=20240]
+WORD: %Corr=21.44, Acc=19.26 [H=137794, D=190459, S=314500, I=13971, N=642753]
+===================================================================
+
+HResults -I context/mono/labels.mlf context/mono/list hmms/mono/2/recout.mlf
+====================== HTK Results Analysis =======================
+  Date: Tue Jan 13 00:41:50 2026
+  Ref : context/mono/labels.mlf
+  Rec : hmms/mono/2/recout.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=0.00 [H=0, S=20240, N=20240]
+WORD: %Corr=38.87, Acc=27.35 [H=249843, D=42937, S=349973, I=74050, N=642753]
+===================================================================
+
+HResults -I context/mono/labels.mlf context/mono/list hmms/mono/3/recout.mlf
+====================== HTK Results Analysis =======================
+  Date: Tue Jan 13 00:47:53 2026
+  Ref : context/mono/labels.mlf
+  Rec : hmms/mono/3/recout.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=0.00 [H=0, S=20240, N=20240]
+WORD: %Corr=47.16, Acc=40.26 [H=303146, D=48958, S=290649, I=44381, N=642753]
+===================================================================
+
+HResults -I context/mono_sil/labels.mlf context/mono_sil/list hmms/mono/4/recout.mlf
+====================== HTK Results Analysis =======================
+  Date: Tue Jan 13 01:34:00 2026
+  Ref : context/mono_sil/labels.mlf
+  Rec : hmms/mono/4/recout.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=0.00 [H=0, S=20240, N=20240]
+WORD: %Corr=47.19, Acc=40.33 [H=303298, D=48875, S=290580, I=44053, N=642753]
+===================================================================
+
+HResults -I context/mono_sil/labels.mlf context/mono_sil/list hmms/mono/5/recout.mlf
+====================== HTK Results Analysis =======================
+  Date: Tue Jan 13 01:40:02 2026
+  Ref : context/mono_sil/labels.mlf
+  Rec : hmms/mono/5/recout.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=0.00 [H=0, S=20240, N=20240]
+WORD: %Corr=48.90, Acc=43.22 [H=314333, D=50246, S=278174, I=36505, N=642753]
+===================================================================
+
+
+Wrote 770225 triphones to 'context/tri_full/list'
+
+
+TB 350.00 z_pal_s4 {}
+ Tree based clustering
+ Start z_pal[4] : 190  have LogL=-83.321 occ=4691.9
+
+ Via   z_pal[4] : 7 gives LogL=-78.276 occ=4691.9
+
+ End   z_pal[4] : 7 gives LogL=-78.276 occ=4691.9
+
+ TB: Stats 190->7 [3.7%]  { 95223->6686 [7.0%] total }
+
+TR 1
+ Adjusting trace level
+
+AU context/tri_full/list
+ Creating HMMset using trees to add unseen triphones
+ AU: 770225 Log/770225 Phys created from 31742 Log/31742 Phys
+
+CO context/tri_full/tiedlist
+ Create compact HMMList
+ CO: HMMs 770225 Logical 374071 Physical
+
+ST context/tri_full/trees
+ Writing current questions/trees to file
+
+Saving new HMM files ...
+Edit Complete
+
+real    44m41.797s
+user    43m0.316s
+sys     0m4.131
+
+
+====================== HTK Results Analysis =======================
+  Date: Mon Jan 12 16:07:01 2026
+  Ref : context/tri_full/labels.mlf
+  Rec : hmms/tri/5/recout.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=0.00 [H=1, S=20239, N=20240]
+WORD: %Corr=23.82, Acc=15.03 [H=153932, D=43329, S=449070, I=56759, N=646331]
+===================================================================
+
+
