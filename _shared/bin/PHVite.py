@@ -38,7 +38,7 @@ def split_scp(scp_path, num_jobs, temp_dir):
 
     actual_jobs = min(num_jobs, total_lines)
     
-    print("[*] Profiling utterance durations to balance workload...")
+    print("[*] Profiling utterance durations to balance workload...", flush=True)
     line_weights = []
     total_weight = 0
     
@@ -118,18 +118,18 @@ def format_time(seconds):
 def main():
     args, unknown_args = parse_arguments()
     
-    print(f"[*] Initializing Parallel HVite Wrapper...")
-    print(f"[*] Cores/Jobs requested: {args.jobs}")
-    print(f"[*] Input SCP: {args.scp}")
-    print(f"[*] Output MLF: {args.mlf}")
+    print(f"[*] Initializing Parallel HVite Wrapper...", flush=True)
+    print(f"[*] Cores/Jobs requested: {args.jobs}", flush=True)
+    print(f"[*] Input SCP: {args.scp}", flush=True)
+    print(f"[*] Output MLF: {args.mlf}", flush=True)
     
     temp_dir = tempfile.mkdtemp(prefix="hvite_parallel_")
     processes = []
-    print(f"[*] Created temporary workspace: {temp_dir}")
+    print(f"[*] Created temporary workspace: {temp_dir}", flush=True)
     
     try:
         chunk_scps, actual_jobs, total_lines, weight_bins, total_weight = split_scp(args.scp, args.jobs, temp_dir)
-        print(f"[*] Distributed {total_lines} utterances ({format_size(total_weight)}) evenly across {actual_jobs} balanced chunks.")
+        print(f"[*] Distributed {total_lines} utterances ({format_size(total_weight)}) evenly across {actual_jobs} balanced chunks.", flush=True)
         
         for i, chunk_scp in enumerate(chunk_scps):
             chunk_mlf = os.path.join(temp_dir, f"chunk_{i}.mlf")
@@ -143,7 +143,7 @@ def main():
             p = subprocess.Popen(cmd, stdout=out_f, stderr=err_f)
             processes.append((i, p, cmd, chunk_mlf, out_f, err_f, err_log))
             
-        print(f"[*] Running {actual_jobs} instances...\n")
+        print(f"[*] Running {actual_jobs} instances...\n", flush=True)
         
         active = True
         previous_sizes = {i: 0 for i in range(actual_jobs)}
@@ -216,12 +216,12 @@ def main():
                 if just_finished: parts.append(f"Finished: {','.join(just_finished)}")
                 parts.append(f"MLF Size: {format_size(current_mlf_size)}")
                 
-                print(f"[ELA {elapsed_str} | ETA {eta_str}] {' | '.join(parts)}")
+                print(f"[ELA {elapsed_str} | ETA {eta_str}] {' | '.join(parts)}", flush=True)
                 
             if active:
                 time.sleep(2.0)
 
-        print("\n[*] Processing finished. Checking for errors...")
+        print("\n[*] Processing finished. Checking for errors...", flush=True)
 
         has_errors = False
         for i, p, cmd, chunk_mlf, out_f, err_f, err_log in processes:
@@ -241,7 +241,7 @@ def main():
             sys.exit("\n[!] Aborting merge process due to errors.")
             
         merge_mlfs([p[3] for p in processes], args.mlf)
-        print(f"[*] Successfully merged MLF into {args.mlf}")
+        print(f"[*] Successfully merged MLF into {args.mlf}", flush=True)
 
     finally:
         for proc_tuple in processes:
