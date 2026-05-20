@@ -135,8 +135,8 @@ QS "L_Labial" {p-*,p_pal-*,b-*,b_pal-*,m-*,m_pal-*,v-*,v_pal-*,f-*,f_pal-*}
 QS "R_Labial" {*+p,*+p_pal,*+b,*+b_pal,*+m,*+m_pal,*+v,*+v_pal,*+f,*+f_pal}
 
 
-QS "L_Apical" {t-*,t_pal-*,d-*,d_pal-*,n-*,n_pal-*,l-*,l_pal-*,r-*,r_pal-*}
-QS "R_Apical" {*+t,*+t_pal,*+d,*+d_pal,*+n,*+n_pal,*+l,*+l_pal,*+r,*+r_pal}
+QS "L_Coronal" {t-*,t_pal-*,d-*,d_pal-*,n-*,n_pal-*,l-*,l_pal-*,r-*,r_pal-*}
+QS "R_Coronal" {*+t,*+t_pal,*+d,*+d_pal,*+n,*+n_pal,*+l,*+l_pal,*+r,*+r_pal}
 
 
 QS "L_Silibant" {s-*,s_pal-*,z-*,z_pal-*}

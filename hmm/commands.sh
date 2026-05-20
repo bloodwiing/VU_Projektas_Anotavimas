@@ -1,5 +1,6 @@
 # Path
-PATH=$PATH:/mnt/c/Users/BLOODWIING/Documents/CourseWork/HTK-3.5-beta/htk/HTKTools
+PATH=$PATH:/mnt/d/Uni/Bachelors/CourseWork/HTK-3.5-beta/htk/HTKTools
+. env.sh
 
 # Save wav.list
 ls ../wav/*.wav > datasets/wav/wav.list
@@ -134,6 +135,11 @@ HResults -s -I context/tri_full/labels.mlf context/tri_full/tiedlist hmms/tri/6/
 command time -p -o hmms/tri/7/time.txt HERest -C configs/mfc.conf -I context/tri_full/labels.mlf -S datasets/train/train.scp -H hmms/tri/6/macros -H hmms/tri/6/hmmdefs -M hmms/tri/7 context/tri_full/tiedlist
 HVite -T 1 -C configs/hvitetri.conf -H hmms/tri/7/macros -H hmms/tri/7/hmmdefs -S datasets/train/train.scp -i hmms/tri/7/recout.mlf -w context/tri_full/rec_network context/tri_full/dict context/tri_full/tiedlist
 HResults -s -I context/tri_full/labels.mlf context/tri_full/tiedlist hmms/tri/7/recout.mlf > hmms/tri/7/result.txt
+
+# Reestimate final tied-state triphones 3 times
+command time -p -o hmms/tri/8/time.txt HERest -C configs/mfc.conf -I context/tri_full/labels.mlf -S datasets/train/train.scp -H hmms/tri/7/macros -H hmms/tri/7/hmmdefs -M hmms/tri/8 context/tri_full/tiedlist
+PHVite -j 4 -T 1 -C configs/hvitetri.conf -H hmms/tri/8/macros -H hmms/tri/8/hmmdefs -S datasets/train/train.scp -i hmms/tri/8/recout.mlf -w context/tri_full/rec_network context/tri_full/dict context/tri_full/tiedlist
+HResults -s -I context/tri_full/labels.mlf context/tri_full/tiedlist hmms/tri/8/recout.mlf > hmms/tri/8/result.txt
 
 # # Init ONE prototype
 # HInit -S train.scp -I labels.mlf -M hmms/hmm0 -l _ -T 3 proto/aa

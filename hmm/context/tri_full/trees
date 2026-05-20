@@ -210,11 +210,11 @@ A[3]
  -60              'L_Silence'   "A_s331"   "A_s332" 
  -61             'R_R_Family'   "A_s320"   "A_s321" 
  -62             'L_b_Family'   "A_s353"   "A_s354" 
- -63               'L_Coronal'   "A_s331"   "A_s312" 
+ -63              'L_Coronal'   "A_s331"   "A_s312" 
  -64               'L_Labial'   "A_s336"   "A_s337" 
  -65             'R_M_Family'   "A_s310"   "A_s326" 
  -66             'L_k_Family'   "A_s310"    "A_s36" 
- -67               'L_Coronal'   "A_s345"   "A_s346" 
+ -67              'L_Coronal'   "A_s345"   "A_s346" 
  -68             'L_Sonorant'   "A_s314"   "A_s318" 
 }
 
@@ -250,7 +250,7 @@ A[4]
  -27             'R_b_Family'   "A_s421"   "A_s422" 
  -28             'L_k_Family'   "A_s444"   "A_s445" 
  -29             'L_g_Family'     -34      "A_s439" 
- -30               'R_Coronal'   "A_s416"     -39    
+ -30              'R_Coronal'   "A_s416"     -39    
  -31             'R_g_Family'     -43        -47    
  -32          'R_Palatalised'   "A_s433"   "A_s434" 
  -33            'R_Consonant'     -40       "A_s42" 
@@ -311,7 +311,7 @@ Aa[3]
  -13             'L_m_Family'     -22     "Aa_s315" 
  -14               'L_Voiced'     -19        -24    
  -15                'L_Vowel'  "Aa_s326"  "Aa_s327" 
- -16               'L_Coronal'  "Aa_s319"  "Aa_s320" 
+ -16              'L_Coronal'  "Aa_s319"  "Aa_s320" 
  -17               'L_Labial'     -34     "Aa_s318" 
  -18             'R_n_Family'     -33     "Aa_s323" 
  -19             'R_s_Family'     -23     "Aa_s323" 
@@ -328,7 +328,7 @@ Aa[3]
  -30             'L_Sonorant'   "Aa_s39"     -31    
  -31             'L_n_Family'  "Aa_s310"  "Aa_s321" 
  -32             'L_l_Family'  "Aa_s312"  "Aa_s313" 
- -33               'R_Coronal'  "Aa_s321"  "Aa_s322" 
+ -33              'R_Coronal'  "Aa_s321"  "Aa_s322" 
  -34             'L_g_Family'  "Aa_s316"  "Aa_s317" 
  -35             'L_n_Family'   "Aa_s32"   "Aa_s33" 
  -36             'L_k_Family'   "Aa_s33"   "Aa_s32" 
@@ -350,7 +350,7 @@ Aa[4]
  -10             'R_l_Family'     -11      "Aa_s45" 
  -11               'R_Voiced'   "Aa_s44"  "Aa_s414" 
  -12             'L_s_Family'   "Aa_s41"   "Aa_s44" 
- -13               'L_Coronal'   "Aa_s49"  "Aa_s410" 
+ -13              'L_Coronal'   "Aa_s49"  "Aa_s410" 
  -14             'L_l_Family'  "Aa_s412"  "Aa_s413" 
 }
 
@@ -362,7 +362,7 @@ E[2]
   -3            'L_NonVoiced'      -7        -14    
   -4               'L_Labial'      -5         -9    
   -5             'L_n_Family'      -6        -31    
-  -6               'L_Coronal'     -29        -11    
+  -6              'L_Coronal'     -29        -11    
   -7              'L_Silence'      -8       "E_s29" 
   -8            'L_Consonant'     -35        -19    
   -9             'L_m_Family'     -33        -26    
@@ -438,7 +438,7 @@ E[3]
  -24            'L_NonVoiced'     -36        -48    
  -25             'L_m_Family'     -44      "E_s314" 
  -26            'L_Consonant'   "E_s340"     -33    
- -27               'L_Coronal'     -28      "E_s349" 
+ -27              'L_Coronal'     -28      "E_s349" 
  -28               'L_Labial'     -59      "E_s348" 
  -29             'L_r_Family'     -41      "E_s333" 
  -30             'L_t_Family'     -61      "E_s345" 
@@ -465,7 +465,7 @@ E[3]
  -51             'R_k_Family'   "E_s334"   "E_s335" 
  -52 'R_StressedMixedDiphthong'     -53      "E_s326" 
  -53             'R_l_Family'   "E_s325"   "E_s326" 
- -54               'L_Coronal'     -55      "E_s321" 
+ -54              'L_Coronal'     -55      "E_s321" 
  -55               'L_Labial'   "E_s320"   "E_s321" 
  -56             'R_R_Family'   "E_s329"   "E_s330" 
  -57               'L_Labial'   "E_s315"   "E_s316" 
@@ -523,7 +523,7 @@ E[4]
  -41             'R_b_Family'   "E_s418"   "E_s427" 
  -42             'R_L_Family'   "E_s414"   "E_s415" 
  -43             'R_r_Family'   "E_s435"   "E_s414" 
- -44               'L_Coronal'     -45      "E_s438" 
+ -44              'L_Coronal'     -45      "E_s438" 
  -45             'L_m_Family'   "E_s437"   "E_s440" 
  -46             'L_r_Family'     -50      "E_s422" 
  -47      'R_ShortUnstressed'   "E_s411"   "E_s412" 
@@ -536,11 +536,11 @@ Ea[2]
 {
    0             'L_Sonorant'      -3         -1    
   -1               'L_Labial'      -2         -9    
-  -2               'L_Coronal'     -10         -4    
+  -2              'L_Coronal'     -10         -4    
   -3               'L_Labial'      -6         -8    
   -4             'L_r_Family'      -5     "Ea_s212" 
   -5             'L_l_Family'  "Ea_s210"  "Ea_s211" 
-  -6               'L_Coronal'      -7      "Ea_s25" 
+  -6              'L_Coronal'      -7      "Ea_s25" 
   -7             'L_g_Family'     -12      "Ea_s24" 
   -8             'L_b_Family'   "Ea_s26"   "Ea_s27" 
   -9             'L_m_Family'  "Ea_s213"  "Ea_s214" 
@@ -557,16 +557,16 @@ Ea[3]
   -2            'R_Consonant'      -4         -3    
   -3          'R_Palatalised'      -7         -6    
   -4               'L_Labial'      -5      "Ea_s37" 
-  -5               'L_Coronal'   "Ea_s33"     -11    
+  -5              'L_Coronal'   "Ea_s33"     -11    
   -6             'R_n_Family'      -8     "Ea_s313" 
   -7             'R_r_Family'     -12     "Ea_s310" 
   -8               'L_Labial'  "Ea_s311"  "Ea_s312" 
   -9               'L_Labial'     -14      "Ea_s32" 
- -10               'L_Coronal'  "Ea_s314"  "Ea_s315" 
+ -10              'L_Coronal'  "Ea_s314"  "Ea_s315" 
  -11             'L_t_Family'     -13      "Ea_s36" 
  -12             'R_l_Family'   "Ea_s38"   "Ea_s39" 
  -13             'L_l_Family'   "Ea_s34"   "Ea_s35" 
- -14               'L_Coronal'   "Ea_s39"   "Ea_s31" 
+ -14              'L_Coronal'   "Ea_s39"   "Ea_s31" 
 }
 
 Ea[4]
@@ -579,7 +579,7 @@ Ea[4]
   -5          'R_Palatalised'      -6         -7    
   -6             'R_r_Family'   "Ea_s45"   "Ea_s46" 
   -7             'R_l_Family'   "Ea_s47"   "Ea_s48" 
-  -8               'L_Coronal'     -10      "Ea_s44" 
+  -8              'L_Coronal'     -10      "Ea_s44" 
   -9          'R_Palatalised'  "Ea_s412"  "Ea_s413" 
  -10               'L_Labial'   "Ea_s42"   "Ea_s43" 
  -11             'L_t_Family'  "Ea_s410"  "Ea_s411" 
@@ -592,7 +592,7 @@ Ee[2]
   -2             'L_m_Family'      -3     "Ee_s213" 
   -3             'L_n_Family'      -5     "Ee_s212" 
   -4             'L_b_Family'      -6      "Ee_s24" 
-  -5               'L_Coronal'   "Ee_s28"      -7    
+  -5              'L_Coronal'   "Ee_s28"      -7    
   -6             'L_d_Family'      -9      "Ee_s23" 
   -7             'L_l_Family'   "Ee_s29"     -11    
   -8             'L_k_Family'     -10      "Ee_s27" 
@@ -606,8 +606,8 @@ Ee[3]
    0             'R_Sonorant'      -2         -1    
   -1          'R_Palatalised'     -16         -3    
   -2          'R_Palatalised'      -4        -11    
-  -3               'R_Coronal'      -5         -9    
-  -4               'R_Coronal'      -8        -10    
+  -3              'R_Coronal'      -5         -9    
+  -4              'R_Coronal'      -8        -10    
   -5               'R_Labial'      -6     "Ee_s314" 
   -6             'L_Sonorant'     -12         -7    
   -7             'L_n_Family'     -18     "Ee_s311" 
@@ -619,7 +619,7 @@ Ee[3]
  -13             'L_k_Family'   "Ee_s32"   "Ee_s35" 
  -14             'R_l_Family'  "Ee_s312"  "Ee_s313" 
  -15               'L_Labial'   "Ee_s38"  "Ee_s310" 
- -16               'R_Coronal'   "Ee_s36"   "Ee_s37" 
+ -16              'R_Coronal'   "Ee_s36"   "Ee_s37" 
  -17             'L_k_Family'   "Ee_s34"   "Ee_s35" 
  -18             'L_m_Family'  "Ee_s310"  "Ee_s311" 
 }
@@ -629,14 +629,14 @@ Ee[4]
    0             'R_Sonorant'      -2         -1    
   -1          'R_Palatalised'     -15         -3    
   -2          'R_Palatalised'      -4         -5    
-  -3               'R_Coronal'     -10        -11    
-  -4               'R_Coronal'      -6         -8    
-  -5               'R_Coronal'      -7      "Ee_s49" 
+  -3              'R_Coronal'     -10        -11    
+  -4              'R_Coronal'      -6         -8    
+  -5              'R_Coronal'      -7      "Ee_s49" 
   -6            'R_Fricative'      -9        -16    
   -7            'R_Fricative'     -13        -14    
   -8             'R_d_Family'   "Ee_s44"   "Ee_s45" 
   -9             'R_g_Family'   "Ee_s46"   "Ee_s41" 
- -10               'L_Coronal'  "Ee_s413"     -12    
+ -10              'L_Coronal'  "Ee_s413"     -12    
  -11             'R_n_Family'     -17     "Ee_s416" 
  -12             'L_d_Family'  "Ee_s412"  "Ee_s413" 
  -13           'R_Affricates'   "Ee_s46"   "Ee_s47" 
@@ -658,7 +658,7 @@ I[2]
   -7              'L_Silence'     -34       "I_s23" 
   -8            'L_Fricative'     -11        -14    
   -9            'L_Fricative'     -13        -22    
- -10               'L_Coronal'     -21        -12    
+ -10              'L_Coronal'     -21        -12    
  -11             'L_p_Family'     -16        -25    
  -12             'L_l_Family'     -18        -24    
  -13             'L_g_Family'     -20        -32    
@@ -669,12 +669,12 @@ I[2]
  -18               'R_Labial'     -19        -37    
  -19            'R_NonVoiced'     -33      "I_s218" 
  -20             'L_d_Family'    "I_s24"     -30    
- -21               'R_Silibant'     -38      "I_s215" 
+ -21             'R_Silibant'     -38      "I_s215" 
  -22             'L_Z_Family'   "I_s210"     -31    
  -23               'R_Labial'     -39      "I_s247" 
  -24          'R_Palatalised'     -41        -40    
  -25          'R_Palatalised'   "I_s239"   "I_s240" 
- -26               'R_Silibant'   "I_s225"   "I_s226" 
+ -26             'R_Silibant'   "I_s225"   "I_s226" 
  -27            'R_NonVoiced'     -50        -36    
  -28            'R_NonVoiced'   "I_s237"     -46    
  -29          'R_Palatalised'   "I_s241"   "I_s242" 
@@ -690,7 +690,7 @@ I[2]
  -39          'R_Palatalised'   "I_s245"   "I_s246" 
  -40            'R_NonVoiced'   "I_s223"   "I_s224" 
  -41             'R_k_Family'   "I_s221"   "I_s222" 
- -42               'R_Silibant'     -51      "I_s232" 
+ -42             'R_Silibant'     -51      "I_s232" 
  -43          'R_Palatalised'   "I_s218"   "I_s217" 
  -44             'R_Sonorant'   "I_s227"   "I_s228" 
  -45                  'L_V_a'   "I_s220"    "I_s22" 
@@ -723,7 +723,7 @@ I[3]
  -15             'L_m_Family'     -28      "I_s365" 
  -16             'R_k_Family'     -25        -61    
  -17                'L_Vowel'     -46        -64    
- -18               'R_Coronal'     -19        -43    
+ -18              'R_Coronal'     -19        -43    
  -19               'R_Voiced'     -26        -30    
  -20             'R_n_Family'     -40      "I_s321" 
  -21                'L_Vowel'     -27       "I_s39" 
@@ -733,7 +733,7 @@ I[3]
  -25             'R_p_Family'     -36      "I_s348" 
  -26             'R_N_Family'     -37      "I_s328" 
  -27             'R_l_Family'     -32       "I_s38" 
- -28               'L_Coronal'     -39        -52    
+ -28              'L_Coronal'     -39        -52    
  -29             'R_k_Family'     -48      "I_s354" 
  -30             'R_z_Family'     -42      "I_s332" 
  -31            'L_Fricative'     -54        -65    
@@ -749,14 +749,14 @@ I[3]
  -41             'R_R_Family'     -50      "I_s320" 
  -42             'R_Sonorant'     -56        -85    
  -43               'L_Labial'   "I_s333"     -72    
- -44               'L_Coronal'     -81        -47    
+ -44              'L_Coronal'     -81        -47    
  -45             'L_Sonorant'    "I_s32"     -80    
  -46          'R_Palatalised'   "I_s356"     -58    
  -47             'L_r_Family'   "I_s324"   "I_s325" 
  -48                'L_Vowel'     -63      "I_s353" 
  -49             'L_Sonorant'   "I_s366"     -73    
  -50             'R_l_Family'     -71      "I_s318" 
- -51               'L_Coronal'   "I_s313"     -57    
+ -51              'L_Coronal'   "I_s313"     -57    
  -52             'L_Sonorant'   "I_s363"   "I_s364" 
  -53             'L_m_Family'     -59      "I_s342" 
  -54               'L_Voiced'   "I_s314"     -62    
@@ -764,13 +764,13 @@ I[3]
  -56             'R_g_Family'   "I_s358"   "I_s329" 
  -57             'L_n_Family'     -83      "I_s316" 
  -58             'L_Sonorant'   "I_s357"   "I_s358" 
- -59               'L_Coronal'   "I_s344"     -67    
+ -59              'L_Coronal'   "I_s344"     -67    
  -60             'L_r_Family'    "I_s34"    "I_s35" 
  -61             'L_Sonorant'   "I_s349"   "I_s350" 
- -62               'L_Coronal'   "I_s313"     -84    
+ -62              'L_Coronal'   "I_s313"     -84    
  -63             'L_Sonorant'   "I_s351"   "I_s352" 
  -64          'R_Palatalised'   "I_s359"   "I_s360" 
- -65               'L_Silibant'   "I_s311"   "I_s312" 
+ -65             'L_Silibant'   "I_s311"   "I_s312" 
  -66               'L_Labial'   "I_s337"   "I_s334" 
  -67             'L_d_Family'     -68      "I_s341" 
  -68             'L_n_Family'   "I_s340"   "I_s341" 
@@ -779,7 +779,7 @@ I[3]
  -71             'R_N_Family'     -77      "I_s326" 
  -72             'L_m_Family'     -78      "I_s336" 
  -73               'L_Labial'     -74      "I_s368" 
- -74               'L_Coronal'   "I_s367"   "I_s368" 
+ -74              'L_Coronal'   "I_s367"   "I_s368" 
  -75             'L_k_Family'   "I_s343"   "I_s344" 
  -76             'R_m_Family'   "I_s337"   "I_s338" 
  -77             'R_d_Family'   "I_s318"   "I_s317" 
@@ -824,7 +824,7 @@ I[4]
  -26             'R_M_Family'     -32      "I_s414" 
  -27             'R_M_Family'     -29      "I_s422" 
  -28             'L_v_Family'     -37      "I_s439" 
- -29               'R_Coronal'     -30        -35    
+ -29              'R_Coronal'     -30        -35    
  -30             'R_Sonorant'     -36      "I_s417" 
  -31          'R_Palatalised'   "I_s441"   "I_s442" 
  -32             'R_L_Family'     -39       "I_s46" 
@@ -841,7 +841,7 @@ I[4]
  -43             'L_d_Family'    "I_s41"    "I_s43" 
  -44       'R_LongUnstressed'    "I_s47"   "I_s417" 
  -45            'L_NonVoiced'    "I_s42"    "I_s43" 
- -46               'L_Coronal'   "I_s412"   "I_s410" 
+ -46              'L_Coronal'   "I_s412"   "I_s410" 
  -47             'L_l_Family'   "I_s431"   "I_s432" 
  -48               'L_Labial'   "I_s414"   "I_s415" 
 }
@@ -851,7 +851,7 @@ Ie[2]
    0            'L_NonVoiced'      -2         -1    
   -1             'L_p_Family'      -6     "Ie_s210" 
   -2               'L_Labial'      -3         -7    
-  -3               'L_Coronal'      -9         -4    
+  -3              'L_Coronal'      -9         -4    
   -4             'L_n_Family'      -5      "Ie_s25" 
   -5             'L_d_Family'      -8      "Ie_s24" 
   -6            'L_Fricative'     -10      "Ie_s29" 
@@ -880,7 +880,7 @@ Ie[4]
   -1          'R_Palatalised'      -7         -2    
   -2             'R_m_Family'      -4     "Ie_s413" 
   -3          'R_Palatalised'      -5         -6    
-  -4               'R_Coronal'  "Ie_s411"  "Ie_s412" 
+  -4              'R_Coronal'  "Ie_s411"  "Ie_s412" 
   -5            'R_Fricative'      -8      "Ie_s44" 
   -6            'R_Fricative'     -10      "Ie_s47" 
   -7               'R_Labial'      -9     "Ie_s410" 
@@ -927,18 +927,18 @@ Ii[3]
  -11             'R_n_Family'     -19     "Ii_s315" 
  -12          'R_Palatalised'  "Ii_s322"  "Ii_s323" 
  -13             'L_v_Family'     -17     "Ii_s321" 
- -14               'R_Coronal'     -24      "Ii_s39" 
- -15               'R_Coronal'   "Ii_s35"     -25    
+ -14              'R_Coronal'     -24      "Ii_s39" 
+ -15              'R_Coronal'   "Ii_s35"     -25    
  -16              'L_Silence'     -20     "Ii_s318" 
  -17             'L_r_Family'  "Ii_s320"  "Ii_s321" 
- -18               'R_Coronal'     -22      "Ii_s33" 
+ -18              'R_Coronal'     -22      "Ii_s33" 
  -19             'R_l_Family'  "Ii_s313"  "Ii_s314" 
  -20             'R_m_Family'     -23     "Ii_s317" 
  -21             'R_b_Family'  "Ii_s319"  "Ii_s323" 
  -22            'R_Fricative'   "Ii_s31"   "Ii_s32" 
  -23             'L_n_Family'  "Ii_s316"  "Ii_s320" 
  -24            'R_Fricative'   "Ii_s38"   "Ii_s39" 
- -25               'L_Coronal'   "Ii_s36"   "Ii_s37" 
+ -25              'L_Coronal'   "Ii_s36"   "Ii_s37" 
 }
 
 Ii[4]
@@ -980,7 +980,7 @@ J[2]
  -10                'R_Vowel'     -13      "J_s214" 
  -11          'R_Palatalised'     -12        -15    
  -12                  'R_V_i'     -16       "J_s22" 
- -13               'R_Coronal'     -25        -20    
+ -13              'R_Coronal'     -25        -20    
  -14          'R_Palatalised'     -24        -19    
  -15             'R_n_Family'     -23       "J_s23" 
  -16                'R_Vowel'    "J_s25"    "J_s21" 
@@ -992,8 +992,8 @@ J[2]
  -22          'R_Palatalised'   "J_s217"   "J_s218" 
  -23             'R_d_Family'     -26       "J_s26" 
  -24             'R_t_Family'    "J_s24"    "J_s25" 
- -25               'R_Silibant'   "J_s213"   "J_s211" 
- -26               'R_Coronal'    "J_s27"    "J_s22" 
+ -25             'R_Silibant'   "J_s213"   "J_s211" 
+ -26              'R_Coronal'    "J_s27"    "J_s22" 
  -27          'R_Palatalised'   "J_s221"   "J_s222" 
 }
 
@@ -1007,11 +1007,11 @@ J[3]
   -5          'R_Palatalised'      -8         -7    
   -6             'R_Sonorant'     -16        -17    
   -7             'R_k_Family'      -9      "J_s310" 
-  -8               'R_Coronal'     -18       "J_s36" 
+  -8              'R_Coronal'     -18       "J_s36" 
   -9             'R_g_Family'     -10       "J_s39" 
  -10           'R_Affricates'     -19      "J_s321" 
  -11             'R_n_Family'   "J_s311"     -14    
- -12               'R_Silibant'     -21        -15    
+ -12             'R_Silibant'     -21        -15    
  -13                  'R_V_i'    "J_s32"    "J_s33" 
  -14          'R_Palatalised'   "J_s312"   "J_s313" 
  -15          'R_Palatalised'   "J_s322"   "J_s323" 
@@ -1093,7 +1093,7 @@ M[2]
 
 M[3]
 {
-   0               'R_Coronal'      -1       "M_s33" 
+   0              'R_Coronal'      -1       "M_s33" 
   -1            'R_NonVoiced'    "M_s31"    "M_s32" 
 }
 
@@ -1120,9 +1120,9 @@ M_pal[4]
 N[2]
 {
    0                  'L_V_i'      -1         -3    
-  -1               'R_Coronal'      -2         -5    
+  -1              'R_Coronal'      -2         -5    
   -2            'R_Consonant'    "N_s21"      -4    
-  -3               'R_Coronal'      -6       "N_s28" 
+  -3              'R_Coronal'      -6       "N_s28" 
   -4                  'L_V_e'    "N_s22"    "N_s23" 
   -5             'R_d_Family'    "N_s24"    "N_s25" 
   -6             'R_g_Family'    "N_s26"    "N_s27" 
@@ -1150,14 +1150,14 @@ N_pal[2]
    0                  'L_V_i'      -1         -3    
   -1             'R_g_Family'      -2     "N_pal_s25" 
   -2             'R_k_Family'      -5         -4    
-  -3               'R_Coronal'  "N_pal_s25"  "N_pal_s26" 
+  -3              'R_Coronal'  "N_pal_s25"  "N_pal_s26" 
   -4                  'L_V_e'  "N_pal_s23"  "N_pal_s24" 
   -5                  'L_V_e'  "N_pal_s21"  "N_pal_s22" 
 }
 
 N_pal[3]
 {
-   0               'R_Coronal'      -1         -4    
+   0              'R_Coronal'      -1         -4    
   -1           'R_Affricates'      -2     "N_pal_s34" 
   -2            'R_Fricative'      -3     "N_pal_s33" 
   -3             'R_g_Family'  "N_pal_s31"  "N_pal_s32" 
@@ -1244,7 +1244,7 @@ Oo[2]
   -1          'L_Palatalised'      -2        -14    
   -2             'L_r_Family'      -4     "Oo_s210" 
   -3             'L_p_Family'      -5     "Oo_s221" 
-  -4               'L_Coronal'      -6         -9    
+  -4              'L_Coronal'      -6         -9    
   -5             'L_k_Family'      -8         -7    
   -6             'L_m_Family'     -10      "Oo_s26" 
   -7          'L_Palatalised'  "Oo_s219"  "Oo_s220" 
@@ -1257,7 +1257,7 @@ Oo[2]
  -14             'L_n_Family'     -17     "Oo_s214" 
  -15             'L_s_Family'  "Oo_s220"  "Oo_s218" 
  -16             'L_t_Family'  "Oo_s215"  "Oo_s216" 
- -17               'L_Coronal'     -20     "Oo_s213" 
+ -17              'L_Coronal'     -20     "Oo_s213" 
  -18             'L_b_Family'   "Oo_s24"   "Oo_s25" 
  -19                'L_Vowel'   "Oo_s21"   "Oo_s22" 
  -20             'L_Sonorant'  "Oo_s211"  "Oo_s212" 
@@ -1276,8 +1276,8 @@ Oo[3]
   -8             'L_n_Family'     -11        -18    
   -9             'L_r_Family'     -10        -23    
  -10             'R_v_Family'     -12      "Oo_s33" 
- -11               'L_Coronal'     -22        -27    
- -12               'R_Coronal'  "Oo_s318"     -17    
+ -11              'L_Coronal'     -22        -27    
+ -12              'R_Coronal'  "Oo_s318"     -17    
  -13             'L_k_Family'     -15     "Oo_s327" 
  -14             'L_m_Family'  "Oo_s328"  "Oo_s329" 
  -15             'L_s_Family'     -24     "Oo_s326" 
@@ -1288,7 +1288,7 @@ Oo[3]
  -20               'R_Labial'  "Oo_s314"  "Oo_s315" 
  -21               'R_Labial'     -31     "Oo_s318" 
  -22             'R_Sonorant'   "Oo_s36"     -25    
- -23               'R_Coronal'  "Oo_s324"   "Oo_s34" 
+ -23              'R_Coronal'  "Oo_s324"   "Oo_s34" 
  -24             'L_t_Family'  "Oo_s324"  "Oo_s325" 
  -25             'R_n_Family'     -32      "Oo_s38" 
  -26            'R_NonVoiced'  "Oo_s319"  "Oo_s320" 
@@ -1296,7 +1296,7 @@ Oo[3]
  -28               'R_Voiced'  "Oo_s322"  "Oo_s323" 
  -29             'R_t_Family'  "Oo_s326"  "Oo_s317" 
  -30             'R_Sonorant'     -35     "Oo_s311" 
- -31               'R_Coronal'  "Oo_s316"  "Oo_s317" 
+ -31              'R_Coronal'  "Oo_s316"  "Oo_s317" 
  -32             'L_g_Family'     -33      "Oo_s37" 
  -33             'L_k_Family'  "Oo_s315"  "Oo_s319" 
  -34             'R_Sonorant'   "Oo_s39"  "Oo_s310" 
@@ -1308,14 +1308,14 @@ Oo[4]
    0             'R_Sonorant'      -1         -2    
   -1             'R_k_Family'      -4         -9    
   -2               'R_Labial'      -3        -14    
-  -3               'R_Coronal'  "Oo_s414"      -6    
+  -3              'R_Coronal'  "Oo_s414"      -6    
   -4            'R_Fricative'      -5        -12    
   -5          'R_Palatalised'      -8        -10    
   -6          'R_Palatalised'     -17         -7    
   -7             'R_n_Family'     -11     "Oo_s419" 
-  -8               'R_Coronal'     -19        -13    
+  -8              'R_Coronal'     -19        -13    
   -9          'R_Palatalised'  "Oo_s411"     -18    
- -10               'R_Coronal'     -20        -16    
+ -10              'R_Coronal'     -20        -16    
  -11             'R_l_Family'  "Oo_s417"  "Oo_s418" 
  -12             'R_Z_Family'   "Oo_s49"  "Oo_s410" 
  -13             'R_d_Family'   "Oo_s42"   "Oo_s43" 
@@ -1326,27 +1326,27 @@ Oo[4]
  -18               'L_Labial'  "Oo_s412"  "Oo_s413" 
  -19               'R_Labial'     -21      "Oo_s45" 
  -20               'R_Labial'   "Oo_s44"   "Oo_s45" 
- -21               'L_Coronal'   "Oo_s44"   "Oo_s41" 
+ -21              'L_Coronal'   "Oo_s44"   "Oo_s41" 
  -22               'L_Labial'   "Oo_s46"   "Oo_s47" 
 }
 
 R[2]
 {
-   0               'R_Coronal'      -1         -4    
+   0              'R_Coronal'      -1         -4    
   -1            'R_Fricative'      -2         -6    
   -2                  'L_V_i'      -3       "R_s22" 
   -3                  'L_V_u'    "R_s21"    "R_s26" 
   -4                  'L_V_u'      -5       "R_s26" 
   -5                  'L_V_i'    "R_s24"    "R_s25" 
-  -6               'R_Silibant'    "R_s23"    "R_s25" 
+  -6             'R_Silibant'    "R_s23"    "R_s25" 
 }
 
 R[3]
 {
-   0               'R_Coronal'      -1         -4    
+   0              'R_Coronal'      -1         -4    
   -1            'R_Fricative'      -2         -3    
   -2              'R_Silence'      -5       "R_s33" 
-  -3               'R_Silibant'    "R_s34"    "R_s35" 
+  -3             'R_Silibant'    "R_s34"    "R_s35" 
   -4             'R_t_Family'    "R_s36"    "R_s37" 
   -5               'R_Labial'    "R_s31"    "R_s32" 
 }
@@ -1357,8 +1357,8 @@ R[4]
   -1             'R_t_Family'      -2       "R_s45" 
   -2              'R_Silence'      -3       "R_s44" 
   -3            'R_NonVoiced'      -5       "R_s43" 
-  -4               'R_Silibant'    "R_s46"    "R_s47" 
-  -5               'R_Coronal'    "R_s41"    "R_s42" 
+  -4             'R_Silibant'    "R_s46"    "R_s47" 
+  -5              'R_Coronal'    "R_s41"    "R_s42" 
 }
 
 R_pal[2]
@@ -1371,9 +1371,9 @@ R_pal[2]
 R_pal[3]
 {
    0            'R_Fricative'      -1         -3    
-  -1               'R_Coronal'      -2     "R_pal_s33" 
+  -1              'R_Coronal'      -2     "R_pal_s33" 
   -2               'R_Labial'      -4     "R_pal_s32" 
-  -3               'R_Silibant'  "R_pal_s34"  "R_pal_s35" 
+  -3             'R_Silibant'  "R_pal_s34"  "R_pal_s35" 
   -4             'R_g_Family'      -5     "R_pal_s31" 
   -5             'R_k_Family'  "R_pal_s34"  "R_pal_s31" 
 }
@@ -1382,7 +1382,7 @@ R_pal[4]
 {
    0            'R_Fricative'      -1         -2    
   -1            'R_NonVoiced'      -4         -3    
-  -2               'R_Silibant'  "R_pal_s47"  "R_pal_s48" 
+  -2             'R_Silibant'  "R_pal_s47"  "R_pal_s48" 
   -3             'R_k_Family'      -6     "R_pal_s46" 
   -4             'R_g_Family'      -5     "R_pal_s43" 
   -5               'R_Labial'  "R_pal_s41"  "R_pal_s42" 
@@ -1403,8 +1403,8 @@ S[2]
   -9        'L_ShortStressed'     -13      "S_s212" 
  -10             'R_k_Family'   "S_s212"   "S_s213" 
  -11       'L_StressedRising'     -12       "S_s26" 
- -12               'R_Coronal'    "S_s24"    "S_s25" 
- -13               'R_Coronal'   "S_s210"   "S_s211" 
+ -12              'R_Coronal'    "S_s24"    "S_s25" 
+ -13              'R_Coronal'   "S_s210"   "S_s211" 
  -14      'L_StressedFalling'    "S_s27"   "S_s211" 
  -15             'L_r_Family'     -16       "S_s23" 
  -16             'L_R_Family'    "S_s22"    "S_s23" 
@@ -1413,7 +1413,7 @@ S[2]
 S[3]
 {
    0            'R_Consonant'      -2         -1    
-  -1               'R_Coronal'      -5         -3    
+  -1              'R_Coronal'      -5         -3    
   -2              'L_Silence'      -4       "S_s37" 
   -3             'R_t_Family'      -9         -8    
   -4                  'R_V_a'      -6        -13    
@@ -1481,7 +1481,7 @@ S_pal[3]
   -3                'R_Vowel'      -6         -5    
   -4            'R_tS_Family'     -11         -9    
   -5                  'R_V_u'      -7     "S_pal_s313" 
-  -6               'R_Coronal'     -16        -14    
+  -6              'R_Coronal'     -16        -14    
   -7                  'R_V_o'      -8     "S_pal_s313" 
   -8            'L_NonVoiced'     -12        -23    
   -9             'L_k_Family'  "S_pal_s319"  "S_pal_s320" 
@@ -1529,7 +1529,7 @@ S_pal[4]
 U[2]
 {
    0            'L_NonVoiced'      -1         -2    
-  -1               'L_Coronal'      -5         -7    
+  -1              'L_Coronal'      -5         -7    
   -2             'L_t_Family'      -3        -12    
   -3             'L_s_Family'      -4        -39    
   -4          'L_Palatalised'     -11        -61    
@@ -1553,7 +1553,7 @@ U[2]
  -22             'L_l_Family'     -66        -26    
  -23              'R_Silence'     -38      "U_s232" 
  -24              'R_Silence'     -25      "U_s258" 
- -25               'R_Silibant'     -43      "U_s257" 
+ -25             'R_Silibant'     -43      "U_s257" 
  -26              'R_Silence'     -50      "U_s237" 
  -27             'L_Sonorant'   "U_s212"   "U_s213" 
  -28            'R_Fricative'     -33      "U_s241" 
@@ -1563,13 +1563,13 @@ U[2]
  -32          'R_Palatalised'     -48      "U_s248" 
  -33          'L_Palatalised'     -44      "U_s240" 
  -34            'R_NonVoiced'   "U_s243"   "U_s244" 
- -35               'R_Silibant'    "U_s29"     -46    
+ -35             'R_Silibant'    "U_s29"     -46    
  -36             'L_g_Family'   "U_s220"   "U_s214" 
  -37             'R_r_Family'   "U_s259"   "U_s260" 
- -38               'R_Silibant'     -47      "U_s231" 
+ -38             'R_Silibant'     -47      "U_s231" 
  -39          'R_Palatalised'     -57      "U_s254" 
  -40          'R_Palatalised'     -63      "U_s225" 
- -41               'R_Silibant'    "U_s27"    "U_s28" 
+ -41             'R_Silibant'    "U_s27"    "U_s28" 
  -42             'R_s_Family'     -67      "U_s227" 
  -43             'R_k_Family'     -56      "U_s256" 
  -44            'R_NonVoiced'   "U_s238"   "U_s239" 
@@ -1610,13 +1610,13 @@ U[3]
   -6             'R_v_Family'     -18         -7    
   -7          'R_Palatalised'     -16        -26    
   -8             'L_t_Family'     -10        -17    
-  -9               'R_Silibant'   "U_s334"     -12    
+  -9             'R_Silibant'   "U_s334"     -12    
  -10             'R_d_Family'     -13        -42    
  -11             'R_p_Family'     -19        -46    
  -12               'L_Labial'     -21        -28    
  -13             'R_g_Family'     -15       "U_s38" 
- -14               'L_Coronal'     -23        -38    
- -15               'L_Coronal'     -20        -45    
+ -14              'L_Coronal'     -23        -38    
+ -15              'L_Coronal'     -20        -45    
  -16               'L_Labial'   "U_s318"   "U_s319" 
  -17          'R_Palatalised'     -47        -40    
  -18             'R_b_Family'     -37      "U_s317" 
@@ -1626,7 +1626,7 @@ U[3]
  -22             'L_m_Family'     -44      "U_s325" 
  -23          'L_Palatalised'     -27      "U_s344" 
  -24             'L_s_Family'     -29      "U_s311" 
- -25               'L_Coronal'     -32        -33    
+ -25              'L_Coronal'     -32        -33    
  -26             'L_b_Family'   "U_s320"   "U_s321" 
  -27            'L_Fricative'     -34      "U_s345" 
  -28             'L_Sonorant'   "U_s338"   "U_s339" 
@@ -1636,10 +1636,10 @@ U[3]
  -32            'L_Fricative'   "U_s335"   "U_s336" 
  -33             'L_Sonorant'   "U_s336"   "U_s339" 
  -34            'L_Consonant'   "U_s340"     -48    
- -35               'L_Coronal'     -50      "U_s327" 
+ -35              'L_Coronal'     -50      "U_s327" 
  -36          'R_Palatalised'     -41      "U_s333" 
  -37          'R_Palatalised'     -53      "U_s316" 
- -38               'R_Silibant'   "U_s343"     -43    
+ -38             'R_Silibant'   "U_s343"     -43    
  -39             'R_n_Family'    "U_s32"    "U_s33" 
  -40             'R_r_Family'   "U_s343"   "U_s313" 
  -41          'L_Palatalised'     -51      "U_s332" 
@@ -1664,7 +1664,7 @@ U[4]
   -2              'R_Silence'      -3        -39    
   -3               'R_Labial'      -8         -6    
   -4             'R_k_Family'     -10        -25    
-  -5               'R_Silibant'     -19         -7    
+  -5             'R_Silibant'     -19         -7    
   -6             'R_v_Family'     -11        -14    
   -7          'R_Palatalised'     -17        -23    
   -8             'R_d_Family'      -9      "U_s412" 
@@ -1696,7 +1696,7 @@ U[4]
  -34               'L_Voiced'    "U_s45"    "U_s41" 
  -35             'R_Z_Family'   "U_s427"   "U_s428" 
  -36          'R_Palatalised'   "U_s410"   "U_s411" 
- -37               'L_Coronal'   "U_s435"   "U_s436" 
+ -37              'L_Coronal'   "U_s435"   "U_s436" 
  -38          'L_Palatalised'   "U_s433"   "U_s431" 
  -39             'L_m_Family'   "U_s419"   "U_s420" 
 }
@@ -1707,7 +1707,7 @@ Uo[2]
   -1          'L_Palatalised'      -2        -10    
   -2             'L_Sonorant'      -3         -6    
   -3             'L_d_Family'      -4      "Uo_s27" 
-  -4               'L_Silibant'      -5        -13    
+  -4             'L_Silibant'      -5        -13    
   -5             'L_t_Family'      -7      "Uo_s26" 
   -6             'L_r_Family'      -9     "Uo_s210" 
   -7            'L_NonVoiced'      -8      "Uo_s24" 
@@ -1728,7 +1728,7 @@ Uo[3]
   -3               'R_Voiced'      -5         -6    
   -4             'L_n_Family'   "Uo_s31"   "Uo_s32" 
   -5          'L_Palatalised'   "Uo_s36"   "Uo_s34" 
-  -6               'R_Coronal'   "Uo_s35"   "Uo_s36" 
+  -6              'R_Coronal'   "Uo_s35"   "Uo_s36" 
 }
 
 Uo[4]
@@ -1736,7 +1736,7 @@ Uo[4]
    0             'R_Sonorant'      -2         -1    
   -1               'R_Labial'      -3         -7    
   -2          'R_Palatalised'      -4         -5    
-  -3               'R_Coronal'   "Uo_s47"      -8    
+  -3              'R_Coronal'   "Uo_s47"      -8    
   -4            'R_Fricative'      -6      "Uo_s43" 
   -5             'R_s_Family'      -9      "Uo_s46" 
   -6               'R_Voiced'   "Uo_s41"   "Uo_s42" 
@@ -1755,7 +1755,7 @@ Uu[2]
   -5                'L_Vowel'      -6      "Uu_s27" 
   -6             'L_k_Family'      -8      "Uu_s26" 
   -7               'L_Voiced'  "Uu_s215"     -13    
-  -8               'L_Coronal'     -10        -12    
+  -8              'L_Coronal'     -10        -12    
   -9             'R_k_Family'     -15     "Uu_s213" 
  -10            'L_Fricative'   "Uu_s21"     -16    
  -11             'R_k_Family'     -14     "Uu_s210" 
@@ -1775,7 +1775,7 @@ Uu[3]
   -4          'R_Palatalised'   "Uu_s38"   "Uu_s39" 
   -5          'R_Palatalised'     -10         -8    
   -6          'R_Palatalised'     -12     "Uu_s312" 
-  -7               'L_Coronal'  "Uu_s313"  "Uu_s314" 
+  -7              'L_Coronal'  "Uu_s313"  "Uu_s314" 
   -8          'L_Palatalised'   "Uu_s33"     -13    
   -9             'R_p_Family'   "Uu_s36"   "Uu_s37" 
  -10             'R_r_Family'     -11      "Uu_s32" 
@@ -1786,7 +1786,7 @@ Uu[3]
 
 Uu[4]
 {
-   0               'R_Coronal'      -1         -2    
+   0              'R_Coronal'      -1         -2    
   -1            'R_Fricative'      -5         -6    
   -2             'R_Sonorant'      -4         -3    
   -3          'R_Palatalised'      -8     "Uu_s412" 
@@ -1808,7 +1808,7 @@ W[2]
   -3             'R_k_Family'      -4      "W_s213" 
   -4              'R_Silence'      -6      "W_s212" 
   -5             'R_p_Family'      -7       "W_s25" 
-  -6               'R_Silibant'      -8      "W_s211" 
+  -6             'R_Silibant'      -8      "W_s211" 
   -7             'R_k_Family'      -9       "W_s24" 
   -8               'R_Labial'     -10      "W_s210" 
   -9      'R_ShortUnstressed'     -11       "W_s23" 
@@ -1839,7 +1839,7 @@ W[3]
 
 W[4]
 {
-   0               'R_Silibant'      -1        -13    
+   0             'R_Silibant'      -1        -13    
   -1              'R_Silence'      -2      "W_s416" 
   -2            'R_NonVoiced'      -3         -4    
   -3             'R_g_Family'      -6        -11    
@@ -1849,7 +1849,7 @@ W[4]
   -7               'R_Labial'      -8       "W_s47" 
   -8            'R_dZ_Family'      -9       "W_s46" 
   -9          'R_Palatalised'     -14        -10    
- -10               'R_Coronal'    "W_s43"     -15    
+ -10              'R_Coronal'    "W_s43"     -15    
  -11          'R_Palatalised'    "W_s49"   "W_s410" 
  -12             'R_t_Family'   "W_s411"   "W_s412" 
  -13          'R_Palatalised'   "W_s417"   "W_s418" 
@@ -1922,7 +1922,7 @@ Z_pal[3]
    0               'R_Voiced'      -1         -3    
   -1              'L_Silence'      -2     "Z_pal_s35" 
   -2                  'R_V_e'      -4        -10    
-  -3               'R_Coronal'      -5         -7    
+  -3              'R_Coronal'      -5         -7    
   -4                  'R_V_i'      -9         -8    
   -5            'R_dZ_Family'      -6     "Z_pal_s39" 
   -6                  'L_V_i'  "Z_pal_s36"     -13    
@@ -2002,36 +2002,36 @@ a[2]
  -43          'R_Palatalised'     -74        -95    
  -44             'R_Sonorant'   "a_s232"   "a_s233" 
  -45          'R_Palatalised'     -67       -108    
- -46               'R_Silibant'     -87      "a_s262" 
+ -46             'R_Silibant'     -87      "a_s262" 
  -47          'R_Palatalised'     -65      "a_s237" 
  -48             'R_Sonorant'     -54        -86    
  -49            'R_Consonant'     -70        -78    
  -50            'R_Consonant'     -97        -51    
  -51               'R_Labial'     -57     "a_s2105" 
- -52               'R_Silibant'     -63     "a_s2110" 
+ -52             'R_Silibant'     -63     "a_s2110" 
  -53                  'L_V_i'     -90       "a_s27" 
- -54               'R_Coronal'     -62      "a_s292" 
+ -54              'R_Coronal'     -62      "a_s292" 
  -55             'L_Z_Family'   "a_s219"   "a_s220" 
  -56               'R_Labial'    -115      "a_s242" 
  -57             'R_Sonorant'     -92        -91    
  -58            'R_tS_Family'     -75      "a_s286" 
  -59              'R_Silence'     -60      "a_s281" 
- -60               'R_Silibant'     -61      "a_s280" 
+ -60             'R_Silibant'     -61      "a_s280" 
  -61                  'R_V_i'   "a_s279"   "a_s286" 
  -62              'R_Silence'     -76      "a_s291" 
  -63               'R_Labial'    -100     "a_s2109" 
  -64               'R_Labial'     -71      "a_s265" 
- -65               'R_Silibant'     -66      "a_s236" 
+ -65             'R_Silibant'     -66      "a_s236" 
  -66            'R_Consonant'   "a_s234"   "a_s235" 
  -67               'R_Labial'     -94      "a_s216" 
  -68          'R_Palatalised'     -82      "a_s268" 
  -69             'R_l_Family'    -101      "a_s223" 
  -70             'R_Sonorant'   "a_s252"   "a_s253" 
- -71               'R_Silibant'   "a_s263"   "a_s264" 
+ -71             'R_Silibant'   "a_s263"   "a_s264" 
  -72                  'L_V_a'     -83       "a_s28" 
  -73          'R_Palatalised'    -107      "a_s278" 
- -74               'R_Silibant'     -80      "a_s230" 
- -75               'R_Coronal'    -112       -111    
+ -74             'R_Silibant'     -80      "a_s230" 
+ -75              'R_Coronal'    -112       -111    
  -76                'R_Vowel'   "a_s289"   "a_s290" 
  -77             'R_Sonorant'    -110      "a_s298" 
  -78             'R_l_Family'   "a_s254"   "a_s255" 
@@ -2048,7 +2048,7 @@ a[2]
  -89                  'L_V_e'    "a_s21"    "a_s22" 
  -90               'R_Labial'     -98       "a_s26" 
  -91             'R_l_Family'  "a_s2104"  "a_s2105" 
- -92               'R_Silibant'    -113     "a_s2103" 
+ -92             'R_Silibant'    -113     "a_s2103" 
  -93          'R_Palatalised'   "a_s210"   "a_s211" 
  -94             'R_n_Family'   "a_s214"   "a_s215" 
  -95             'R_Sonorant'    -109      "a_s231" 
@@ -2061,15 +2061,15 @@ a[2]
  -102            'R_NonVoiced'   "a_s270"   "a_s271" 
  -103             'R_k_Family'    -104     "a_s2107" 
  -104             'R_g_Family'  "a_s2106"  "a_s2109" 
- -105               'R_Coronal'   "a_s226"   "a_s227" 
+ -105              'R_Coronal'   "a_s226"   "a_s227" 
  -106             'R_Sonorant'   "a_s246"   "a_s247" 
  -107            'R_Consonant'   "a_s276"   "a_s277" 
  -108               'R_Labial'   "a_s217"   "a_s218" 
- -109               'R_Silibant'   "a_s229"   "a_s230" 
+ -109             'R_Silibant'   "a_s229"   "a_s230" 
  -110            'R_Fricative'    -118      "a_s297" 
  -111             'R_n_Family'   "a_s284"   "a_s285" 
  -112               'R_Labial'   "a_s282"   "a_s283" 
- -113               'R_Coronal'  "a_s2102"  "a_s2107" 
+ -113              'R_Coronal'  "a_s2102"  "a_s2107" 
  -114            'R_Fricative'   "a_s265"   "a_s259" 
  -115               'R_Voiced'   "a_s240"   "a_s241" 
  -116             'R_l_Family'   "a_s293"   "a_s294" 
@@ -2102,7 +2102,7 @@ a[3]
  -19             'R_l_Family'     -46        -28    
  -20             'L_r_Family'     -31        -76    
  -21             'L_Sonorant'     -47        -32    
- -22               'R_Silibant'    -100        -30    
+ -22             'R_Silibant'    -100        -30    
  -23             'L_k_Family'     -48        -82    
  -24            'L_Consonant'     -42        -41    
  -25             'R_Sonorant'     -54        -49    
@@ -2128,9 +2128,9 @@ a[3]
  -45            'L_NonVoiced'     -92        -72    
  -46             'L_Sonorant'     -87        -69    
  -47             'L_g_Family'     -86       -117    
- -48               'R_Silibant'     -80     "a_s3120" 
+ -48             'R_Silibant'     -80     "a_s3120" 
  -49             'L_d_Family'     -51        -97    
- -50               'R_Coronal'     -62        -52    
+ -50              'R_Coronal'     -62        -52    
  -51             'L_n_Family'     -78      "a_s354" 
  -52             'R_n_Family'     -74       -160    
  -53             'L_Sonorant'    -165       -122    
@@ -2138,31 +2138,31 @@ a[3]
  -55             'R_m_Family'  "a_s3143"    -179    
  -56                'L_Vowel'     -58      "a_s388" 
  -57             'L_Sonorant'  "a_s3179"  "a_s3180" 
- -58               'L_Coronal'    -102       -144    
+ -58              'L_Coronal'    -102       -144    
  -59             'R_n_Family'     -83       -120    
  -60              'L_Silence'     -73     "a_s3132" 
- -61               'R_Coronal'    -123       -135    
+ -61              'R_Coronal'    -123       -135    
  -62             'R_g_Family'    -111     "a_s3177" 
  -63             'R_p_Family'     -85     "a_s3178" 
  -64             'L_n_Family'     -94      "a_s396" 
- -65               'L_Coronal'    -107       -149    
+ -65              'L_Coronal'    -107       -149    
  -66             'L_l_Family'     -89       -157    
- -67               'L_Coronal'    -129       -115    
+ -67              'L_Coronal'    -129       -115    
  -68             'L_l_Family'    -134      "a_s348" 
  -69             'L_r_Family'    -143      "a_s326" 
- -70               'R_Silibant'   "a_s380"    -180    
+ -70             'R_Silibant'   "a_s380"    -180    
  -71            'L_NonVoiced'    -101       -119    
- -72               'R_Coronal'    -154       "a_s38" 
+ -72              'R_Coronal'    -154       "a_s38" 
  -73            'L_NonVoiced'    -104       -130    
  -74             'R_d_Family'    -114     "a_s3169" 
  -75                  'R_V_i'    -128        -81    
  -76            'R_Fricative'    -168        -77    
- -77               'R_Silibant'    -204     "a_s3115" 
+ -77             'R_Silibant'    -204     "a_s3115" 
  -78             'L_r_Family'    -103      "a_s353" 
  -79             'L_g_Family'    -112      "a_s330" 
  -80            'R_tS_Family'    -110     "a_s3119" 
  -81               'L_Labial'    -127      "a_s399" 
- -82               'R_Coronal'    -138     "a_s3124" 
+ -82              'R_Coronal'    -138     "a_s3124" 
  -83             'L_k_Family'     -96       -192    
  -84             'L_n_Family'   "a_s389"   "a_s390" 
  -85             'R_k_Family'    -126     "a_s3177" 
@@ -2175,7 +2175,7 @@ a[3]
  -92             'L_r_Family'     -95       -141    
  -93             'L_n_Family'    -158       -150    
  -94             'L_d_Family'     -98      "a_s395" 
- -95               'L_Coronal'    -131       -145    
+ -95              'L_Coronal'    -131       -145    
  -96             'L_S_Family'    -162     "a_s3146" 
  -97             'R_m_Family'   "a_s355"   "a_s356" 
  -98             'L_g_Family'    -153      "a_s394" 
@@ -2186,8 +2186,8 @@ a[3]
  -103             'R_m_Family'    -197       -205    
  -104            'L_Consonant'    -173       -132    
  -105             'L_n_Family'   "a_s375"   "a_s376" 
- -106               'R_Silibant'   "a_s378"    -193    
- -107               'L_Silibant'    -176      "a_s372" 
+ -106             'R_Silibant'   "a_s378"    -193    
+ -107             'L_Silibant'    -176      "a_s372" 
  -108            'L_Consonant'    -139      "a_s344" 
  -109             'L_m_Family'   "a_s398"   "a_s399" 
  -110             'R_k_Family'    -183     "a_s3118" 
@@ -2196,7 +2196,7 @@ a[3]
  -113             'R_Sonorant'    -151     "a_s3165" 
  -114             'R_l_Family'    -199       -198    
  -115             'L_l_Family'  "a_s3106"  "a_s3107" 
- -116               'L_Coronal'    -189      "a_s367" 
+ -116              'L_Coronal'    -189      "a_s367" 
  -117             'R_l_Family'    -181     "a_s3153" 
  -118             'R_m_Family'   "a_s357"    -191    
  -119             'L_k_Family'   "a_s337"   "a_s338" 
@@ -2218,19 +2218,19 @@ a[3]
  -135             'L_Sonorant'    -202       -172    
  -136             'R_n_Family'  "a_s3154"  "a_s3155" 
  -137            'L_Consonant'    -186     "a_s3121" 
- -138               'R_Silibant'    -200     "a_s3123" 
+ -138             'R_Silibant'    -200     "a_s3123" 
  -139              'L_Silence'   "a_s342"   "a_s343" 
  -140            'L_NonVoiced'   "a_s320"    -182    
- -141               'R_Coronal'    "a_s34"    "a_s35" 
+ -141              'R_Coronal'    "a_s34"    "a_s35" 
  -142             'L_Sonorant'   "a_s340"   "a_s341" 
  -143               'L_Labial'    -178      "a_s325" 
  -144             'L_d_Family'   "a_s386"   "a_s387" 
- -145               'R_Coronal'    "a_s37"    "a_s33" 
+ -145              'R_Coronal'    "a_s37"    "a_s33" 
  -146             'R_v_Family'    -155     "a_s3149" 
  -147               'L_Voiced'    -164      "a_s385" 
  -148             'L_n_Family'   "a_s363"   "a_s364" 
  -149             'L_d_Family'   "a_s373"   "a_s374" 
- -150               'R_Silibant'  "a_s3109"  "a_s3110" 
+ -150             'R_Silibant'  "a_s3109"  "a_s3110" 
  -151             'L_m_Family'  "a_s3163"  "a_s3164" 
  -152             'L_g_Family'    -184      "a_s335" 
  -153             'L_r_Family'   "a_s392"   "a_s393" 
@@ -2251,7 +2251,7 @@ a[3]
  -168            'R_dZ_Family'  "a_s3112"  "a_s3114" 
  -169               'R_Labial'    -170     "a_s3162" 
  -170             'R_n_Family'    -171     "a_s3161" 
- -171               'R_Coronal'  "a_s3159"  "a_s3160" 
+ -171              'R_Coronal'  "a_s3159"  "a_s3160" 
  -172             'R_d_Family'   "a_s315"   "a_s316" 
  -173                  'L_V_i'    -174     "a_s3126" 
  -174                  'L_V_u'  "a_s3125"  "a_s3178" 
@@ -2277,7 +2277,7 @@ a[3]
  -194            'L_NonVoiced'   "a_s315"   "a_s311" 
  -195                  'L_V_i'    "a_s31"    "a_s32" 
  -196             'L_k_Family'  "a_s3129"  "a_s3130" 
- -197               'L_Silibant'   "a_s349"   "a_s350" 
+ -197             'L_Silibant'   "a_s349"   "a_s350" 
  -198             'L_p_Family'  "a_s3167"  "a_s3168" 
  -199             'L_p_Family'  "a_s3166"  "a_s3168" 
  -200           'R_Affricates'  "a_s3121"  "a_s3122" 
@@ -2287,7 +2287,7 @@ a[3]
  -204             'R_S_Family'  "a_s3113"  "a_s3114" 
  -205             'L_g_Family'    -206      "a_s356" 
  -206             'L_k_Family'   "a_s351"   "a_s352" 
- -207               'R_Silibant'  "a_s3147"  "a_s3120" 
+ -207             'R_Silibant'  "a_s3147"  "a_s3120" 
 }
 
 a[4]
@@ -2336,7 +2336,7 @@ a[4]
  -41             'L_l_Family'     -50      "a_s482" 
  -42               'L_Labial'     -72       -118    
  -43             'L_p_Family'     -52     "a_s4115" 
- -44               'L_Coronal'     -54        -48    
+ -44              'L_Coronal'     -54        -48    
  -45             'R_g_Family'   "a_s438"   "a_s439" 
  -46               'L_Labial'     -91        -79    
  -47             'L_k_Family'    -107      "a_s487" 
@@ -2348,7 +2348,7 @@ a[4]
  -53               'L_Labial'     -67      "a_s420" 
  -54               'L_Labial'     -63      "a_s472" 
  -55             'L_r_Family'     -82      "a_s480" 
- -56               'L_Coronal'     -87      "a_s453" 
+ -56              'L_Coronal'     -87      "a_s453" 
  -57               'L_Labial'     -88      "a_s458" 
  -58               'L_Labial'    -101     "a_s4100" 
  -59             'L_k_Family'    -120       "a_s43" 
@@ -2415,7 +2415,7 @@ a[4]
  -120               'L_Labial'    "a_s41"    "a_s42" 
  -121             'L_g_Family'   "a_s461"   "a_s462" 
  -122              'L_Silence'  "a_s4107"  "a_s4108" 
- -123               'L_Coronal'    -126      "a_s422" 
+ -123              'L_Coronal'    -126      "a_s422" 
  -124              'L_Silence'   "a_s496"   "a_s497" 
  -125             'L_r_Family'   "a_s447"   "a_s448" 
  -126            'L_Consonant'   "a_s423"   "a_s421" 
@@ -2472,7 +2472,7 @@ aA[3]
  -16             'R_k_Family'     -50     "aA_s339" 
  -17            'L_Consonant'     -26        -39    
  -18       'L_LongUnstressed'     -25     "aA_s327" 
- -19               'L_Coronal'     -40        -38    
+ -19              'L_Coronal'     -40        -38    
  -20             'R_r_Family'     -28     "aA_s327" 
  -21             'L_m_Family'     -31     "aA_s323" 
  -22              'R_Silence'     -35      "aA_s33" 
@@ -2485,7 +2485,7 @@ aA[3]
  -29                'L_Vowel'     -48     "aA_s326" 
  -30             'R_k_Family'     -42      "aA_s36" 
  -31             'R_k_Family'     -36     "aA_s322" 
- -32               'R_Coronal'  "aA_s310"  "aA_s311" 
+ -32              'R_Coronal'  "aA_s310"  "aA_s311" 
  -33            'R_NonVoiced'     -47        -34    
  -34            'L_NonVoiced'  "aA_s316"  "aA_s317" 
  -35            'L_Consonant'     -51      "aA_s37" 
@@ -2500,8 +2500,8 @@ aA[3]
  -44             'R_l_Family'  "aA_s342"  "aA_s343" 
  -45             'R_n_Family'  "aA_s344"  "aA_s345" 
  -46             'R_Sonorant'  "aA_s346"  "aA_s347" 
- -47               'L_Coronal'  "aA_s314"  "aA_s315" 
- -48               'L_Coronal'   "aA_s37"   "aA_s38" 
+ -47              'L_Coronal'  "aA_s314"  "aA_s315" 
+ -48              'L_Coronal'   "aA_s37"   "aA_s38" 
  -49                  'L_V_e'   "aA_s34"   "aA_s35" 
  -50             'R_p_Family'  "aA_s337"  "aA_s338" 
  -51                  'R_V_a'   "aA_s31"   "aA_s32" 
@@ -2521,8 +2521,8 @@ aA[4]
   -5               'R_Labial'      -6        -15    
   -6             'R_l_Family'     -10     "aA_s426" 
   -7               'R_Labial'      -8        -25    
-  -8               'R_Coronal'     -13        -18    
-  -9               'R_Silibant'     -17        -21    
+  -8              'R_Coronal'     -13        -18    
+  -9             'R_Silibant'     -17        -21    
  -10             'R_n_Family'  "aA_s424"  "aA_s425" 
  -11             'R_k_Family'     -12        -32    
  -12               'R_Voiced'     -16        -24    
@@ -2602,12 +2602,12 @@ aa[3]
   -7             'R_Sonorant'      -8        -10    
   -8            'R_Fricative'     -13        -17    
   -9               'R_Labial'     -15        -16    
- -10               'R_Coronal'  "aa_s320"  "aa_s314" 
+ -10              'R_Coronal'  "aa_s320"  "aa_s314" 
  -11             'R_Sonorant'  "aa_s315"  "aa_s316" 
  -12               'L_Labial'     -22     "aa_s322" 
- -13               'R_Coronal'  "aa_s310"  "aa_s311" 
- -14               'R_Coronal'   "aa_s36"     -18    
- -15               'R_Coronal'     -20     "aa_s315" 
+ -13              'R_Coronal'  "aa_s310"  "aa_s311" 
+ -14              'R_Coronal'   "aa_s36"     -18    
+ -15              'R_Coronal'     -20     "aa_s315" 
  -16             'R_b_Family'     -23      "aa_s35" 
  -17             'R_s_Family'  "aa_s312"  "aa_s313" 
  -18             'R_n_Family'   "aa_s37"   "aa_s38" 
@@ -2630,10 +2630,10 @@ aa[4]
   -7          'R_Palatalised'     -13         -9    
   -8            'R_Fricative'     -11      "aa_s44" 
   -9               'R_Labial'     -10      "aa_s48" 
- -10               'R_Coronal'  "aa_s411"   "aa_s47" 
+ -10              'R_Coronal'  "aa_s411"   "aa_s47" 
  -11             'R_g_Family'     -15      "aa_s43" 
  -12          'R_Palatalised'  "aa_s412"  "aa_s413" 
- -13               'R_Coronal'   "aa_s45"   "aa_s46" 
+ -13              'R_Coronal'   "aa_s45"   "aa_s46" 
  -14          'R_Palatalised'  "aa_s415"  "aa_s416" 
  -15             'R_b_Family'   "aa_s41"   "aa_s42" 
  -16               'L_Labial'  "aa_s417"  "aa_s418" 
@@ -2713,7 +2713,7 @@ b_pal[2]
  -10               'R_Voiced'  "b_pal_s27"  "b_pal_s28" 
  -11      'R_ShortUnstressed'  "b_pal_s214"  "b_pal_s215" 
  -12            'L_Consonant'  "b_pal_s21"     -14    
- -13               'R_Coronal'  "b_pal_s26"  "b_pal_s28" 
+ -13              'R_Coronal'  "b_pal_s26"  "b_pal_s28" 
  -14             'L_Sonorant'     -15     "b_pal_s23" 
  -15               'L_Voiced'  "b_pal_s210"  "b_pal_s22" 
 }
@@ -2915,7 +2915,7 @@ d_pal[3]
  -16              'L_Silence'  "d_pal_s34"  "d_pal_s311" 
  -17              'L_Silence'  "d_pal_s314"  "d_pal_s311" 
  -18             'R_v_Family'     -19     "d_pal_s314" 
- -19               'R_Coronal'  "d_pal_s312"  "d_pal_s313" 
+ -19              'R_Coronal'  "d_pal_s312"  "d_pal_s313" 
 }
 
 d_pal[4]
@@ -2935,7 +2935,7 @@ d_pal[4]
  -12             'R_g_Family'     -14     "d_pal_s49" 
  -13              'L_Silence'     -18     "d_pal_s414" 
  -14               'R_Labial'     -15     "d_pal_s48" 
- -15               'R_Coronal'  "d_pal_s47"  "d_pal_s48" 
+ -15              'R_Coronal'  "d_pal_s47"  "d_pal_s48" 
  -16            'L_Fricative'  "d_pal_s44"  "d_pal_s45" 
  -17             'L_z_Family'  "d_pal_s41"  "d_pal_s42" 
  -18       'R_LongUnstressed'     -19     "d_pal_s413" 
@@ -2969,7 +2969,7 @@ e[2]
   -3             'L_m_Family'      -6        -22    
   -4             'L_g_Family'      -9        -44    
   -5             'L_k_Family'      -8        -32    
-  -6               'L_Coronal'      -7        -17    
+  -6              'L_Coronal'      -7        -17    
   -7             'L_v_Family'     -13        -40    
   -8            'R_Diphthong'     -11        -16    
   -9            'L_Consonant'     -10        -12    
@@ -3035,12 +3035,12 @@ e[2]
  -69                  'L_V_o'    "e_s21"    "e_s22" 
  -70             'R_r_Family'   "e_s217"   "e_s218" 
  -71              'R_Silence'   "e_s272"   "e_s273" 
- -72               'R_Silibant'   "e_s250"   "e_s251" 
+ -72             'R_Silibant'   "e_s250"   "e_s251" 
  -73                  'R_V_a'     -76      "e_s222" 
  -74               'R_Labial'   "e_s213"   "e_s214" 
  -75             'R_l_Family'   "e_s274"   "e_s275" 
- -76               'R_Silibant'   "e_s220"   "e_s221" 
- -77               'R_Silibant'   "e_s233"   "e_s234" 
+ -76             'R_Silibant'   "e_s220"   "e_s221" 
+ -77             'R_Silibant'   "e_s233"   "e_s234" 
  -78             'R_Sonorant'   "e_s258"   "e_s259" 
  -79             'R_Sonorant'   "e_s235"   "e_s236" 
  -80            'R_Fricative'   "e_s256"   "e_s257" 
@@ -3080,10 +3080,10 @@ e[3]
  -26             'R_p_Family'     -48     "e_s3116" 
  -27               'L_Labial'     -32       -125    
  -28               'L_Labial'     -41        -54    
- -29               'R_Coronal'     -73        -55    
+ -29              'R_Coronal'     -73        -55    
  -30            'R_Fricative'     -63        -78    
  -31               'L_Labial'     -52        -66    
- -32               'L_Coronal'     -84        -57    
+ -32              'L_Coronal'     -84        -57    
  -33             'R_s_Family'    -107        -56    
  -34             'R_l_Family'     -62        -70    
  -35            'L_NonVoiced'     -51       -147    
@@ -3101,10 +3101,10 @@ e[3]
  -47             'R_Sonorant'     -80      "e_s352" 
  -48             'L_n_Family'     -77     "e_s3115" 
  -49             'L_n_Family'     -74      "e_s310" 
- -50               'L_Coronal'    "e_s32"    "e_s33" 
+ -50              'L_Coronal'    "e_s32"    "e_s33" 
  -51             'R_l_Family'     -86      "e_s338" 
  -52             'L_n_Family'     -69      "e_s379" 
- -53               'R_Coronal'   "e_s334"   "e_s335" 
+ -53              'R_Coronal'   "e_s334"   "e_s335" 
  -54             'L_p_Family'     -97     "e_s3109" 
  -55            'L_NonVoiced'    -123       -108    
  -56             'L_n_Family'     -71     "e_s3123" 
@@ -3127,18 +3127,18 @@ e[3]
  -73             'L_Sonorant'     -93      "e_s329" 
  -74               'L_Voiced'    "e_s39"     -92    
  -75               'L_Voiced'    "e_s36"    -106    
- -76               'L_Coronal'    -105      "e_s396" 
+ -76              'L_Coronal'    -105      "e_s396" 
  -77             'R_t_Family'     -95       -112    
  -78             'R_S_Family'  "e_s3128"  "e_s3129" 
- -79               'L_Coronal'   "e_s366"    -121    
+ -79              'L_Coronal'   "e_s366"    -121    
  -80            'R_Fricative'    -110      "e_s356" 
  -81             'L_Sonorant'    -120       -109    
  -82               'L_Voiced'   "e_s343"    -101    
  -83            'L_Consonant'    "e_s35"    "e_s31" 
  -84             'L_Sonorant'     -85      "e_s313" 
  -85                'L_Vowel'   "e_s311"   "e_s312" 
- -86               'L_Coronal'   "e_s337"    -117    
- -87               'L_Coronal'   "e_s323"   "e_s324" 
+ -86              'L_Coronal'   "e_s337"    -117    
+ -87              'L_Coronal'   "e_s323"   "e_s324" 
  -88             'R_r_Family'   "e_s357"   "e_s358" 
  -89             'L_s_Family'     -99      "e_s321" 
  -90             'R_Sonorant'    -143      "e_s387" 
@@ -3152,16 +3152,16 @@ e[3]
  -98             'L_Sonorant'   "e_s399"   "e_s397" 
  -99             'L_t_Family'    -130      "e_s320" 
  -100             'R_b_Family'   "e_s360"   "e_s361" 
- -101               'L_Coronal'   "e_s344"   "e_s345" 
+ -101              'L_Coronal'   "e_s344"   "e_s345" 
  -102             'R_r_Family'   "e_s375"    -118    
  -103            'L_NonVoiced'   "e_s398"   "e_s399" 
- -104               'L_Coronal'  "e_s3105"  "e_s3106" 
+ -104              'L_Coronal'  "e_s3105"  "e_s3106" 
  -105            'L_NonVoiced'    -126      "e_s395" 
  -106             'L_n_Family'    -136       "e_s38" 
  -107             'L_n_Family'  "e_s3117"  "e_s3118" 
  -108             'L_k_Family'   "e_s332"   "e_s333" 
  -109             'L_m_Family'    -145      "e_s386" 
- -110               'R_Coronal'   "e_s350"   "e_s351" 
+ -110              'R_Coronal'   "e_s350"   "e_s351" 
  -111            'L_Consonant'  "e_s3107"    -133    
  -112               'L_Labial'  "e_s3112"    -124    
  -113             'R_t_Family'    -146     "e_s3126" 
@@ -3183,16 +3183,16 @@ e[3]
  -129             'L_n_Family'  "e_s3120"   "e_s373" 
  -130             'L_k_Family'   "e_s318"   "e_s319" 
  -131             'R_g_Family'   "e_s326"   "e_s327" 
- -132               'R_Silibant'   "e_s346"   "e_s347" 
- -133               'L_Coronal'    -135     "e_s3104" 
- -134               'L_Coronal'    -149      "e_s331" 
+ -132             'R_Silibant'   "e_s346"   "e_s347" 
+ -133              'L_Coronal'    -135     "e_s3104" 
+ -134              'L_Coronal'    -149      "e_s331" 
  -135             'L_s_Family'  "e_s3102"  "e_s3103" 
  -136               'L_Labial'    "e_s37"   "e_s358" 
  -137             'R_m_Family'   "e_s362"   "e_s363" 
  -138                  'R_V_o'    "e_s34"    "e_s35" 
  -139             'L_m_Family'   "e_s390"   "e_s381" 
  -140             'L_k_Family'   "e_s322"   "e_s323" 
- -141               'L_Coronal'  "e_s3119"  "e_s3120" 
+ -141              'L_Coronal'  "e_s3119"  "e_s3120" 
  -142            'R_dZ_Family'   "e_s369"   "e_s370" 
  -143             'R_z_Family'  "e_s3126"  "e_s3128" 
  -144             'L_s_Family'   "e_s348"   "e_s349" 
@@ -3245,7 +3245,7 @@ e[4]
  -36             'L_p_Family'     -57      "e_s452" 
  -37             'R_Z_Family'   "e_s439"   "e_s440" 
  -38             'L_n_Family'     -60        -73    
- -39               'L_Coronal'     -40        -54    
+ -39              'L_Coronal'     -40        -54    
  -40               'L_Labial'     -50      "e_s414" 
  -41             'R_S_Family'   "e_s467"   "e_s468" 
  -42                  'R_V_o'     -49       "e_s45" 
@@ -3264,7 +3264,7 @@ e[4]
  -55               'L_Labial'     -70      "e_s428" 
  -56      'R_ShortUnstressed'    "e_s46"    "e_s47" 
  -57             'L_m_Family'   "e_s450"   "e_s451" 
- -58               'L_Coronal'    "e_s43"    "e_s44" 
+ -58              'L_Coronal'    "e_s43"    "e_s44" 
  -59             'L_k_Family'     -65      "e_s456" 
  -60      'R_ShortUnstressed'    "e_s48"    "e_s49" 
  -61             'L_k_Family'   "e_s447"   "e_s448" 
@@ -3290,7 +3290,7 @@ eA[2]
   -3            'L_NonVoiced'      -9         -7    
   -4             'L_r_Family'      -5     "eA_s215" 
   -5             'L_v_Family'      -6     "eA_s214" 
-  -6               'L_Coronal'  "eA_s211"      -8    
+  -6              'L_Coronal'  "eA_s211"      -8    
   -7             'L_k_Family'     -13      "eA_s29" 
   -8             'L_l_Family'  "eA_s212"  "eA_s213" 
   -9             'L_d_Family'     -10      "eA_s24" 
@@ -3322,18 +3322,18 @@ eA[3]
  -13             'L_r_Family'  "eA_s319"  "eA_s320" 
  -14             'L_m_Family'     -22     "eA_s317" 
  -15             'R_k_Family'     -16      "eA_s34" 
- -16               'L_Coronal'     -18      "eA_s33" 
+ -16              'L_Coronal'     -18      "eA_s33" 
  -17             'R_v_Family'  "eA_s313"  "eA_s314" 
  -18             'R_n_Family'   "eA_s34"   "eA_s38" 
  -19               'R_Labial'     -26     "eA_s314" 
- -20               'R_Coronal'   "eA_s39"  "eA_s310" 
+ -20              'R_Coronal'   "eA_s39"  "eA_s310" 
  -21             'R_n_Family'   "eA_s37"   "eA_s38" 
  -22             'R_n_Family'  "eA_s315"  "eA_s316" 
  -23                  'R_V_i'     -24     "eA_s312" 
  -24            'L_Consonant'   "eA_s31"   "eA_s36" 
  -25              'L_Silence'   "eA_s37"   "eA_s32" 
  -26                'L_Vowel'     -27     "eA_s317" 
- -27               'L_Coronal'  "eA_s311"  "eA_s312" 
+ -27              'L_Coronal'  "eA_s311"  "eA_s312" 
 }
 
 eA[4]
@@ -3343,7 +3343,7 @@ eA[4]
   -2             'R_l_Family'      -4     "eA_s422" 
   -3          'R_Palatalised'      -6        -12    
   -4          'R_Palatalised'      -7         -8    
-  -5               'R_Silibant'     -17        -18    
+  -5             'R_Silibant'     -17        -18    
   -6             'R_t_Family'      -9      "eA_s44" 
   -7               'R_Labial'     -11     "eA_s417" 
   -8             'R_v_Family'     -10     "eA_s421" 
@@ -3353,7 +3353,7 @@ eA[4]
  -12           'R_Affricates'     -13        -20    
  -13               'R_Labial'     -15      "eA_s48" 
  -14             'R_n_Family'  "eA_s418"  "eA_s419" 
- -15               'R_Coronal'     -22      "eA_s47" 
+ -15              'R_Coronal'     -22      "eA_s47" 
  -16             'R_k_Family'     -21      "eA_s43" 
  -17          'R_Palatalised'  "eA_s411"  "eA_s412" 
  -18          'R_Palatalised'  "eA_s413"  "eA_s414" 
@@ -3380,7 +3380,7 @@ eE[2]
  -12            'L_NonVoiced'     -17      "eE_s24" 
  -13             'R_s_Family'     -18     "eE_s213" 
  -14             'R_l_Family'  "eE_s214"   "eE_s28" 
- -15               'R_Silibant'  "eE_s215"  "eE_s216" 
+ -15             'R_Silibant'  "eE_s215"  "eE_s216" 
  -16               'L_Labial'     -19     "eE_s214" 
  -17             'L_Sonorant'     -20      "eE_s23" 
  -18            'R_Fricative'  "eE_s215"   "eE_s25" 
@@ -3391,7 +3391,7 @@ eE[2]
 eE[3]
 {
    0             'R_l_Family'      -1         -4    
-  -1               'R_Silibant'      -2         -9    
+  -1             'R_Silibant'      -2         -9    
   -2            'R_Consonant'      -8         -3    
   -3               'R_Labial'      -6        -12    
   -4             'L_d_Family'      -5     "eE_s310" 
@@ -3408,7 +3408,7 @@ eE[3]
 eE[4]
 {
    0             'R_l_Family'      -1         -4    
-  -1               'R_Silibant'      -2        -10    
+  -1             'R_Silibant'      -2        -10    
   -2              'R_Silence'      -3      "eE_s48" 
   -3               'R_Labial'      -6         -8    
   -4             'L_d_Family'      -5     "eE_s412" 
@@ -3416,7 +3416,7 @@ eE[4]
   -6          'R_Palatalised'      -9         -7    
   -7             'R_Sonorant'     -11      "eE_s44" 
   -8             'R_m_Family'     -13      "eE_s47" 
-  -9               'R_Coronal'     -12      "eE_s45" 
+  -9              'R_Coronal'     -12      "eE_s45" 
  -10          'R_Palatalised'   "eE_s49"  "eE_s410" 
  -11             'R_g_Family'   "eE_s42"   "eE_s43" 
  -12                'R_Vowel'   "eE_s46"   "eE_s41" 
@@ -3435,12 +3435,12 @@ ea[2]
   -7             'L_n_Family'     -13     "ea_s210" 
   -8             'L_n_Family'      -9     "ea_s222" 
   -9               'L_Labial'     -10     "ea_s221" 
- -10               'L_Coronal'  "ea_s219"  "ea_s220" 
+ -10              'L_Coronal'  "ea_s219"  "ea_s220" 
  -11             'L_k_Family'     -19        -23    
  -12             'L_n_Family'     -14     "ea_s217" 
- -13               'L_Coronal'     -18      "ea_s29" 
+ -13              'L_Coronal'     -18      "ea_s29" 
  -14               'L_Labial'     -15     "ea_s216" 
- -15               'L_Coronal'     -22     "ea_s215" 
+ -15              'L_Coronal'     -22     "ea_s215" 
  -16             'L_g_Family'     -21      "ea_s22" 
  -17               'L_Labial'  "ea_s218"  "ea_s221" 
  -18               'R_Labial'   "ea_s27"   "ea_s28" 
@@ -3463,9 +3463,9 @@ ea[3]
   -7          'R_Palatalised'  "ea_s312"  "ea_s313" 
   -8               'R_Labial'      -9        -11    
   -9             'R_Sonorant'     -12      "ea_s37" 
- -10               'R_Coronal'   "ea_s31"   "ea_s38" 
+ -10              'R_Coronal'   "ea_s31"   "ea_s38" 
  -11             'R_Sonorant'   "ea_s38"   "ea_s39" 
- -12               'R_Coronal'   "ea_s35"   "ea_s36" 
+ -12              'R_Coronal'   "ea_s35"   "ea_s36" 
  -13             'R_b_Family'   "ea_s32"   "ea_s33" 
 }
 
@@ -3504,8 +3504,8 @@ ee[2]
  -14                'L_Vowel'     -27      "ee_s24" 
  -15            'L_Fricative'     -16        -43    
  -16             'L_k_Family'     -26     "ee_s213" 
- -17               'R_Silibant'     -24        -52    
- -18               'R_Silibant'     -20        -41    
+ -17             'R_Silibant'     -24        -52    
+ -18             'R_Silibant'     -20        -41    
  -19             'L_g_Family'   "ee_s28"   "ee_s29" 
  -20                  'R_V_i'     -21     "ee_s242" 
  -21          'R_Palatalised'  "ee_s240"     -51    
@@ -3521,7 +3521,7 @@ ee[2]
  -31          'R_Palatalised'     -44        -38    
  -32          'R_Palatalised'  "ee_s217"  "ee_s216" 
  -33            'R_NonVoiced'   "ee_s26"   "ee_s27" 
- -34               'R_Silibant'  "ee_s211"  "ee_s212" 
+ -34             'R_Silibant'  "ee_s211"  "ee_s212" 
  -35             'R_Z_Family'  "ee_s235"  "ee_s236" 
  -36             'L_b_Family'  "ee_s221"  "ee_s222" 
  -37          'R_Palatalised'  "ee_s245"  "ee_s246" 
@@ -3535,7 +3535,7 @@ ee[2]
  -45                'R_Vowel'  "ee_s218"  "ee_s232" 
  -46          'R_Palatalised'  "ee_s232"  "ee_s233" 
  -47             'L_Z_Family'   "ee_s25"  "ee_s210" 
- -48               'L_Coronal'  "ee_s223"     -54    
+ -48              'L_Coronal'  "ee_s223"     -54    
  -49             'L_k_Family'  "ee_s219"  "ee_s220" 
  -50            'R_NonVoiced'   "ee_s29"  "ee_s223" 
  -51               'R_Labial'  "ee_s246"  "ee_s241" 
@@ -3551,7 +3551,7 @@ ee[3]
   -2               'R_Labial'      -3         -7    
   -3             'R_Sonorant'      -4         -5    
   -4                'R_Vowel'      -6        -11    
-  -5               'R_Coronal'     -32         -8    
+  -5              'R_Coronal'     -32         -8    
   -6          'R_Palatalised'     -14        -16    
   -7          'R_Palatalised'     -19        -12    
   -8             'L_d_Family'      -9     "ee_s319" 
@@ -3560,9 +3560,9 @@ ee[3]
  -11                  'R_V_i'     -17     "ee_s310" 
  -12             'R_m_Family'     -22     "ee_s326" 
  -13             'R_r_Family'     -34        -26    
- -14               'R_Coronal'     -36      "ee_s33" 
- -15               'R_Silibant'  "ee_s333"     -27    
- -16               'R_Coronal'     -24        -35    
+ -14              'R_Coronal'     -36      "ee_s33" 
+ -15             'R_Silibant'  "ee_s333"     -27    
+ -16              'R_Coronal'     -24        -35    
  -17                  'R_V_e'     -23        -29    
  -18             'L_n_Family'     -25     "ee_s332" 
  -19             'R_Sonorant'     -37        -33    
@@ -3571,7 +3571,7 @@ ee[3]
  -22             'R_v_Family'  "ee_s324"  "ee_s325" 
  -23                  'R_V_a'  "ee_s322"   "ee_s38" 
  -24             'R_g_Family'   "ee_s34"   "ee_s35" 
- -25               'R_Silibant'  "ee_s329"     -28    
+ -25             'R_Silibant'  "ee_s329"     -28    
  -26             'L_n_Family'  "ee_s314"  "ee_s315" 
  -27            'L_NonVoiced'     -31     "ee_s336" 
  -28             'L_Sonorant'  "ee_s330"  "ee_s331" 
@@ -3592,7 +3592,7 @@ ee[4]
   -1              'R_Silence'      -2     "ee_s428" 
   -2            'R_NonVoiced'      -3         -9    
   -3               'R_Labial'      -4        -10    
-  -4               'R_Coronal'      -5         -7    
+  -4              'R_Coronal'      -5         -7    
   -5             'R_Sonorant'      -6        -32    
   -6                'R_Vowel'     -20        -16    
   -7             'R_d_Family'     -12        -23    
@@ -3656,7 +3656,7 @@ f_pal[2]
    0            'L_NonVoiced'      -1     "f_pal_s25" 
   -1                'L_Vowel'      -3         -2    
   -2                  'L_V_i'      -4     "f_pal_s24" 
-  -3               'L_Coronal'  "f_pal_s21"  "f_pal_s24" 
+  -3              'L_Coronal'  "f_pal_s21"  "f_pal_s24" 
   -4                  'L_V_a'      -5     "f_pal_s23" 
   -5                  'L_V_e'  "f_pal_s22"  "f_pal_s23" 
 }
@@ -3754,7 +3754,7 @@ g[4]
  -13      'R_StressedFalling'     -24      "g_s412" 
  -14             'L_n_Family'     -15      "g_s421" 
  -15                  'L_V_o'     -28      "g_s420" 
- -16               'R_Coronal'    "g_s41"     -25    
+ -16              'R_Coronal'    "g_s41"     -25    
  -17                  'L_V_o'     -26       "g_s47" 
  -18                  'L_V_u'     -21      "g_s416" 
  -19       'R_LongUnstressed'    "g_s48"    "g_s49" 
@@ -3796,7 +3796,7 @@ g_pal[2]
  -22               'L_Labial'     -27     "g_pal_s214" 
  -23       'L_LongUnstressed'  "g_pal_s22"  "g_pal_s23" 
  -24       'L_StressedRising'  "g_pal_s25"  "g_pal_s26" 
- -25               'R_Coronal'  "g_pal_s212"  "g_pal_s213" 
+ -25              'R_Coronal'  "g_pal_s212"  "g_pal_s213" 
  -26      'L_StressedFalling'  "g_pal_s217"  "g_pal_s218" 
  -27             'L_R_Family'  "g_pal_s27"  "g_pal_s211" 
 }
@@ -3904,7 +3904,7 @@ i[2]
  -24               'R_Voiced'     -54        -25    
  -25          'R_Palatalised'     -75        -47    
  -26             'L_m_Family'     -84        -93    
- -27               'R_Silibant'     -36      "i_s267" 
+ -27             'R_Silibant'     -36      "i_s267" 
  -28             'R_k_Family'     -52      "i_s275" 
  -29                  'L_V_a'     -41      "i_s212" 
  -30          'R_Palatalised'     -37        -64    
@@ -3912,7 +3912,7 @@ i[2]
  -32             'L_d_Family'     -73        -44    
  -33          'R_Palatalised'     -85       -105    
  -34            'R_Fricative'     -45        -62    
- -35               'R_Silibant'     -72      "i_s251" 
+ -35             'R_Silibant'     -72      "i_s251" 
  -36          'R_Palatalised'     -59       -110    
  -37                'R_Vowel'   "i_s297"   "i_s293" 
  -38             'L_Z_Family'   "i_s225"     -96    
@@ -3920,11 +3920,11 @@ i[2]
  -40                  'L_V_a'     -55       "i_s25" 
  -41                  'L_V_u'     -42       -125    
  -42                  'L_V_o'     -68       "i_s29" 
- -43               'L_Coronal'   "i_s244"     -53    
+ -43              'L_Coronal'   "i_s244"     -53    
  -44          'R_Palatalised'     -66       -130    
  -45             'R_r_Family'     -48     "i_s2111" 
  -46             'R_Sonorant'     -83        -97    
- -47               'R_Coronal'     -78        -79    
+ -47              'R_Coronal'     -78        -79    
  -48             'R_Sonorant'    -102        -88    
  -49               'R_Labial'     -81       -138    
  -50            'R_Fricative'     -51        -61    
@@ -3938,13 +3938,13 @@ i[2]
  -58          'R_Palatalised'    -101        -89    
  -59             'R_m_Family'    -117      "i_s263" 
  -60             'L_l_Family'     -87      "i_s241" 
- -61               'R_Silibant'  "i_s2100"  "i_s2101" 
- -62               'R_Silibant'  "i_s2112"  "i_s2113" 
- -63               'R_Silibant'     -77      "i_s273" 
+ -61             'R_Silibant'  "i_s2100"  "i_s2101" 
+ -62             'R_Silibant'  "i_s2112"  "i_s2113" 
+ -63             'R_Silibant'     -77      "i_s273" 
  -64               'R_Voiced'  "i_s2113"     -65    
- -65               'R_Coronal'  "i_s2109"   "i_s294" 
+ -65              'R_Coronal'  "i_s2109"   "i_s294" 
  -66                'R_Vowel'   "i_s215"   "i_s216" 
- -67               'R_Coronal'     -80      "i_s297" 
+ -67              'R_Coronal'     -80      "i_s297" 
  -68          'R_Palatalised'    -123       "i_s28" 
  -69                  'L_V_o'     -70       "i_s22" 
  -70                  'L_V_u'    "i_s21"   "i_s210" 
@@ -3975,31 +3975,31 @@ i[2]
  -95                  'R_V_a'   "i_s229"   "i_s228" 
  -96          'R_Palatalised'   "i_s226"   "i_s227" 
  -97             'R_n_Family'     -98      "i_s283" 
- -98               'R_Coronal'     -99      "i_s282" 
+ -98              'R_Coronal'     -99      "i_s282" 
  -99               'R_Labial'   "i_s281"   "i_s282" 
  -100             'R_r_Family'    -137      "i_s249" 
  -101               'R_Labial'    -116      "i_s224" 
  -102             'L_s_Family'  "i_s2108"    -133    
  -103             'R_g_Family'    -118      "i_s279" 
- -104               'R_Coronal'   "i_s221"    -113    
+ -104              'R_Coronal'   "i_s221"    -113    
  -105             'R_Sonorant'   "i_s290"    -106    
  -106             'R_r_Family'    -135      "i_s292" 
  -107             'L_l_Family'   "i_s233"   "i_s234" 
  -108               'R_Labial'    -109     "i_s2110" 
- -109               'R_Coronal'  "i_s2109"  "i_s2110" 
+ -109              'R_Coronal'  "i_s2109"  "i_s2110" 
  -110               'R_Labial'    -111      "i_s266" 
- -111               'R_Coronal'    -112      "i_s265" 
+ -111              'R_Coronal'    -112      "i_s265" 
  -112             'R_Sonorant'   "i_s265"   "i_s264" 
  -113             'R_n_Family'   "i_s222"   "i_s223" 
  -114          'R_Palatalised'    "i_s23"    "i_s24" 
- -115               'R_Coronal'   "i_s287"   "i_s288" 
+ -115              'R_Coronal'   "i_s287"   "i_s288" 
  -116            'R_Consonant'   "i_s219"    -139    
  -117             'R_n_Family'   "i_s266"   "i_s262" 
  -118            'R_Fricative'   "i_s270"   "i_s271" 
  -119                  'R_V_i'   "i_s298"   "i_s299" 
  -120             'R_n_Family'   "i_s235"   "i_s236" 
  -121               'R_Labial'    -122      "i_s279" 
- -122               'R_Coronal'   "i_s278"   "i_s280" 
+ -122              'R_Coronal'   "i_s278"   "i_s280" 
  -123             'R_r_Family'    "i_s26"    "i_s27" 
  -124             'R_n_Family'   "i_s256"   "i_s257" 
  -125             'R_r_Family'   "i_s210"   "i_s211" 
@@ -4008,13 +4008,13 @@ i[2]
  -128             'R_Sonorant'   "i_s253"   "i_s254" 
  -129            'R_tS_Family'   "i_s258"   "i_s259" 
  -130             'R_Sonorant'   "i_s218"    -131    
- -131               'R_Coronal'   "i_s217"   "i_s218" 
+ -131              'R_Coronal'   "i_s217"   "i_s218" 
  -132            'R_Fricative'   "i_s231"   "i_s241" 
- -133               'R_Coronal'    -134     "i_s2107" 
+ -133              'R_Coronal'    -134     "i_s2107" 
  -134               'R_Labial'  "i_s2106"  "i_s2107" 
  -135             'R_m_Family'   "i_s291"   "i_s292" 
  -136             'R_r_Family'   "i_s284"   "i_s285" 
- -137               'R_Coronal'   "i_s258"   "i_s248" 
+ -137              'R_Coronal'   "i_s258"   "i_s248" 
  -138          'R_Palatalised'  "i_s2117"  "i_s2118" 
  -139            'R_Fricative'   "i_s222"   "i_s220" 
 }
@@ -4043,7 +4043,7 @@ i[3]
  -19               'R_Labial'     -22       -115    
  -20             'R_Sonorant'     -48        -25    
  -21            'L_NonVoiced'     -63        -36    
- -22               'R_Coronal'     -30        -27    
+ -22              'R_Coronal'     -30        -27    
  -23            'L_Fricative'     -42        -41    
  -24          'R_Palatalised'     -29        -68    
  -25            'L_Fricative'     -73        -61    
@@ -4088,7 +4088,7 @@ i[3]
  -64            'L_NonVoiced'    -122       -105    
  -65             'L_k_Family'     -66      "i_s392" 
  -66            'L_NonVoiced'    -142      "i_s391" 
- -67               'R_Coronal'   "i_s384"   "i_s385" 
+ -67              'R_Coronal'   "i_s384"   "i_s385" 
  -68          'L_Palatalised'    -103       -143    
  -69            'R_tS_Family'    -154     "i_s3101" 
  -70             'R_n_Family'     -79       -153    
@@ -4111,7 +4111,7 @@ i[3]
  -87            'L_Fricative'    -130      "i_s314" 
  -88             'R_l_Family'   "i_s357"   "i_s361" 
  -89             'L_Sonorant'   "i_s324"     -90    
- -90               'L_Coronal'   "i_s325"   "i_s326" 
+ -90              'L_Coronal'   "i_s325"   "i_s326" 
  -91            'L_ts_Family'    -150       -148    
  -92                'L_Vowel'    -133      "i_s330" 
  -93               'L_Labial'   "i_s315"   "i_s316" 
@@ -4195,7 +4195,7 @@ i[4]
   -9             'R_Sonorant'     -14        -19    
  -10             'R_k_Family'     -16        -17    
  -11               'R_Labial'     -12        -30    
- -12               'R_Coronal'     -13        -15    
+ -12              'R_Coronal'     -13        -15    
  -13             'R_Sonorant'     -26        -18    
  -14            'R_Fricative'     -25        -37    
  -15             'R_d_Family'     -34        -77    
@@ -4249,7 +4249,7 @@ i[4]
  -63              'L_Silence'    -102      "i_s417" 
  -64             'L_n_Family'     -65      "i_s434" 
  -65             'L_Sonorant'   "i_s431"     -66    
- -66               'L_Coronal'   "i_s432"   "i_s433" 
+ -66              'L_Coronal'   "i_s432"   "i_s433" 
  -67            'L_NonVoiced'   "i_s473"   "i_s474" 
  -68            'L_Fricative'     -88      "i_s464" 
  -69            'L_NonVoiced'   "i_s413"   "i_s414" 
@@ -4259,7 +4259,7 @@ i[4]
  -73             'L_t_Family'   "i_s462"   "i_s463" 
  -74             'L_Sonorant'    -105      "i_s420" 
  -75            'L_Fricative'     -95       "i_s49" 
- -76               'L_Silibant'     -93      "i_s472" 
+ -76             'L_Silibant'     -93      "i_s472" 
  -77                'L_Vowel'   "i_s452"   "i_s453" 
  -78             'L_Sonorant'   "i_s426"   "i_s427" 
  -79            'L_NonVoiced'   "i_s422"   "i_s423" 
@@ -4275,10 +4275,10 @@ i[4]
  -89              'L_Silence'   "i_s491"   "i_s492" 
  -90            'L_Diphthong'   "i_s495"   "i_s496" 
  -91             'L_s_Family'   "i_s489"   "i_s490" 
- -92               'L_Silibant'   "i_s441"   "i_s443" 
+ -92             'L_Silibant'   "i_s441"   "i_s443" 
  -93             'L_k_Family'   "i_s470"   "i_s471" 
- -94               'L_Coronal'   "i_s459"   "i_s460" 
- -95               'L_Coronal'    -104       "i_s48" 
+ -94              'L_Coronal'   "i_s459"   "i_s460" 
+ -95              'L_Coronal'    -104       "i_s48" 
  -96            'L_Consonant'   "i_s487"   "i_s488" 
  -97               'L_Voiced'   "i_s466"   "i_s467" 
  -98             'L_S_Family'   "i_s457"   "i_s458" 
@@ -4297,7 +4297,7 @@ iE[2]
   -1             'L_n_Family'      -2        -15    
   -2             'L_m_Family'      -3      "iE_s28" 
   -3             'L_Sonorant'      -8         -4    
-  -4               'L_Coronal'      -5         -7    
+  -4              'L_Coronal'      -5         -7    
   -5             'L_v_Family'     -14      "iE_s23" 
   -6             'L_p_Family'      -9     "iE_s215" 
   -7             'L_l_Family'     -13        -11    
@@ -4317,14 +4317,14 @@ iE[3]
   -1                  'R_V_i'      -2      "iE_s39" 
   -2             'L_n_Family'      -3      "iE_s37" 
   -3            'R_Fricative'      -8         -7    
-  -4               'R_Silibant'      -5     "iE_s312" 
+  -4             'R_Silibant'      -5     "iE_s312" 
   -5               'R_Labial'      -6     "iE_s311" 
   -6             'R_Sonorant'   "iE_s38"     -11    
   -7             'L_m_Family'   "iE_s35"   "iE_s36" 
   -8               'R_Labial'      -9      "iE_s34" 
-  -9               'R_Coronal'     -10      "iE_s33" 
+  -9              'R_Coronal'     -10      "iE_s33" 
  -10            'R_Consonant'   "iE_s31"   "iE_s32" 
- -11               'R_Coronal'   "iE_s39"  "iE_s310" 
+ -11              'R_Coronal'   "iE_s39"  "iE_s310" 
 }
 
 iE[4]
@@ -4334,18 +4334,18 @@ iE[4]
   -2             'R_Sonorant'      -4        -10    
   -3             'R_Sonorant'      -6        -13    
   -4            'R_Consonant'      -8         -5    
-  -5               'R_Coronal'      -9        -17    
+  -5              'R_Coronal'      -9        -17    
   -6            'R_tS_Family'     -11     "iE_s415" 
-  -7               'R_Silibant'  "iE_s419"     -12    
+  -7             'R_Silibant'  "iE_s419"     -12    
   -8                'R_Vowel'   "iE_s41"   "iE_s42" 
   -9               'R_Labial'     -15      "iE_s46" 
  -10               'R_Labial'   "iE_s49"     -18    
  -11               'R_Labial'     -16     "iE_s414" 
  -12          'R_Palatalised'  "iE_s420"  "iE_s421" 
  -13               'R_Labial'     -14     "iE_s418" 
- -14               'R_Coronal'  "iE_s416"  "iE_s417" 
+ -14              'R_Coronal'  "iE_s416"  "iE_s417" 
  -15             'R_g_Family'     -19      "iE_s45" 
- -16               'R_Coronal'  "iE_s412"  "iE_s413" 
+ -16              'R_Coronal'  "iE_s412"  "iE_s413" 
  -17             'R_d_Family'   "iE_s47"   "iE_s48" 
  -18             'R_m_Family'  "iE_s410"  "iE_s411" 
  -19             'L_n_Family'   "iE_s43"   "iE_s44" 
@@ -4356,7 +4356,7 @@ iI[2]
    0            'L_NonVoiced'      -1         -7    
   -1              'L_Silence'      -2        -12    
   -2             'L_n_Family'      -3     "iI_s214" 
-  -3               'L_Coronal'      -4         -5    
+  -3              'L_Coronal'      -4         -5    
   -4               'L_Labial'      -6         -8    
   -5             'L_d_Family'      -9     "iI_s213" 
   -6            'L_Fricative'     -10      "iI_s25" 
@@ -4366,10 +4366,10 @@ iI[2]
  -10        'L_ShortStressed'     -11      "iI_s24" 
  -11            'R_Consonant'   "iI_s21"     -14    
  -12            'R_NonVoiced'  "iI_s215"  "iI_s217" 
- -13               'R_Silibant'     -18     "iI_s211" 
+ -13             'R_Silibant'     -18     "iI_s211" 
  -14             'L_Sonorant'     -17      "iI_s23" 
  -15             'L_S_Family'     -19     "iI_s218" 
- -16               'R_Coronal'   "iI_s26"   "iI_s27" 
+ -16              'R_Coronal'   "iI_s26"   "iI_s27" 
  -17                'L_Vowel'  "iI_s213"   "iI_s22" 
  -18            'R_Fricative'   "iI_s29"     -20    
  -19             'L_p_Family'  "iI_s216"  "iI_s217" 
@@ -4382,7 +4382,7 @@ iI[3]
   -1             'R_Sonorant'      -3         -2    
   -2          'R_Palatalised'      -6        -10    
   -3             'R_k_Family'      -5        -12    
-  -4               'R_Silibant'      -8         -9    
+  -4             'R_Silibant'      -8         -9    
   -5                'R_Vowel'      -7     "iI_s310" 
   -6             'R_v_Family'     -14      "iI_s39" 
   -7               'R_Labial'     -13      "iI_s34" 
@@ -4391,7 +4391,7 @@ iI[3]
  -10             'R_n_Family'     -11     "iI_s312" 
  -11               'R_Labial'  "iI_s310"  "iI_s311" 
  -12          'R_Palatalised'   "iI_s35"   "iI_s36" 
- -13               'R_Coronal'     -15      "iI_s33" 
+ -13              'R_Coronal'     -15      "iI_s33" 
  -14             'R_n_Family'   "iI_s37"   "iI_s38" 
  -15          'R_Palatalised'   "iI_s31"   "iI_s32" 
  -16          'R_Palatalised'  "iI_s315"  "iI_s316" 
@@ -4403,8 +4403,8 @@ iI[4]
   -1            'R_NonVoiced'      -3         -2    
   -2             'R_p_Family'      -8     "iI_s412" 
   -3          'R_Palatalised'      -5         -7    
-  -4               'R_Silibant'     -10        -12    
-  -5               'R_Coronal'      -6         -9    
+  -4             'R_Silibant'     -10        -12    
+  -5              'R_Coronal'      -6         -9    
   -6               'R_Labial'     -11      "iI_s42" 
   -7             'R_Sonorant'     -15        -14    
   -8          'R_Palatalised'  "iI_s410"  "iI_s411" 
@@ -4444,11 +4444,11 @@ ie[3]
   -3             'R_n_Family'      -9        -14    
   -4            'R_Fricative'      -6        -10    
   -5            'R_NonVoiced'     -12        -11    
-  -6               'R_Coronal'      -8      "ie_s33" 
+  -6              'R_Coronal'      -8      "ie_s33" 
   -7            'L_NonVoiced'     -19      "ie_s38" 
   -8                'R_Vowel'     -20      "ie_s32" 
   -9            'R_NonVoiced'     -16        -13    
- -10               'R_Silibant'   "ie_s34"   "ie_s35" 
+ -10             'R_Silibant'   "ie_s34"   "ie_s35" 
  -11             'R_s_Family'     -15     "ie_s318" 
  -12             'L_p_Family'  "ie_s314"  "ie_s315" 
  -13             'R_t_Family'     -17     "ie_s317" 
@@ -4456,7 +4456,7 @@ ie[3]
  -15             'R_t_Family'  "ie_s316"  "ie_s317" 
  -16               'R_Labial'     -18     "ie_s315" 
  -17             'L_r_Family'  "ie_s310"  "ie_s311" 
- -18               'R_Coronal'   "ie_s39"  "ie_s312" 
+ -18              'R_Coronal'   "ie_s39"  "ie_s312" 
  -19             'L_d_Family'   "ie_s36"   "ie_s37" 
  -20             'L_m_Family'   "ie_s31"   "ie_s36" 
 }
@@ -4467,14 +4467,14 @@ ie[4]
   -1            'R_Fricative'      -3         -4    
   -2          'R_Palatalised'      -8         -6    
   -3          'R_Palatalised'      -5        -11    
-  -4               'R_Silibant'      -9        -10    
-  -5               'R_Coronal'     -12        -18    
+  -4             'R_Silibant'      -9        -10    
+  -5              'R_Coronal'     -12        -18    
   -6             'R_n_Family'      -7     "ie_s422" 
   -7               'R_Labial'     -15     "ie_s421" 
   -8               'R_Labial'     -17        -21    
   -9          'R_Palatalised'     -19     "ie_s412" 
  -10          'R_Palatalised'  "ie_s413"  "ie_s414" 
- -11               'R_Coronal'     -13      "ie_s49" 
+ -11              'R_Coronal'     -13      "ie_s49" 
  -12             'R_k_Family'     -14      "ie_s43" 
  -13            'R_tS_Family'     -16      "ie_s48" 
  -14               'R_Labial'     -20      "ie_s42" 
@@ -4519,11 +4519,11 @@ ii[2]
  -27               'R_Labial'     -36     "ii_s225" 
  -28               'R_Labial'     -32     "ii_s212" 
  -29             'R_r_Family'     -31      "ii_s24" 
- -30               'R_Silibant'  "ii_s229"  "ii_s230" 
+ -30             'R_Silibant'  "ii_s229"  "ii_s230" 
  -31                  'L_V_e'   "ii_s22"   "ii_s23" 
  -32             'L_b_Family'  "ii_s210"  "ii_s211" 
  -33               'R_Labial'  "ii_s217"  "ii_s221" 
- -34               'R_Coronal'   "ii_s21"   "ii_s24" 
+ -34              'R_Coronal'   "ii_s21"   "ii_s24" 
  -35            'R_Fricative'  "ii_s227"  "ii_s228" 
  -36             'R_s_Family'  "ii_s223"  "ii_s224" 
  -37            'R_Fricative'   "ii_s28"   "ii_s29" 
@@ -4559,12 +4559,12 @@ ii[3]
  -23              'L_Silence'     -42      "ii_s37" 
  -24             'R_v_Family'  "ii_s340"     -47    
  -25             'R_r_Family'   "ii_s39"  "ii_s310" 
- -26               'R_Coronal'  "ii_s314"     -48    
+ -26              'R_Coronal'  "ii_s314"     -48    
  -27             'L_n_Family'     -43     "ii_s347" 
  -28             'L_n_Family'     -35     "ii_s330" 
  -29            'L_NonVoiced'  "ii_s336"  "ii_s337" 
  -30             'R_m_Family'  "ii_s341"     -50    
- -31               'R_Coronal'     -32        -41    
+ -31              'R_Coronal'     -32        -41    
  -32             'R_Sonorant'  "ii_s326"  "ii_s318" 
  -33                  'R_V_a'     -45      "ii_s34" 
  -34             'R_l_Family'     -49      "ii_s32" 
@@ -4592,7 +4592,7 @@ ii[4]
   -1            'R_Fricative'      -2        -10    
   -2              'R_Silence'      -5     "ii_s414" 
   -3               'R_Labial'      -4         -6    
-  -4               'R_Coronal'     -25         -8    
+  -4              'R_Coronal'     -25         -8    
   -5                'R_Vowel'      -7        -24    
   -6          'R_Palatalised'     -12        -22    
   -7               'R_Labial'      -9        -17    
@@ -4675,7 +4675,7 @@ j[2]
  -47          'R_Palatalised'   "j_s230"   "j_s231" 
  -48                  'L_V_a'   "j_s215"   "j_s216" 
  -49             'R_z_Family'    "j_s21"   "j_s228" 
- -50               'R_Coronal'   "j_s229"     -61    
+ -50              'R_Coronal'   "j_s229"     -61    
  -51             'R_n_Family'   "j_s236"   "j_s237" 
  -52             'R_d_Family'   "j_s237"   "j_s241" 
  -53                  'L_V_e'     -54      "j_s234" 
@@ -4703,13 +4703,13 @@ j[3]
   -9      'L_ShortUnstressed'     -27        -11    
  -10          'R_Palatalised'     -31        -21    
  -11          'R_Palatalised'     -22        -16    
- -12               'R_Silibant'     -30        -32    
+ -12             'R_Silibant'     -30        -32    
  -13               'R_Labial'     -14        -25    
  -14             'R_n_Family'     -18      "j_s318" 
  -15                  'R_V_i'     -37        -44    
  -16             'R_b_Family'     -33       "j_s38" 
  -17      'L_StressedFalling'     -23      "j_s332" 
- -18               'R_Coronal'   "j_s315"     -39    
+ -18              'R_Coronal'   "j_s315"     -39    
  -19             'R_n_Family'     -20      "j_s314" 
  -20               'R_Labial'     -41        -34    
  -21      'L_ShortUnstressed'   "j_s327"     -26    
@@ -4719,7 +4719,7 @@ j[3]
  -25             'R_m_Family'   "j_s319"   "j_s320" 
  -26             'R_k_Family'   "j_s328"   "j_s329" 
  -27          'R_Palatalised'     -35       "j_s33" 
- -28               'R_Silibant'   "j_s341"   "j_s342" 
+ -28             'R_Silibant'   "j_s341"   "j_s342" 
  -29      'L_ShortUnstressed'   "j_s333"     -38    
  -30          'R_Palatalised'   "j_s336"   "j_s337" 
  -31      'L_ShortUnstressed'   "j_s327"     -43    
@@ -4757,7 +4757,7 @@ j[4]
  -14      'L_StressedFalling'     -25        -40    
  -15             'R_d_Family'     -21        -37    
  -16            'R_tS_Family'     -29      "j_s429" 
- -17               'R_Coronal'   "j_s417"     -22    
+ -17              'R_Coronal'   "j_s417"     -22    
  -18                  'R_V_i'     -34      "j_s425" 
  -19            'R_dZ_Family'     -23       "j_s49" 
  -20             'R_n_Family'     -33      "j_s414" 
@@ -5001,7 +5001,7 @@ k[2]
  -35       'L_StressedRising'     -40      "k_s220" 
  -36             'L_R_Family'     -46      "k_s211" 
  -37                'R_Vowel'   "k_s231"    "k_s22" 
- -38               'R_Coronal'   "k_s251"   "k_s252" 
+ -38              'R_Coronal'   "k_s251"   "k_s252" 
  -39                  'L_V_a'   "k_s221"     -60    
  -40                  'L_V_a'   "k_s218"   "k_s219" 
  -41             'L_Sonorant'     -48      "k_s228" 
@@ -5027,7 +5027,7 @@ k[2]
  -61                'R_Vowel'   "k_s248"   "k_s249" 
  -62       'L_StressedRising'   "k_s237"   "k_s238" 
  -63                'R_Vowel'    "k_s29"   "k_s210" 
- -64               'R_Coronal'   "k_s234"   "k_s235" 
+ -64              'R_Coronal'   "k_s234"   "k_s235" 
 }
 
 k[3]
@@ -5165,7 +5165,7 @@ k_pal[2]
  -24       'L_StressedRising'  "k_pal_s210"  "k_pal_s211" 
  -25                'R_Vowel'  "k_pal_s228"     -31    
  -26      'L_StressedFalling'  "k_pal_s214"  "k_pal_s215" 
- -27               'R_Coronal'     -29     "k_pal_s24" 
+ -27              'R_Coronal'     -29     "k_pal_s24" 
  -28                'R_Vowel'     -43     "k_pal_s26" 
  -29                'L_Vowel'     -35     "k_pal_s23" 
  -30             'L_Sonorant'     -42     "k_pal_s220" 
@@ -5551,7 +5551,7 @@ m[2]
  -22                  'R_V_a'   "m_s231"   "m_s216" 
  -23       'L_StressedRising'     -34      "m_s231" 
  -24      'L_StressedFalling'     -29      "m_s227" 
- -25               'R_Silibant'   "m_s211"     -32    
+ -25             'R_Silibant'   "m_s211"     -32    
  -26                  'L_V_u'   "m_s214"   "m_s215" 
  -27      'L_ShortUnstressed'   "m_s221"   "m_s222" 
  -28                  'R_V_a'   "m_s219"   "m_s220" 
@@ -5578,7 +5578,7 @@ m[3]
   -9              'L_Silence'     -26      "m_s321" 
  -10                  'L_V_i'     -27      "m_s319" 
  -11                  'L_V_i'     -17        -25    
- -12               'R_Coronal'     -18        -16    
+ -12              'R_Coronal'     -18        -16    
  -13                  'L_V_i'     -22      "m_s316" 
  -14            'L_Fricative'     -20        -28    
  -15             'L_Sonorant'   "m_s312"     -21    
@@ -5605,7 +5605,7 @@ m[4]
 {
    0                'R_Vowel'      -2         -1    
   -1                  'R_V_a'      -3         -6    
-  -2               'R_Silibant'      -5        -16    
+  -2             'R_Silibant'      -5        -16    
   -3      'R_StressedFalling'      -4        -12    
   -4                  'R_V_o'      -8         -9    
   -5            'R_Consonant'    "m_s41"      -7    
@@ -5642,13 +5642,13 @@ m_pal[2]
   -3              'L_Silence'      -6     "m_pal_s25" 
   -4                  'L_V_i'      -5        -19    
   -5                  'L_V_e'      -7        -18    
-  -6               'L_Silibant'      -9     "m_pal_s24" 
+  -6             'L_Silibant'      -9     "m_pal_s24" 
   -7                  'L_V_a'     -16        -15    
   -8                  'L_V_i'     -10        -12    
   -9            'L_NonVoiced'     -17        -14    
- -10               'R_Silibant'     -13     "m_pal_s219" 
+ -10             'R_Silibant'     -13     "m_pal_s219" 
  -11            'L_Consonant'  "m_pal_s215"  "m_pal_s26" 
- -12               'R_Silibant'  "m_pal_s220"  "m_pal_s221" 
+ -12             'R_Silibant'  "m_pal_s220"  "m_pal_s221" 
  -13      'L_StressedFalling'     -22     "m_pal_s218" 
  -14             'L_S_Family'  "m_pal_s22"  "m_pal_s23" 
  -15                  'R_V_e'     -21     "m_pal_s211" 
@@ -5670,7 +5670,7 @@ m_pal[3]
   -2                  'R_V_e'      -4         -3    
   -3              'L_Silence'      -8     "m_pal_s312" 
   -4              'L_Silence'      -7     "m_pal_s36" 
-  -5               'R_Silibant'      -6     "m_pal_s320" 
+  -5             'R_Silibant'      -6     "m_pal_s320" 
   -6            'R_NonVoiced'     -14        -16    
   -7      'R_StressedFalling'     -10     "m_pal_s35" 
   -8                  'L_V_u'     -11     "m_pal_s311" 
@@ -5693,7 +5693,7 @@ m_pal[4]
 {
    0          'R_Palatalised'      -1         -2    
   -1                  'R_V_e'      -5         -3    
-  -2               'R_Silibant'      -7     "m_pal_s420" 
+  -2             'R_Silibant'      -7     "m_pal_s420" 
   -3      'R_StressedFalling'      -4     "m_pal_s413" 
   -4       'R_LongUnstressed'      -8     "m_pal_s412" 
   -5       'R_StressedRising'      -6     "m_pal_s45" 
@@ -5722,7 +5722,7 @@ n[2]
   -3            'L_NonVoiced'     -10        -14    
   -4                'R_Vowel'      -6         -7    
   -5                'R_Vowel'     -11         -9    
-  -6               'R_Coronal'     -12        -25    
+  -6              'R_Coronal'     -12        -25    
   -7                  'L_V_u'      -8      "n_s224" 
   -8                  'L_V_o'     -19        -35    
   -9      'L_StressedFalling'     -16      "n_s232" 
@@ -5831,13 +5831,13 @@ n_pal[2]
   -3            'L_NonVoiced'     -13        -10    
   -4                'R_Vowel'      -6         -7    
   -5          'R_Palatalised'     -14        -12    
-  -6               'R_Coronal'      -8        -19    
+  -6              'R_Coronal'      -8        -19    
   -7                  'L_V_e'     -11        -32    
   -8           'R_Affricates'      -9        -35    
   -9                  'L_V_e'     -16        -21    
  -10             'L_s_Family'     -30     "n_pal_s26" 
  -11                  'L_V_a'     -17     "n_pal_s223" 
- -12               'R_Coronal'     -18     "n_pal_s233" 
+ -12              'R_Coronal'     -18     "n_pal_s233" 
  -13             'L_Z_Family'     -15     "n_pal_s25" 
  -14      'L_ShortUnstressed'     -20        -29    
  -15            'L_Consonant'     -22        -24    
@@ -5968,7 +5968,7 @@ o[2]
  -16             'L_t_Family'   "o_s215"   "o_s214" 
  -17          'R_Palatalised'   "o_s220"   "o_s221" 
  -18                  'L_V_e'    "o_s25"    "o_s26" 
- -19               'R_Coronal'    "o_s29"   "o_s210" 
+ -19              'R_Coronal'    "o_s29"   "o_s210" 
  -20             'R_r_Family'   "o_s215"   "o_s216" 
  -21             'R_Sonorant'   "o_s212"     -23    
  -22          'R_Palatalised'   "o_s218"   "o_s219" 
@@ -5996,7 +5996,7 @@ o[3]
  -16             'R_l_Family'     -23       "o_s34" 
  -17             'R_Sonorant'   "o_s323"     -33    
  -18             'L_r_Family'     -19      "o_s316" 
- -19               'L_Coronal'     -30        -31    
+ -19              'L_Coronal'     -30        -31    
  -20             'R_k_Family'     -22      "o_s311" 
  -21             'R_l_Family'   "o_s332"   "o_s333" 
  -22            'R_NonVoiced'     -36      "o_s310" 
@@ -6013,7 +6013,7 @@ o[3]
  -33             'R_r_Family'   "o_s324"   "o_s325" 
  -34             'R_Sonorant'   "o_s330"   "o_s312" 
  -35             'R_n_Family'   "o_s326"   "o_s327" 
- -36               'R_Coronal'    "o_s38"    "o_s39" 
+ -36              'R_Coronal'    "o_s38"    "o_s39" 
 }
 
 o[4]
@@ -6029,14 +6029,14 @@ o[4]
   -8             'R_l_Family'     -19        -24    
   -9             'R_k_Family'     -10       "o_s47" 
  -10               'R_Labial'     -11        -20    
- -11               'R_Coronal'     -12        -23    
+ -11              'R_Coronal'     -12        -23    
  -12             'R_g_Family'     -17       "o_s43" 
  -13               'R_Labial'     -26      "o_s417" 
  -14             'R_f_Family'     -22      "o_s414" 
  -15            'R_ts_Family'     -16      "o_s411" 
  -16            'R_Fricative'     -18      "o_s410" 
- -17               'R_Silibant'    "o_s41"    "o_s42" 
- -18               'R_Coronal'    "o_s48"    "o_s49" 
+ -17             'R_Silibant'    "o_s41"    "o_s42" 
+ -18              'R_Coronal'    "o_s48"    "o_s49" 
  -19             'L_r_Family'     -21      "o_s422" 
  -20             'R_b_Family'   "o_s412"    "o_s46" 
  -21             'L_t_Family'   "o_s420"   "o_s421" 
@@ -6051,16 +6051,16 @@ oO[2]
 {
    0          'L_Palatalised'      -1         -3    
   -1             'L_Sonorant'      -2         -5    
-  -2               'L_Coronal'      -4         -6    
+  -2              'L_Coronal'      -4         -6    
   -3            'L_NonVoiced'      -8     "oO_s220" 
   -4            'L_Fricative'      -9        -11    
   -5             'L_r_Family'      -7     "oO_s214" 
   -6             'L_d_Family'   "oO_s28"   "oO_s29" 
-  -7               'L_Coronal'     -12        -13    
-  -8               'L_Coronal'     -14        -15    
+  -7              'L_Coronal'     -12        -13    
+  -8              'L_Coronal'     -14        -15    
   -9             'L_k_Family'     -10      "oO_s25" 
  -10             'L_g_Family'     -16      "oO_s24" 
- -11               'L_Silibant'   "oO_s26"   "oO_s27" 
+ -11             'L_Silibant'   "oO_s26"   "oO_s27" 
  -12             'L_m_Family'  "oO_s210"  "oO_s211" 
  -13             'L_l_Family'  "oO_s212"  "oO_s213" 
  -14            'R_Fricative'  "oO_s215"     -18    
@@ -6076,14 +6076,14 @@ oO[3]
   -1            'R_Fricative'      -3         -4    
   -2            'R_Fricative'      -5        -23    
   -3          'R_Palatalised'      -6        -11    
-  -4               'L_Coronal'      -7         -9    
+  -4              'L_Coronal'      -7         -9    
   -5            'R_NonVoiced'     -15        -42    
   -6               'R_Labial'      -8        -10    
   -7          'R_Palatalised'     -19        -25    
   -8              'R_Silence'     -14        -12    
   -9             'L_r_Family'     -13        -34    
  -10             'R_Sonorant'  "oO_s327"   "oO_s35" 
- -11               'L_Coronal'     -16        -20    
+ -11              'L_Coronal'     -16        -20    
  -12            'L_Consonant'   "oO_s34"  "oO_s324" 
  -13             'L_n_Family'     -18     "oO_s320" 
  -14             'R_g_Family'     -17        -39    
@@ -6101,16 +6101,16 @@ oO[3]
  -26              'R_Silence'     -32     "oO_s324" 
  -27             'R_l_Family'   "oO_s39"  "oO_s310" 
  -28                'R_Vowel'   "oO_s31"  "oO_s312" 
- -29               'R_Coronal'     -41     "oO_s312" 
+ -29              'R_Coronal'     -41     "oO_s312" 
  -30               'L_Labial'   "oO_s37"   "oO_s38" 
  -31            'L_Fricative'     -40     "oO_s319" 
  -32                'R_Vowel'     -33     "oO_s323" 
  -33             'R_Sonorant'  "oO_s326"  "oO_s323" 
- -34               'R_Silibant'  "oO_s321"  "oO_s322" 
+ -34             'R_Silibant'  "oO_s321"  "oO_s322" 
  -35             'R_p_Family'  "oO_s310"   "oO_s36" 
  -36             'L_v_Family'  "oO_s316"  "oO_s317" 
  -37          'R_Palatalised'  "oO_s328"  "oO_s329" 
- -38               'L_Coronal'   "oO_s36"   "oO_s32" 
+ -38              'L_Coronal'   "oO_s36"   "oO_s32" 
  -39             'L_m_Family'  "oO_s311"   "oO_s33" 
  -40               'L_Labial'  "oO_s313"  "oO_s314" 
  -41             'L_r_Family'  "oO_s311"  "oO_s321" 
@@ -6141,7 +6141,7 @@ oO[4]
  -19          'L_Palatalised'  "oO_s421"  "oO_s422" 
  -20             'R_m_Family'  "oO_s417"  "oO_s418" 
  -21          'L_Palatalised'  "oO_s424"  "oO_s425" 
- -22               'R_Coronal'  "oO_s414"     -27    
+ -22              'R_Coronal'  "oO_s414"     -27    
  -23          'R_Palatalised'   "oO_s47"   "oO_s48" 
  -24          'R_Palatalised'   "oO_s44"   "oO_s45" 
  -25            'R_dZ_Family'   "oO_s48"   "oO_s43" 
@@ -6162,11 +6162,11 @@ oo[2]
   -8          'L_Palatalised'     -33        -86    
   -9             'L_m_Family'     -20        -13    
  -10             'L_t_Family'     -16        -37    
- -11               'L_Coronal'     -24        -17    
+ -11              'L_Coronal'     -24        -17    
  -12             'L_d_Family'     -14        -58    
  -13              'R_Silence'     -15     "oo_s256" 
  -14          'L_Palatalised'     -18        -66    
- -15               'R_Coronal'     -22        -32    
+ -15              'R_Coronal'     -22        -32    
  -16             'L_s_Family'     -27        -29    
  -17             'L_n_Family'     -51        -46    
  -18             'L_g_Family'     -42        -64    
@@ -6190,7 +6190,7 @@ oo[2]
  -36             'R_Sonorant'     -38        -59    
  -37          'R_Palatalised'     -52        -57    
  -38            'R_Consonant'     -53        -39    
- -39               'R_Coronal'     -67     "oo_s273" 
+ -39              'R_Coronal'     -67     "oo_s273" 
  -40              'R_Silence'     -56     "oo_s263" 
  -41                  'R_V_a'     -73     "oo_s249" 
  -42            'L_Consonant'   "oo_s21"   "oo_s22" 
@@ -6214,7 +6214,7 @@ oo[2]
  -60             'R_k_Family'     -70     "oo_s240" 
  -61          'R_Palatalised'  "oo_s268"  "oo_s269" 
  -62          'R_Palatalised'  "oo_s212"  "oo_s213" 
- -63               'R_Silibant'     -79     "oo_s258" 
+ -63             'R_Silibant'     -79     "oo_s258" 
  -64              'R_Silence'   "oo_s23"   "oo_s24" 
  -65                  'R_V_a'     -87     "oo_s235" 
  -66              'R_Silence'     -92      "oo_s27" 
@@ -6230,19 +6230,19 @@ oo[2]
  -76              'R_Silence'  "oo_s277"  "oo_s278" 
  -77              'R_Silence'     -90     "oo_s244" 
  -78          'R_Palatalised'  "oo_s223"  "oo_s224" 
- -79               'R_Coronal'  "oo_s257"  "oo_s258" 
+ -79              'R_Coronal'  "oo_s257"  "oo_s258" 
  -80               'R_Labial'  "oo_s210"   "oo_s28" 
- -81               'R_Silibant'  "oo_s260"  "oo_s261" 
- -82               'R_Coronal'  "oo_s221"  "oo_s222" 
+ -81             'R_Silibant'  "oo_s260"  "oo_s261" 
+ -82              'R_Coronal'  "oo_s221"  "oo_s222" 
  -83               'R_Labial'  "oo_s264"  "oo_s265" 
- -84               'R_Coronal'     -85     "oo_s238" 
+ -84              'R_Coronal'     -85     "oo_s238" 
  -85            'R_Fricative'  "oo_s237"  "oo_s238" 
  -86          'R_Palatalised'  "oo_s231"  "oo_s232" 
  -87             'R_k_Family'     -88     "oo_s234" 
  -88               'R_Labial'  "oo_s233"  "oo_s234" 
  -89            'R_NonVoiced'  "oo_s246"  "oo_s247" 
  -90               'R_Labial'  "oo_s242"  "oo_s243" 
- -91               'R_Coronal'  "oo_s244"  "oo_s241" 
+ -91              'R_Coronal'  "oo_s244"  "oo_s241" 
  -92             'L_g_Family'   "oo_s25"   "oo_s26" 
 }
 
@@ -6259,7 +6259,7 @@ oo[3]
   -8             'R_t_Family'     -12        -37    
   -9          'R_Palatalised'     -19        -24    
  -10                  'R_V_i'     -21        -25    
- -11               'L_Coronal'     -20        -26    
+ -11              'L_Coronal'     -20        -26    
  -12             'R_p_Family'     -22        -23    
  -13             'R_Sonorant'     -28        -15    
  -14          'L_Palatalised'     -29        -94    
@@ -6279,7 +6279,7 @@ oo[3]
  -28             'R_g_Family'     -69       -108    
  -29             'L_n_Family'     -39     "oo_s3110" 
  -30          'R_Palatalised'     -71        -67    
- -31               'L_Coronal'     -75        -34    
+ -31              'L_Coronal'     -75        -34    
  -32          'L_Palatalised'     -65     "oo_s364" 
  -33          'R_Palatalised'     -60        -93    
  -34             'L_Sonorant'     -66        -83    
@@ -6290,18 +6290,18 @@ oo[3]
  -39               'L_Labial'     -53        -72    
  -40             'R_b_Family'     -56       -105    
  -41             'R_l_Family'    -119       -123    
- -42               'L_Coronal'     -91       -107    
- -43               'R_Coronal'    -100        -64    
+ -42              'L_Coronal'     -91       -107    
+ -43              'R_Coronal'    -100        -64    
  -44          'L_Palatalised'     -48     "oo_s355" 
- -45               'R_Silibant'  "oo_s383"     -58    
+ -45             'R_Silibant'  "oo_s383"     -58    
  -46          'L_Palatalised'     -52     "oo_s360" 
  -47          'L_Palatalised'     -87     "oo_s335" 
- -48               'L_Coronal'    -114        -82    
+ -48              'L_Coronal'    -114        -82    
  -49             'L_t_Family'     -50     "oo_s367" 
  -50          'L_Palatalised'     -95     "oo_s366" 
  -51          'L_Palatalised'     -79     "oo_s364" 
- -52               'L_Coronal'    -109       -137    
- -53               'L_Coronal'    -129        -57    
+ -52              'L_Coronal'    -109       -137    
+ -53              'L_Coronal'    -129        -57    
  -54               'L_Voiced'     -63        -99    
  -55               'L_Labial'     -81        -90    
  -56               'L_Voiced'     -73        -89    
@@ -6314,17 +6314,17 @@ oo[3]
  -63            'L_NonVoiced'   "oo_s31"    -102    
  -64             'R_n_Family'     -97     "oo_s340" 
  -65            'L_Consonant'  "oo_s361"     -80    
- -66               'R_Coronal'  "oo_s328"    -115    
+ -66              'R_Coronal'  "oo_s328"    -115    
  -67               'L_Voiced'  "oo_s3101"    -110    
  -68               'L_Voiced'  "oo_s334"    -120    
  -69          'L_Palatalised'     -98     "oo_s382" 
- -70               'L_Coronal'    -124     "oo_s349" 
- -71               'R_Silibant'  "oo_s398"     -74    
+ -70              'L_Coronal'    -124     "oo_s349" 
+ -71             'R_Silibant'  "oo_s398"     -74    
  -72             'L_m_Family'  "oo_s3108"  "oo_s3109" 
  -73            'L_NonVoiced'  "oo_s344"  "oo_s341" 
  -74            'L_NonVoiced'  "oo_s399"  "oo_s3100" 
  -75            'L_Fricative'    -118     "oo_s327" 
- -76               'L_Coronal'  "oo_s380"  "oo_s381" 
+ -76              'L_Coronal'  "oo_s380"  "oo_s381" 
  -77          'L_Palatalised'     -88     "oo_s320" 
  -78          'L_Palatalised'     -84     "oo_s318" 
  -79             'L_m_Family'    -130     "oo_s322" 
@@ -6334,16 +6334,16 @@ oo[3]
  -83             'L_r_Family'    -117     "oo_s333" 
  -84             'L_Sonorant'    -113     "oo_s317" 
  -85          'L_Palatalised'   "oo_s37"   "oo_s38" 
- -86               'R_Silibant'  "oo_s396"  "oo_s397" 
+ -86             'R_Silibant'  "oo_s396"  "oo_s397" 
  -87             'L_k_Family'    -116     "oo_s326" 
- -88               'L_Coronal'  "oo_s319"    -104    
+ -88              'L_Coronal'  "oo_s319"    -104    
  -89               'L_Labial'    -125     "oo_s344" 
  -90             'L_Sonorant'  "oo_s389"    -131    
  -91          'R_Palatalised'    -128     "oo_s371" 
- -92               'L_Coronal'    -136     "oo_s379" 
+ -92              'L_Coronal'    -136     "oo_s379" 
  -93             'L_Sonorant'    -134     "oo_s395" 
  -94             'L_n_Family'  "oo_s3111"  "oo_s3112" 
- -95               'L_Coronal'  "oo_s365"  "oo_s381" 
+ -95              'L_Coronal'  "oo_s365"  "oo_s381" 
  -96          'R_Palatalised'  "oo_s375"  "oo_s376" 
  -97             'R_d_Family'  "oo_s338"  "oo_s339" 
  -98             'L_k_Family'    -106     "oo_s380" 
@@ -6358,9 +6358,9 @@ oo[3]
  -107          'R_Palatalised'    -135     "oo_s374" 
  -108          'L_Palatalised'  "oo_s325"  "oo_s366" 
  -109            'L_Consonant'  "oo_s356"  "oo_s357" 
- -110               'R_Silibant'  "oo_s3102"  "oo_s3103" 
+ -110             'R_Silibant'  "oo_s3102"  "oo_s3103" 
  -111             'L_k_Family'   "oo_s32"   "oo_s33" 
- -112               'R_Silibant'  "oo_s398"  "oo_s392" 
+ -112             'R_Silibant'  "oo_s398"  "oo_s392" 
  -113            'L_Consonant'  "oo_s356"  "oo_s316" 
  -114            'L_NonVoiced'    -122     "oo_s351" 
  -115             'R_l_Family'  "oo_s329"  "oo_s330" 
@@ -6368,7 +6368,7 @@ oo[3]
  -117             'R_r_Family'  "oo_s331"  "oo_s332" 
  -118             'R_n_Family'  "oo_s326"  "oo_s339" 
  -119               'L_Labial'    -126     "oo_s313" 
- -120               'R_Coronal'  "oo_s335"  "oo_s3102" 
+ -120              'R_Coronal'  "oo_s335"  "oo_s3102" 
  -121             'L_Sonorant'  "oo_s352"  "oo_s353" 
  -122             'R_b_Family'  "oo_s350"  "oo_s371" 
  -123             'L_Sonorant'  "oo_s314"  "oo_s315" 
@@ -6378,16 +6378,16 @@ oo[3]
  -127             'L_v_Family'  "oo_s310"  "oo_s337" 
  -128               'L_Labial'  "oo_s369"  "oo_s370" 
  -129            'L_Fricative'  "oo_s3104"  "oo_s3107" 
- -130               'L_Coronal'  "oo_s321"    -138    
- -131               'R_Silibant'  "oo_s390"  "oo_s391" 
+ -130              'L_Coronal'  "oo_s321"    -138    
+ -131             'R_Silibant'  "oo_s390"  "oo_s391" 
  -132          'L_Palatalised'   "oo_s34"   "oo_s35" 
  -133             'L_l_Family'  "oo_s3105"  "oo_s3106" 
- -134               'R_Silibant'  "oo_s395"  "oo_s394" 
+ -134             'R_Silibant'  "oo_s395"  "oo_s394" 
  -135             'L_Sonorant'  "oo_s372"  "oo_s373" 
  -136             'L_Sonorant'  "oo_s377"  "oo_s378" 
  -137             'L_t_Family'  "oo_s358"  "oo_s359" 
  -138             'L_l_Family'  "oo_s362"  "oo_s321" 
- -139               'L_Coronal'  "oo_s345"  "oo_s346" 
+ -139              'L_Coronal'  "oo_s345"  "oo_s346" 
 }
 
 oo[4]
@@ -6402,17 +6402,17 @@ oo[4]
   -7                  'R_V_i'     -16        -32    
   -8             'R_t_Family'      -9        -22    
   -9             'R_p_Family'     -14        -35    
- -10               'R_Silibant'     -27        -13    
+ -10             'R_Silibant'     -27        -13    
  -11             'R_n_Family'     -15        -51    
  -12             'R_m_Family'     -17        -21    
  -13          'R_Palatalised'     -24        -31    
  -14          'R_Palatalised'     -49        -29    
- -15               'R_Coronal'     -18        -36    
+ -15              'R_Coronal'     -18        -36    
  -16             'R_n_Family'     -26     "oo_s411" 
  -17             'R_b_Family'     -23        -47    
  -18          'L_Palatalised'     -20        -69    
  -19          'R_Palatalised'  "oo_s431"     -72    
- -20               'L_Coronal'     -34        -61    
+ -20              'L_Coronal'     -34        -61    
  -21          'R_Palatalised'     -73        -66    
  -22          'R_Palatalised'  "oo_s452"     -75    
  -23          'R_Palatalised'  "oo_s434"     -63    
@@ -6425,7 +6425,7 @@ oo[4]
  -30             'R_r_Family'     -42      "oo_s45" 
  -31          'L_Palatalised'     -39     "oo_s472" 
  -32          'L_Palatalised'     -40     "oo_s422" 
- -33               'L_Coronal'     -45     "oo_s448" 
+ -33              'L_Coronal'     -45     "oo_s448" 
  -34            'L_Fricative'     -57     "oo_s463" 
  -35          'R_Palatalised'     -44     "oo_s451" 
  -36             'R_l_Family'     -78        -70    
@@ -6444,29 +6444,29 @@ oo[4]
  -49          'L_Palatalised'  "oo_s443"  "oo_s444" 
  -50            'L_NonVoiced'  "oo_s412"  "oo_s413" 
  -51               'L_Labial'     -80     "oo_s427" 
- -52               'L_Coronal'  "oo_s414"  "oo_s417" 
+ -52              'L_Coronal'  "oo_s414"  "oo_s417" 
  -53             'R_S_Family'  "oo_s459"  "oo_s460" 
- -54               'L_Coronal'     -77     "oo_s471" 
+ -54              'L_Coronal'     -77     "oo_s471" 
  -55             'L_n_Family'     -68     "oo_s457" 
  -56                  'R_V_u'   "oo_s41"     -81    
  -57            'L_Consonant'  "oo_s415"  "oo_s416" 
  -58             'L_m_Family'  "oo_s428"  "oo_s429" 
- -59               'L_Coronal'  "oo_s449"  "oo_s450" 
- -60               'L_Coronal'     -76     "oo_s466" 
+ -59              'L_Coronal'  "oo_s449"  "oo_s450" 
+ -60              'L_Coronal'     -76     "oo_s466" 
  -61             'L_Sonorant'  "oo_s417"  "oo_s418" 
  -62          'L_Palatalised'     -74     "oo_s410" 
  -63          'L_Palatalised'     -64     "oo_s436" 
- -64               'L_Coronal'  "oo_s435"  "oo_s436" 
+ -64              'L_Coronal'  "oo_s435"  "oo_s436" 
  -65      'R_ShortUnstressed'   "oo_s46"   "oo_s47" 
  -66          'L_Palatalised'     -67     "oo_s442" 
- -67               'L_Coronal'  "oo_s441"  "oo_s442" 
+ -67              'L_Coronal'  "oo_s441"  "oo_s442" 
  -68             'L_k_Family'  "oo_s455"  "oo_s456" 
  -69               'L_Voiced'  "oo_s419"  "oo_s420" 
- -70               'L_Coronal'  "oo_s423"  "oo_s424" 
+ -70              'L_Coronal'  "oo_s423"  "oo_s424" 
  -71             'L_m_Family'  "oo_s446"  "oo_s447" 
  -72          'L_Palatalised'  "oo_s432"  "oo_s433" 
  -73               'L_Labial'     -79     "oo_s440" 
- -74               'L_Coronal'   "oo_s49"  "oo_s410" 
+ -74              'L_Coronal'   "oo_s49"  "oo_s410" 
  -75          'L_Palatalised'  "oo_s453"  "oo_s454" 
  -76               'L_Labial'  "oo_s464"  "oo_s465" 
  -77             'L_m_Family'  "oo_s469"  "oo_s470" 
@@ -6668,7 +6668,7 @@ r[2]
  -13                  'R_V_a'     -29        -19    
  -14             'L_k_Family'     -41      "r_s211" 
  -15             'L_k_Family'     -35       "r_s28" 
- -16               'L_Coronal'     -20        -30    
+ -16              'L_Coronal'     -20        -30    
  -17                  'L_V_o'     -36      "r_s225" 
  -18                  'L_V_o'     -32      "r_s231" 
  -19            'L_NonVoiced'   "r_s216"   "r_s217" 
@@ -6676,7 +6676,7 @@ r[2]
  -21                  'L_V_o'     -24      "r_s222" 
  -22                  'R_V_a'     -26      "r_s235" 
  -23                  'L_V_o'     -27      "r_s234" 
- -24               'R_Coronal'     -31        -40    
+ -24              'R_Coronal'     -31        -40    
  -25                  'R_V_a'   "r_s212"   "r_s213" 
  -26                'R_Vowel'   "r_s232"     -45    
  -27       'L_StressedRising'     -38      "r_s228" 
@@ -6691,7 +6691,7 @@ r[2]
  -36      'L_StressedFalling'   "r_s223"   "r_s224" 
  -37             'L_g_Family'    "r_s22"    "r_s23" 
  -38                  'L_V_a'   "r_s226"   "r_s227" 
- -39               'R_Coronal'   "r_s238"   "r_s236" 
+ -39              'R_Coronal'   "r_s238"   "r_s236" 
  -40      'L_StressedFalling'   "r_s220"   "r_s221" 
  -41            'L_Fricative'    "r_s29"   "r_s210" 
  -42      'L_StressedFalling'   "r_s244"   "r_s245" 
@@ -6713,7 +6713,7 @@ r[3]
   -4                  'R_V_u'      -8        -13    
   -5                  'L_V_i'     -11        -17    
   -6            'R_Fricative'      -7        -24    
-  -7               'R_Coronal'     -22        -16    
+  -7              'R_Coronal'     -22        -16    
   -8            'L_NonVoiced'     -20        -14    
   -9               'L_Labial'     -27      "r_s342" 
  -10                  'L_V_i'     -12      "r_s338" 
@@ -6724,20 +6724,20 @@ r[3]
  -15                  'L_V_u'     -19      "r_s334" 
  -16                  'L_V_i'     -30        -34    
  -17             'R_Sonorant'     -45      "r_s318" 
- -18               'L_Coronal'     -36      "r_s337" 
+ -18              'L_Coronal'     -36      "r_s337" 
  -19                  'L_V_o'     -21      "r_s334" 
  -20                  'L_V_a'     -28      "r_s321" 
  -21                'L_Vowel'     -49        -40    
  -22                  'L_V_i'     -33       "r_s33" 
  -23                  'L_V_u'     -35      "r_s315" 
- -24               'R_Silibant'    "r_s39"     -26    
+ -24             'R_Silibant'    "r_s39"     -26    
  -25                  'L_V_i'     -29      "r_s328" 
  -26                  'L_V_i'   "r_s310"   "r_s311" 
  -27             'L_k_Family'     -38      "r_s341" 
  -28                  'L_V_i'     -31      "r_s320" 
  -29             'L_g_Family'     -41      "r_s327" 
  -30             'R_t_Family'    "r_s34"     -43    
- -31               'L_Coronal'     -32      "r_s322" 
+ -31              'L_Coronal'     -32      "r_s322" 
  -32                  'L_V_e'     -47      "r_s320" 
  -33               'R_Voiced'    "r_s31"    "r_s32" 
  -34             'R_t_Family'    "r_s37"    "r_s38" 
@@ -6763,7 +6763,7 @@ r[4]
    0                'R_Vowel'      -2         -1    
   -1                  'R_V_a'      -5         -8    
   -2               'R_Labial'      -3         -6    
-  -3               'R_Coronal'      -4         -9    
+  -3              'R_Coronal'      -4         -9    
   -4            'R_Fricative'     -11        -12    
   -5                  'R_V_o'     -13        -17    
   -6             'R_Sonorant'      -7        -18    
@@ -6772,7 +6772,7 @@ r[4]
   -9             'R_t_Family'     -15        -34    
  -10                'L_Vowel'     -16        -19    
  -11               'R_Voiced'     -25       "r_s43" 
- -12               'R_Silibant'     -37        -29    
+ -12             'R_Silibant'     -37        -29    
  -13      'R_StressedFalling'     -14      "r_s424" 
  -14       'R_StressedRising'     -20      "r_s424" 
  -15             'R_d_Family'     -32        -41    
@@ -6782,11 +6782,11 @@ r[4]
  -19                  'L_V_i'     -30      "r_s438" 
  -20       'R_LongUnstressed'     -26      "r_s423" 
  -21             'R_m_Family'   "r_s417"   "r_s418" 
- -22               'L_Coronal'     -36      "r_s442" 
+ -22              'L_Coronal'     -36      "r_s442" 
  -23       'R_LongUnstressed'     -24      "r_s433" 
  -24      'R_StressedFalling'     -31      "r_s442" 
  -25            'R_Consonant'    "r_s41"    "r_s42" 
- -26               'L_Coronal'     -38      "r_s422" 
+ -26              'L_Coronal'     -38      "r_s422" 
  -27               'L_Labial'   "r_s428"   "r_s429" 
  -28      'R_StressedFalling'     -40      "r_s427" 
  -29                  'L_V_i'    "r_s46"    "r_s47" 
@@ -6832,13 +6832,13 @@ r_pal[2]
  -21                  'R_V_i'     -33        -46    
  -22                  'L_V_o'     -24     "r_pal_s227" 
  -23               'L_Labial'     -26     "r_pal_s24" 
- -24               'R_Coronal'     -34     "r_pal_s226" 
+ -24              'R_Coronal'     -34     "r_pal_s226" 
  -25       'R_StressedRising'     -36     "r_pal_s246" 
- -26               'L_Coronal'     -35     "r_pal_s23" 
+ -26              'L_Coronal'     -35     "r_pal_s23" 
  -27      'R_ShortUnstressed'     -40        -37    
  -28                  'R_V_e'     -49     "r_pal_s239" 
  -29                  'L_V_a'  "r_pal_s216"  "r_pal_s220" 
- -30               'R_Coronal'     -31        -47    
+ -30              'R_Coronal'     -31        -47    
  -31            'R_Fricative'     -42     "r_pal_s233" 
  -32       'L_StressedRising'  "r_pal_s237"  "r_pal_s230" 
  -33                  'R_V_e'  "r_pal_s26"     -55    
@@ -6849,7 +6849,7 @@ r_pal[2]
  -38                  'R_V_o'  "r_pal_s240"  "r_pal_s241" 
  -39                  'R_V_i'  "r_pal_s21"  "r_pal_s22" 
  -40                  'L_V_a'  "r_pal_s217"  "r_pal_s218" 
- -41               'R_Coronal'     -48     "r_pal_s229" 
+ -41              'R_Coronal'     -48     "r_pal_s229" 
  -42           'R_Affricates'  "r_pal_s232"  "r_pal_s235" 
  -43      'L_ShortUnstressed'  "r_pal_s230"  "r_pal_s231" 
  -44             'R_k_Family'     -45     "r_pal_s228" 
@@ -6875,7 +6875,7 @@ r_pal[3]
   -3               'R_Labial'      -6        -19    
   -4            'L_NonVoiced'      -9         -8    
   -5            'L_NonVoiced'     -13        -18    
-  -6               'R_Coronal'      -7        -14    
+  -6              'R_Coronal'      -7        -14    
   -7            'R_Fricative'     -11        -23    
   -8               'L_Labial'     -25        -29    
   -9                  'L_V_u'     -10        -26    
@@ -6892,7 +6892,7 @@ r_pal[3]
  -20                'L_Vowel'     -27        -21    
  -21                  'L_V_o'  "r_pal_s36"  "r_pal_s38" 
  -22                  'R_V_o'     -31     "r_pal_s33" 
- -23               'R_Silibant'  "r_pal_s328"     -33    
+ -23             'R_Silibant'  "r_pal_s328"     -33    
  -24      'L_StressedFalling'     -30     "r_pal_s334" 
  -25       'R_StressedRising'     -37     "r_pal_s321" 
  -26       'R_StressedRising'  "r_pal_s317"  "r_pal_s318" 
@@ -6923,7 +6923,7 @@ r_pal[4]
   -2               'R_Labial'      -4        -10    
   -3                  'R_V_e'     -17        -11    
   -4            'R_Fricative'      -5        -13    
-  -5               'R_Coronal'      -7         -6    
+  -5              'R_Coronal'      -7         -6    
   -6             'R_t_Family'     -15        -32    
   -7             'R_Sonorant'     -12     "r_pal_s427" 
   -8      'R_ShortUnstressed'      -9        -18    
@@ -6931,7 +6931,7 @@ r_pal[4]
  -10             'R_Sonorant'     -19        -22    
  -11            'L_NonVoiced'     -20        -30    
  -12           'R_Affricates'     -14     "r_pal_s426" 
- -13               'R_Silibant'     -25        -31    
+ -13             'R_Silibant'     -25        -31    
  -14             'R_g_Family'  "r_pal_s424"  "r_pal_s425" 
  -15             'R_d_Family'     -28        -39    
  -16             'L_p_Family'     -24        -26    
@@ -6980,7 +6980,7 @@ s[2]
   -9                  'L_V_o'     -11      "s_s247" 
  -10            'L_Consonant'     -16        -14    
  -11                  'L_V_i'     -20        -44    
- -12               'R_Coronal'     -18        -41    
+ -12              'R_Coronal'     -18        -41    
  -13            'L_Consonant'     -46        -34    
  -14             'L_r_Family'     -19       "s_s27" 
  -15             'L_k_Family'   "s_s235"     -36    
@@ -6999,7 +6999,7 @@ s[2]
  -28       'L_LongUnstressed'     -61       "s_s28" 
  -29       'L_StressedRising'     -38      "s_s215" 
  -30             'L_R_Family'     -43       "s_s27" 
- -31               'R_Coronal'     -40      "s_s223" 
+ -31              'R_Coronal'     -40      "s_s223" 
  -32             'R_t_Family'     -49        -56    
  -33                  'R_V_a'     -37        -53    
  -34             'L_Sonorant'   "s_s239"   "s_s240" 
@@ -7033,7 +7033,7 @@ s[2]
  -62                  'R_V_o'   "s_s211"   "s_s217" 
  -63             'R_t_Family'   "s_s229"   "s_s233" 
  -64      'L_ShortUnstressed'   "s_s231"   "s_s232" 
- -65               'R_Coronal'    "s_s24"    "s_s25" 
+ -65              'R_Coronal'    "s_s24"    "s_s25" 
 }
 
 s[3]
@@ -7146,7 +7146,7 @@ s_pal[2]
   -9             'L_n_Family'     -29     "s_pal_s214" 
  -10             'L_p_Family'     -38     "s_pal_s233" 
  -11      'L_ShortUnstressed'     -13        -33    
- -12               'R_Coronal'     -21     "s_pal_s223" 
+ -12              'R_Coronal'     -21     "s_pal_s223" 
  -13    'L_StressedDiphthong'     -14     "s_pal_s25" 
  -14            'L_Diphthong'     -15        -30    
  -15             'L_N_Family'     -18     "s_pal_s214" 
@@ -7188,7 +7188,7 @@ s_pal[3]
   -7                  'R_V_o'      -9        -31    
   -8             'R_m_Family'     -10        -42    
   -9                  'R_V_e'     -11        -22    
- -10               'R_Coronal'  "s_pal_s325"     -16    
+ -10              'R_Coronal'  "s_pal_s325"     -16    
  -11                'R_Vowel'     -58        -12    
  -12                  'L_V_u'     -13        -34    
  -13            'L_NonVoiced'     -14        -32    
@@ -7252,7 +7252,7 @@ s_pal[4]
   -7               'R_Labial'     -10         -9    
   -8      'R_ShortUnstressed'     -15     "s_pal_s415" 
   -9             'R_m_Family'  "s_pal_s419"  "s_pal_s420" 
- -10               'R_Coronal'  "s_pal_s416"     -11    
+ -10              'R_Coronal'  "s_pal_s416"     -11    
  -11             'R_l_Family'  "s_pal_s417"  "s_pal_s418" 
  -12      'R_ShortUnstressed'     -19        -22    
  -13            'R_ts_Family'     -18     "s_pal_s424" 
@@ -7334,7 +7334,7 @@ t[3]
    0            'L_Fricative'      -1         -3    
   -1                  'R_V_a'      -2         -4    
   -2                'R_Vowel'      -8         -5    
-  -3               'L_Silibant'     -24         -6    
+  -3             'L_Silibant'     -24         -6    
   -4              'L_Silence'      -7      "t_s335" 
   -5                  'R_V_u'     -11         -9    
   -6                  'R_V_a'     -10        -19    
@@ -7492,7 +7492,7 @@ t_pal[2]
   -4                  'L_V_i'      -6        -17    
   -5             'L_S_Family'     -10     "t_pal_s227" 
   -6                'L_Vowel'      -7         -8    
-  -7               'L_Coronal'     -11        -12    
+  -7              'L_Coronal'     -11        -12    
   -8                  'L_V_e'      -9        -25    
   -9                  'L_V_a'     -15        -13    
  -10             'L_p_Family'  "t_pal_s225"  "t_pal_s226" 
@@ -7539,7 +7539,7 @@ t_pal[3]
  -12             'L_n_Family'     -13     "t_pal_s327" 
  -13                  'L_V_i'     -15     "t_pal_s320" 
  -14             'R_n_Family'     -16     "t_pal_s36" 
- -15               'L_Coronal'     -21     "t_pal_s319" 
+ -15              'L_Coronal'     -21     "t_pal_s319" 
  -16               'R_Voiced'     -36        -26    
  -17              'L_Silence'  "t_pal_s38"  "t_pal_s39" 
  -18              'L_Silence'     -29     "t_pal_s313" 
@@ -7553,7 +7553,7 @@ t_pal[3]
  -26             'R_m_Family'     -27     "t_pal_s35" 
  -27             'R_l_Family'  "t_pal_s33"  "t_pal_s34" 
  -28             'R_Sonorant'  "t_pal_s336"  "t_pal_s333" 
- -29               'L_Coronal'     -33     "t_pal_s312" 
+ -29              'L_Coronal'     -33     "t_pal_s312" 
  -30                  'L_V_a'     -35     "t_pal_s318" 
  -31      'R_ShortUnstressed'     -32     "t_pal_s323" 
  -32        'R_ShortStressed'  "t_pal_s322"  "t_pal_s323" 
@@ -7677,10 +7677,10 @@ u[2]
  -12             'L_d_Family'     -13        -52    
  -13          'L_Palatalised'     -14       "u_s29" 
  -14            'L_Fricative'     -20       "u_s28" 
- -15               'R_Silibant'     -23        -26    
+ -15             'R_Silibant'     -23        -26    
  -16          'R_Palatalised'     -24        -27    
  -17              'R_Silence'     -21      "u_s219" 
- -18               'R_Silibant'     -33        -61    
+ -18             'R_Silibant'     -33        -61    
  -19          'R_Palatalised'     -40        -32    
  -20             'L_b_Family'     -43        -55    
  -21               'L_Labial'     -57        -31    
@@ -7691,7 +7691,7 @@ u[2]
  -26             'L_n_Family'     -42      "u_s237" 
  -27          'L_Palatalised'     -28      "u_s254" 
  -28             'R_s_Family'     -59      "u_s253" 
- -29               'R_Silibant'     -50      "u_s222" 
+ -29             'R_Silibant'     -50      "u_s222" 
  -30          'L_Palatalised'     -45        -53    
  -31            'R_Fricative'     -47        -56    
  -32             'R_r_Family'   "u_s244"   "u_s245" 
@@ -7704,18 +7704,18 @@ u[2]
  -39          'R_Palatalised'   "u_s259"   "u_s260" 
  -40               'R_Labial'     -63      "u_s243" 
  -41                  'L_V_a'     -44       "u_s21" 
- -42               'L_Coronal'   "u_s235"   "u_s236" 
+ -42              'L_Coronal'   "u_s235"   "u_s236" 
  -43               'R_Labial'     -66       "u_s25" 
  -44                  'L_V_i'   "u_s214"    "u_s22" 
  -45             'L_S_Family'   "u_s238"   "u_s239" 
- -46               'R_Coronal'   "u_s224"     -51    
+ -46              'R_Coronal'   "u_s224"     -51    
  -47            'R_Diphthong'   "u_s215"   "u_s216" 
  -48             'L_n_Family'     -49      "u_s232" 
  -49            'R_Consonant'   "u_s230"     -58    
  -50            'R_NonVoiced'   "u_s220"   "u_s221" 
  -51             'R_Sonorant'   "u_s228"   "u_s225" 
  -52            'R_NonVoiced'   "u_s210"   "u_s211" 
- -53               'R_Silibant'   "u_s240"   "u_s241" 
+ -53             'R_Silibant'   "u_s240"   "u_s241" 
  -54            'R_Consonant'   "u_s247"     -65    
  -55          'R_Palatalised'    "u_s26"    "u_s27" 
  -56             'L_m_Family'   "u_s217"   "u_s218" 
@@ -7737,7 +7737,7 @@ u[2]
 u[3]
 {
    0            'R_Fricative'      -1         -3    
-  -1               'L_Silibant'      -2        -11    
+  -1             'L_Silibant'      -2        -11    
   -2             'R_r_Family'      -6         -5    
   -3            'L_Consonant'     -19         -4    
   -4            'L_NonVoiced'      -9        -12    
@@ -7756,8 +7756,8 @@ u[3]
  -17            'R_NonVoiced'     -26        -34    
  -18             'L_d_Family'     -46      "u_s335" 
  -19              'L_Silence'     -33        -72    
- -20               'R_Silibant'     -67        -55    
- -21               'L_Coronal'     -40        -28    
+ -20             'R_Silibant'     -67        -55    
+ -21              'L_Coronal'     -40        -28    
  -22          'R_Palatalised'   "u_s337"   "u_s338" 
  -23          'R_Palatalised'     -48        -41    
  -24             'R_Sonorant'     -60        -74    
@@ -7773,30 +7773,30 @@ u[3]
  -34             'R_k_Family'     -75      "u_s344" 
  -35             'L_p_Family'     -49      "u_s334" 
  -36          'R_Palatalised'     -66        -84    
- -37               'L_Coronal'   "u_s325"     -61    
- -38               'R_Silibant'   "u_s358"     -65    
+ -37              'L_Coronal'   "u_s325"     -61    
+ -38             'R_Silibant'   "u_s358"     -65    
  -39          'R_Palatalised'     -79      "u_s364" 
  -40          'R_Palatalised'   "u_s355"     -77    
  -41          'L_Palatalised'     -42      "u_s368" 
  -42             'L_t_Family'   "u_s367"   "u_s368" 
  -43             'L_r_Family'     -53      "u_s323" 
  -44            'R_Consonant'   "u_s312"     -52    
- -45               'L_Coronal'     -85       "u_s36" 
+ -45              'L_Coronal'     -85       "u_s36" 
  -46          'R_Palatalised'     -70      "u_s334" 
  -47                  'R_V_a'     -59      "u_s317" 
  -48          'L_Palatalised'     -51      "u_s372" 
  -49               'R_Labial'     -56      "u_s319" 
- -50               'L_Coronal'     -58        -78    
+ -50              'L_Coronal'     -58        -78    
  -51             'L_t_Family'   "u_s365"   "u_s366" 
  -52          'R_Palatalised'   "u_s324"     -63    
- -53               'L_Coronal'     -69        -82    
+ -53              'L_Coronal'     -69        -82    
  -54                'R_Vowel'    "u_s39"    "u_s31" 
  -55          'R_Palatalised'     -81      "u_s373" 
  -56             'L_k_Family'   "u_s339"     -76    
  -57          'L_Palatalised'   "u_s330"   "u_s331" 
  -58             'R_l_Family'    "u_s32"    "u_s33" 
  -59            'R_Consonant'   "u_s349"     -68    
- -60               'R_Coronal'     -64      "u_s347" 
+ -60              'R_Coronal'     -64      "u_s347" 
  -61             'L_Sonorant'   "u_s326"   "u_s327" 
  -62             'R_r_Family'   "u_s340"   "u_s341" 
  -63             'R_Sonorant'   "u_s311"     -80    
@@ -7806,21 +7806,21 @@ u[3]
  -67          'R_Palatalised'   "u_s369"   "u_s370" 
  -68          'R_Palatalised'   "u_s318"   "u_s316" 
  -69             'R_k_Family'   "u_s319"   "u_s320" 
- -70               'L_Coronal'   "u_s332"   "u_s333" 
+ -70              'L_Coronal'   "u_s332"   "u_s333" 
  -71                'R_Vowel'   "u_s339"   "u_s341" 
  -72          'R_Palatalised'   "u_s353"   "u_s354" 
  -73          'L_Palatalised'   "u_s328"   "u_s329" 
  -74          'L_Palatalised'   "u_s348"   "u_s349" 
  -75             'R_p_Family'   "u_s346"   "u_s343" 
  -76             'R_l_Family'   "u_s314"   "u_s315" 
- -77               'R_Silibant'   "u_s356"   "u_s357" 
+ -77             'R_Silibant'   "u_s356"   "u_s357" 
  -78             'R_l_Family'   "u_s310"    "u_s34" 
  -79             'L_n_Family'   "u_s362"   "u_s363" 
  -80               'R_Labial'   "u_s312"   "u_s313" 
  -81          'L_Palatalised'   "u_s371"   "u_s372" 
  -82             'R_p_Family'   "u_s321"   "u_s322" 
  -83             'R_Z_Family'   "u_s351"   "u_s352" 
- -84               'L_Coronal'    "u_s39"   "u_s310" 
+ -84              'L_Coronal'    "u_s39"   "u_s310" 
  -85             'L_m_Family'   "u_s356"    "u_s35" 
 }
 
@@ -7829,13 +7829,13 @@ u[4]
    0            'R_Fricative'      -1         -3    
   -1             'R_Sonorant'      -2         -4    
   -2            'R_Consonant'      -5         -6    
-  -3               'R_Silibant'     -12         -7    
+  -3             'R_Silibant'     -12         -7    
   -4               'R_Labial'      -8        -16    
   -5                'R_Vowel'     -47        -28    
-  -6               'R_Coronal'     -10        -14    
+  -6              'R_Coronal'     -10        -14    
   -7          'R_Palatalised'     -20        -18    
   -8             'L_k_Family'      -9        -15    
-  -9               'R_Coronal'     -17        -11    
+  -9              'R_Coronal'     -17        -11    
  -10           'R_Affricates'     -13        -44    
  -11          'R_Palatalised'     -29        -19    
  -12          'R_Palatalised'     -27        -25    
@@ -7856,7 +7856,7 @@ u[4]
  -27             'R_Z_Family'   "u_s446"     -50    
  -28                  'R_V_a'     -58        -54    
  -29             'R_l_Family'     -36      "u_s430" 
- -30               'L_Coronal'     -56      "u_s460" 
+ -30              'L_Coronal'     -56      "u_s460" 
  -31          'R_Palatalised'     -59        -62    
  -32             'R_d_Family'     -46        -66    
  -33               'L_Labial'     -43      "u_s426" 
@@ -7871,13 +7871,13 @@ u[4]
  -42            'L_NonVoiced'   "u_s451"   "u_s452" 
  -43               'L_Voiced'   "u_s436"   "u_s425" 
  -44               'R_Voiced'   "u_s416"   "u_s417" 
- -45               'L_Silibant'     -53      "u_s455" 
+ -45             'L_Silibant'     -53      "u_s455" 
  -46             'L_s_Family'   "u_s421"   "u_s422" 
  -47             'L_Sonorant'     -52        -55    
  -48            'L_Consonant'   "u_s449"   "u_s450" 
- -49               'L_Coronal'   "u_s431"   "u_s432" 
+ -49              'L_Coronal'   "u_s431"   "u_s432" 
  -50            'L_Consonant'   "u_s447"   "u_s448" 
- -51               'L_Coronal'     -64      "u_s434" 
+ -51              'L_Coronal'     -64      "u_s434" 
  -52          'L_Palatalised'    "u_s41"    "u_s43" 
  -53             'L_Sonorant'     -61      "u_s454" 
  -54            'L_NonVoiced'    "u_s46"    "u_s47" 
@@ -7887,7 +7887,7 @@ u[4]
  -58            'L_NonVoiced'    "u_s44"    "u_s45" 
  -59          'L_Palatalised'    "u_s48"    "u_s49" 
  -60            'L_NonVoiced'   "u_s456"   "u_s457" 
- -61               'L_Coronal'   "u_s453"   "u_s457" 
+ -61              'L_Coronal'   "u_s453"   "u_s457" 
  -62            'L_NonVoiced'    "u_s49"   "u_s410" 
  -63             'L_t_Family'   "u_s440"   "u_s441" 
  -64            'L_Fricative'   "u_s433"   "u_s434" 
@@ -7907,7 +7907,7 @@ uO[2]
   -6             'L_g_Family'   "uO_s24"   "uO_s25" 
   -7             'L_p_Family'   "uO_s21"   "uO_s22" 
   -8             'L_n_Family'   "uO_s26"   "uO_s27" 
-  -9               'L_Coronal'  "uO_s210"  "uO_s211" 
+  -9              'L_Coronal'  "uO_s210"  "uO_s211" 
 }
 
 uO[3]
@@ -7916,7 +7916,7 @@ uO[3]
   -1          'R_Palatalised'      -3         -2    
   -2               'R_Labial'   "uO_s33"   "uO_s34" 
   -3             'L_Sonorant'      -4         -5    
-  -4               'L_Coronal'   "uO_s31"   "uO_s34" 
+  -4              'L_Coronal'   "uO_s31"   "uO_s34" 
   -5             'R_l_Family'   "uO_s31"   "uO_s32" 
   -6            'R_Fricative'   "uO_s35"   "uO_s36" 
 }
@@ -7925,7 +7925,7 @@ uO[4]
 {
    0            'R_Fricative'      -1         -2    
   -1            'R_NonVoiced'      -3         -7    
-  -2               'R_Silibant'   "uO_s49"      -8    
+  -2             'R_Silibant'   "uO_s49"      -8    
   -3              'R_Silence'      -4      "uO_s45" 
   -4             'R_m_Family'      -5      "uO_s44" 
   -5          'R_Palatalised'      -6         -9    
@@ -7948,10 +7948,10 @@ uU[2]
   -7             'L_n_Family'     -10     "uU_s229" 
   -8             'L_r_Family'      -9        -38    
   -9             'L_m_Family'     -12      "uU_s28" 
- -10               'L_Coronal'     -18        -26    
+ -10              'L_Coronal'     -18        -26    
  -11             'L_k_Family'     -19     "uU_s221" 
  -12                  'L_V_u'     -13      "uU_s27" 
- -13               'L_Coronal'     -16        -22    
+ -13              'L_Coronal'     -16        -22    
  -14              'R_Silence'     -29     "uU_s234" 
  -15             'L_n_Family'  "uU_s230"  "uU_s231" 
  -16             'L_b_Family'     -17      "uU_s24" 
@@ -7959,7 +7959,7 @@ uU[2]
  -18               'R_Labial'     -24        -33    
  -19             'L_p_Family'     -20     "uU_s220" 
  -20            'R_NonVoiced'     -32        -39    
- -21               'L_Coronal'     -25        -23    
+ -21              'L_Coronal'     -25        -23    
  -22             'L_d_Family'   "uU_s25"   "uU_s26" 
  -23             'L_n_Family'     -31     "uU_s215" 
  -24             'R_k_Family'     -35     "uU_s226" 
@@ -7976,7 +7976,7 @@ uU[2]
  -35             'L_Sonorant'  "uU_s224"  "uU_s225" 
  -36               'L_Voiced'  "uU_s212"  "uU_s223" 
  -37          'R_Palatalised'  "uU_s217"  "uU_s219" 
- -38               'R_Coronal'   "uU_s29"  "uU_s210" 
+ -38              'R_Coronal'   "uU_s29"  "uU_s210" 
  -39            'R_Fricative'  "uU_s218"  "uU_s219" 
 }
 
@@ -7992,7 +7992,7 @@ uU[3]
   -7                'R_Vowel'      -8        -15    
   -8          'R_Palatalised'      -9        -12    
   -9             'R_r_Family'     -10      "uU_s34" 
- -10               'R_Coronal'     -21        -23    
+ -10              'R_Coronal'     -21        -23    
  -11             'R_b_Family'     -14     "uU_s315" 
  -12             'R_g_Family'     -13      "uU_s37" 
  -13               'R_Labial'     -32        -34    
@@ -8011,11 +8011,11 @@ uU[3]
  -26             'R_d_Family'     -27     "uU_s321" 
  -27             'R_n_Family'   "uU_s39"  "uU_s310" 
  -28             'R_v_Family'     -33     "uU_s313" 
- -29               'L_Coronal'   "uU_s38"  "uU_s311" 
+ -29              'L_Coronal'   "uU_s38"  "uU_s311" 
  -30          'R_Palatalised'  "uU_s319"  "uU_s320" 
  -31             'R_m_Family'  "uU_s318"   "uU_s31" 
- -32               'R_Coronal'   "uU_s38"   "uU_s35" 
- -33               'R_Coronal'  "uU_s311"  "uU_s312" 
+ -32              'R_Coronal'   "uU_s38"   "uU_s35" 
+ -33              'R_Coronal'  "uU_s311"  "uU_s312" 
  -34             'R_v_Family'  "uU_s314"   "uU_s36" 
 }
 
@@ -8032,7 +8032,7 @@ uU[4]
   -8             'R_Sonorant'     -16        -11    
   -9             'R_Sonorant'     -10        -13    
  -10             'R_d_Family'     -18      "uU_s44" 
- -11               'R_Coronal'  "uU_s416"     -21    
+ -11              'R_Coronal'  "uU_s416"     -21    
  -12             'R_p_Family'     -15     "uU_s420" 
  -13             'R_n_Family'     -17      "uU_s48" 
  -14             'R_s_Family'  "uU_s423"     -22    
@@ -8062,7 +8062,7 @@ uo[2]
   -7          'L_Palatalised'      -8     "uo_s212" 
   -8          'R_Palatalised'  "uo_s210"  "uo_s211" 
   -9            'L_Fricative'   "uo_s21"   "uo_s22" 
- -10               'L_Coronal'   "uo_s28"   "uo_s29" 
+ -10              'L_Coronal'   "uo_s28"   "uo_s29" 
 }
 
 uo[3]
@@ -8070,7 +8070,7 @@ uo[3]
    0               'R_Labial'      -1         -4    
   -1          'R_Palatalised'      -6         -2    
   -2          'L_Palatalised'      -3        -12    
-  -3               'L_Coronal'      -8         -5    
+  -3              'L_Coronal'      -8         -5    
   -4          'R_Palatalised'  "uo_s313"     -14    
   -5             'L_Sonorant'     -13         -9    
   -6            'R_Fricative'      -7     "uo_s310" 
@@ -8078,7 +8078,7 @@ uo[3]
   -8             'R_l_Family'     -15      "uo_s37" 
   -9             'R_s_Family'   "uo_s39"  "uo_s310" 
  -10            'R_Consonant'   "uo_s33"   "uo_s34" 
- -11               'R_Coronal'   "uo_s31"   "uo_s32" 
+ -11              'R_Coronal'   "uo_s31"   "uo_s32" 
  -12             'L_Sonorant'  "uo_s311"  "uo_s312" 
  -13             'R_s_Family'   "uo_s38"  "uo_s311" 
  -14               'L_Voiced'  "uo_s314"  "uo_s315" 
@@ -8090,7 +8090,7 @@ uo[4]
    0            'R_Fricative'      -1         -3    
   -1             'R_Sonorant'      -5         -2    
   -2               'R_Labial'      -4     "uo_s410" 
-  -3               'R_Silibant'  "uo_s411"      -9    
+  -3             'R_Silibant'  "uo_s411"      -9    
   -4          'R_Palatalised'   "uo_s47"      -6    
   -5            'R_NonVoiced'     -10         -7    
   -6             'R_n_Family'   "uo_s48"   "uo_s49" 
@@ -8115,7 +8115,7 @@ uu[2]
   -6          'L_Palatalised'      -8        -39    
   -7          'L_Palatalised'     -18        -42    
   -8               'L_Labial'     -17     "uu_s238" 
-  -9               'L_Coronal'     -19        -10    
+  -9              'L_Coronal'     -19        -10    
  -10             'L_r_Family'     -27        -51    
  -11             'L_n_Family'     -14        -34    
  -12          'L_Palatalised'     -38     "uu_s243" 
@@ -8136,7 +8136,7 @@ uu[2]
  -27             'L_d_Family'     -33     "uu_s212" 
  -28             'L_n_Family'     -43     "uu_s213" 
  -29             'L_n_Family'     -46     "uu_s229" 
- -30               'R_Coronal'     -31     "uu_s217" 
+ -30              'R_Coronal'     -31     "uu_s217" 
  -31                'R_Vowel'  "uu_s216"  "uu_s217" 
  -32            'L_Fricative'     -49      "uu_s23" 
  -33             'L_l_Family'   "uu_s27"   "uu_s28" 
@@ -8183,10 +8183,10 @@ uu[3]
  -16             'L_r_Family'     -48     "uu_s345" 
  -17             'R_r_Family'     -28        -56    
  -18          'L_Palatalised'     -27        -40    
- -19               'R_Coronal'  "uu_s317"     -23    
+ -19              'R_Coronal'  "uu_s317"     -23    
  -20             'R_r_Family'     -34      "uu_s34" 
  -21          'R_Palatalised'     -39     "uu_s329" 
- -22               'L_Coronal'  "uu_s315"     -38    
+ -22              'L_Coronal'  "uu_s315"     -38    
  -23             'R_d_Family'     -55     "uu_s333" 
  -24             'R_Sonorant'  "uu_s322"     -25    
  -25               'R_Labial'     -47     "uu_s326" 
@@ -8200,7 +8200,7 @@ uu[3]
  -33          'R_Palatalised'  "uu_s333"  "uu_s334" 
  -34             'R_g_Family'     -35      "uu_s33" 
  -35               'R_Labial'   "uu_s31"     -50    
- -36               'L_Coronal'     -37     "uu_s341" 
+ -36              'L_Coronal'     -37     "uu_s341" 
  -37            'L_Fricative'  "uu_s342"  "uu_s341" 
  -38             'L_t_Family'  "uu_s316"  "uu_s323" 
  -39          'L_Palatalised'  "uu_s327"  "uu_s328" 
@@ -8251,7 +8251,7 @@ uu[4]
  -22             'R_v_Family'     -26      "uu_s49" 
  -23             'R_m_Family'  "uu_s415"  "uu_s416" 
  -24                  'R_V_e'     -30     "uu_s420" 
- -25               'R_Coronal'  "uu_s421"     -32    
+ -25              'R_Coronal'  "uu_s421"     -32    
  -26             'R_l_Family'     -34     "uu_s417" 
  -27          'R_Palatalised'   "uu_s43"   "uu_s44" 
  -28             'L_t_Family'  "uu_s421"  "uu_s422" 
@@ -8459,14 +8459,14 @@ w[2]
   -1                  'L_V_e'      -2         -7    
   -2             'R_g_Family'      -3        -10    
   -3             'R_k_Family'      -6       "w_s27" 
-  -4               'R_Silibant'      -5        -18    
+  -4             'R_Silibant'      -5        -18    
   -5             'R_k_Family'      -8      "w_s222" 
   -6          'R_Palatalised'     -11        -19    
   -7            'R_NonVoiced'      -9        -13    
   -8             'R_g_Family'     -14      "w_s221" 
   -9             'R_r_Family'     -12      "w_s214" 
  -10          'R_Palatalised'    "w_s28"    "w_s29" 
- -11               'R_Coronal'     -16        -20    
+ -11              'R_Coronal'     -16        -20    
  -12              'R_Silence'     -17      "w_s213" 
  -13            'R_Fricative'     -15      "w_s216" 
  -14             'R_Sonorant'     -22        -24    
@@ -8477,7 +8477,7 @@ w[2]
  -19             'R_Sonorant'    "w_s25"    "w_s26" 
  -20             'R_t_Family'    "w_s23"    "w_s24" 
  -21             'R_g_Family'     -25      "w_s212" 
- -22               'R_Coronal'   "w_s217"   "w_s218" 
+ -22              'R_Coronal'   "w_s217"   "w_s218" 
  -23              'R_Silence'    "w_s21"   "w_s213" 
  -24          'R_Palatalised'   "w_s219"     -27    
  -25                  'R_V_i'     -26      "w_s214" 
@@ -8489,7 +8489,7 @@ w[3]
 {
    0            'R_Fricative'      -1         -4    
   -1             'R_Sonorant'      -2         -5    
-  -2               'R_Coronal'      -3         -8    
+  -2              'R_Coronal'      -3         -8    
   -3            'R_NonVoiced'      -6        -13    
   -4      'L_StressedFalling'     -12        -18    
   -5          'R_Palatalised'     -11        -10    
@@ -8497,7 +8497,7 @@ w[3]
   -7          'R_Palatalised'      -9        -26    
   -8          'R_Palatalised'     -16        -17    
   -9            'R_Consonant'    "w_s31"    "w_s32" 
- -10               'R_Coronal'     -19        -14    
+ -10              'R_Coronal'     -19        -14    
  -11             'R_r_Family'   "w_s314"   "w_s315" 
  -12          'R_Palatalised'   "w_s322"     -21    
  -13             'R_k_Family'     -27        -15    
@@ -8508,7 +8508,7 @@ w[3]
  -18             'R_s_Family'   "w_s326"     -28    
  -19      'L_ShortUnstressed'   "w_s316"   "w_s317" 
  -20                  'R_V_i'    "w_s34"   "w_s323" 
- -21               'R_Silibant'   "w_s323"     -22    
+ -21             'R_Silibant'   "w_s323"     -22    
  -22                  'L_V_a'   "w_s324"   "w_s325" 
  -23             'R_n_Family'   "w_s318"   "w_s319" 
  -24      'L_StressedFalling'   "w_s320"   "w_s321" 
@@ -8522,14 +8522,14 @@ w[4]
 {
    0            'R_Fricative'      -1         -8    
   -1             'R_Sonorant'      -2         -5    
-  -2               'R_Coronal'      -3         -4    
+  -2              'R_Coronal'      -3         -4    
   -3            'R_NonVoiced'      -6        -14    
   -4          'R_Palatalised'     -12        -16    
   -5          'R_Palatalised'     -19         -9    
   -6             'R_g_Family'     -10         -7    
   -7          'R_Palatalised'    "w_s44"    "w_s45" 
-  -8               'R_Silibant'     -22        -11    
-  -9               'R_Coronal'     -25        -15    
+  -8             'R_Silibant'     -22        -11    
+  -9              'R_Coronal'     -25        -15    
  -10              'R_Silence'     -18       "w_s43" 
  -11          'R_Palatalised'     -23        -13    
  -12             'R_d_Family'   "w_s410"   "w_s411" 
@@ -8569,7 +8569,7 @@ x_pal[2]
 
 x_pal[3]
 {
-   0               'R_Coronal'  "x_pal_s31"  "x_pal_s32" 
+   0              'R_Coronal'  "x_pal_s31"  "x_pal_s32" 
 }
 
 x_pal[4]
