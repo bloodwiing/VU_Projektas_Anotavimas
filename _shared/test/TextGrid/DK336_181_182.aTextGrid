@@ -1,0 +1,40 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 7.3105569690919765 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "S0001" 
+        xmin = 0 
+        xmax = 7.3105569690919765 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 7.3105569690919765 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "S0002" 
+        xmin = 0 
+        xmax = 7.3105569690919765 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2731186124982514 
+            text = "" 
+        intervals [2]:
+            xmin = 0.2731186124982514 
+            xmax = 4.713118612498249 
+            text = "Na, studentai, sakykim va, tokia pagrindinė kategorija žmonių, kurie susirinko" 
+        intervals [3]:
+            xmin = 4.713118612498249 
+            xmax = 7.143118612498256 
+            text = "reiškiasi iš bėdos, nes Rusijos" 
+        intervals [4]:
+            xmin = 7.143118612498256 
+            xmax = 7.3105569690919765 
+            text = "" 
