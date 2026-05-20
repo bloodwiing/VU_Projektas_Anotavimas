@@ -1,0 +1,73 @@
+# --- Vowel vs Consonant ---
+QS "Vowel" {a,Aa,aA,aa,A,e,eA,eE,ea,Ea,i,iE,ie,Ie,I,o,u,uO,uo,Uo}
+
+QS "Consonant" {L,M,N,R,S,Z,b,d,dZ,dz,f,g,h,k,l,m,n,p,r,s,t,tS,ts,v,x,z}
+
+# --- Consonant Classes ---
+QS "Sonorant" {j,l,m,n,r,v}
+
+# QS "NonSonorant" {b,d,g,k,p,s,S,t,z,Z}
+
+QS "Fricative" {s,S,z,Z,f,h,x}
+
+# QS "NonFricative" {p,t,k,b,d,g}
+
+QS "Affricates" {ts,tS,dz,dZ}
+
+# QS "ForeignFricatives" {f,x,h}
+
+# --- Place of Articulation ---
+QS "Labial" {p,b,m,v,f}
+
+# QS "NonLabial" {t,d,k,g}
+
+QS "Coronal" {t,d,n,l,r}
+
+# QS "NonCoronal" {k,g}
+
+QS "Silibant" {s,z,S,Z,ts,tS,dz,dZ}
+
+# QS "NonSilibant" {S,Z}
+
+# --- Voiced ---
+QS "Voiced" {g,d,b,dz,dZ,z,Z,m,n,l,r,j}
+
+QS "NonVoiced" {k,t,p,ts,tS,s,S,f,h,x}
+
+# --- Diphthong endings ---
+QS "Diphthong" {j,w}
+
+# --- Silence and Noise ---
+QS "Silence" {sil}
+
+
+# --- Vowel vs Consonant ---
+#QS "Vowel" {aa,ae,ah,ao,aw,ax,axh,axr,ay,eh,el,em,en,er,ey,ih,ix,iy,ow,oy,uh,uw,ux}
+
+#QS "Consonant" {b,bcl,ch,d,dcl,dh,dx,f,g,gcl,hh,hv,jh,k,kcl,l,m,n,ng,nx,p,pcl,q,r,s,sh,t,tcl,th,v,w,y,z,zh}
+
+# --- Manner of Articulation ---
+#QS "Stop" {b,bcl,d,dcl,g,gcl,k,kcl,p,pcl,q,t,tcl}
+
+#QS "Nasal" {m,n,ng,nx,em,en,eng}
+
+#QS "Fricative" {dh,f,hh,hv,s,sh,th,v,z,zh}
+
+#QS "Affricate" {ch,jh}
+
+#QS "Liquid_Glide" {l,r,w,y,el}
+
+# --- Place of Articulation ---
+#QS "Labial" {b,bcl,f,m,p,pcl,v,w}
+
+#QS "Alveolar" {d,dcl,n,s,t,tcl,z,dx}
+
+#QS "Velar" {g,gcl,k,kcl,ng}
+
+# --- Vowel Height/Frontness ---
+#QS "FrontVowel" {ae,eh,ey,ih,ix,iy}
+
+#QS "BackVowel" {aa,ao,ow,uh,uw}
+
+# --- Silence and Noise ---
+#QS "Silence" {sil}
