@@ -13,8 +13,8 @@ sWidths: 39
 mixes: 1
 parmKind: MFCC_D_A_0
 vecSize: 39
-outDir: ./hmms/proto
-hmmList: ./context/mono/list
+outDir: ./protos
+hmmList: ./list
 
 <ENDsys_setup>
 
