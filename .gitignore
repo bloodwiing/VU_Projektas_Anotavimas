@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# HTK
+recout.mlf
+result.txt
+*.rec
+*.lat
+
+
+# HTKGraph
+
+.htkgraph_build.sh
+.htkgraph_build.bat
+.htkgraph_test.sh
+.htkgraph_test.bat
+.htkgraph_run.sh
+.htkgraph_run.bat
+.htkgraph_accuracy.txt
+.htkgraph_output.txt
+.htkgraph_history/
+.htkgraph_log.txt
+.htkgraph_preview.png
+.htkgraph_lock.json
